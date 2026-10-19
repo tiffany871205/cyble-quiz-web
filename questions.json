@@ -12,19 +12,20 @@
       "category": "平台定位",
       "section": "核心",
       "options": [
-        "單純的端點防毒軟體",
-        "只提供 DNS 解析服務",
-        "純粹的資產會計系統",
-        "整合網路威脅情資與數位風險防護的平台"
+        "表面網路、深層網路及暗網",
+        "整合網路威脅情資與數位風險防護的平台",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "偵測、驗證及處置／結案的威脅生命週期"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5130e9822ddc46c9",
@@ -36,10 +37,10 @@
       "category": "平台定位",
       "section": "客戶情境",
       "options": [
-        "只提供 DNS 解析服務",
-        "純粹的資產會計系統",
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "表面網路、深層網路及暗網",
         "整合網路威脅情資與數位風險防護的平台",
-        "單純的端點防毒軟體"
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
       ],
       "correct": 2,
       "explanation_source": "官網",
@@ -48,7 +49,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bf886e8fcffde1e7",
@@ -60,19 +62,20 @@
       "category": "平台定位",
       "section": "觀念複習",
       "options": [
-        "純粹的資產會計系統",
-        "整合網路威脅情資與數位風險防護的平台",
-        "單純的端點防毒軟體",
-        "只提供 DNS 解析服務"
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "表面網路、深層網路及暗網",
+        "整合網路威脅情資與數位風險防護的平台"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-dddf809e55423904",
@@ -84,19 +87,20 @@
       "category": "平台定位",
       "section": "核心",
       "options": [
-        "只監控 Wi-Fi 訊號",
-        "只監控內部程式碼版本",
         "表面網路、深層網路及暗網",
-        "僅企業內部區域網路"
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "整合網路威脅情資與數位風險防護的平台"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c591a03f91c7e720",
@@ -108,10 +112,10 @@
       "category": "平台定位",
       "section": "客戶情境",
       "options": [
-        "只監控內部程式碼版本",
+        "整合網路威脅情資與數位風險防護的平台",
         "表面網路、深層網路及暗網",
-        "僅企業內部區域網路",
-        "只監控 Wi-Fi 訊號"
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "偵測、驗證及處置／結案的威脅生命週期"
       ],
       "correct": 1,
       "explanation_source": "官網",
@@ -120,7 +124,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-769d99374c28b5ed",
@@ -132,19 +137,20 @@
       "category": "平台定位",
       "section": "觀念複習",
       "options": [
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "整合網路威脅情資與數位風險防護的平台",
         "表面網路、深層網路及暗網",
-        "僅企業內部區域網路",
-        "只監控 Wi-Fi 訊號",
-        "只監控內部程式碼版本"
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-2881d631b059fc1b",
@@ -156,19 +162,20 @@
       "category": "平台定位",
       "section": "核心",
       "options": [
-        "兩者都是資料庫引擎",
-        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
-        "兩者都是郵件伺服器",
-        "Vision 只做備份；Hawk 只做防毒"
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "整合網路威脅情資與數位風險防護的平台",
+        "表面網路、深層網路及暗網",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-15a5a151fb044761",
@@ -181,9 +188,9 @@
       "section": "客戶情境",
       "options": [
         "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
-        "兩者都是郵件伺服器",
-        "Vision 只做備份；Hawk 只做防毒",
-        "兩者都是資料庫引擎"
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "整合網路威脅情資與數位風險防護的平台",
+        "表面網路、深層網路及暗網"
       ],
       "correct": 0,
       "explanation_source": "官網",
@@ -192,7 +199,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-1175b0a42a344153",
@@ -204,19 +212,20 @@
       "category": "平台定位",
       "section": "觀念複習",
       "options": [
-        "兩者都是郵件伺服器",
-        "Vision 只做備份；Hawk 只做防毒",
-        "兩者都是資料庫引擎",
-        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
+        "表面網路、深層網路及暗網",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "整合網路威脅情資與數位風險防護的平台"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-25c3ef10d0469273",
@@ -228,19 +237,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "上傳或提交網址與檔案進行威脅檢測",
         "將威脅資訊轉化為可用於判斷與應對的情資",
-        "自動保證所有攻擊失敗",
-        "完全取代 SOC 人員",
-        "只統計員工出勤"
+        "特定威脅活動、攻擊計畫及可執行的營運判斷"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4b0569924c118db1",
@@ -252,9 +262,9 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "自動保證所有攻擊失敗",
-        "完全取代 SOC 人員",
-        "只統計員工出勤",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "上傳或提交網址與檔案進行威脅檢測",
         "將威脅資訊轉化為可用於判斷與應對的情資"
       ],
       "correct": 3,
@@ -264,7 +274,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-05594f2592e02b24",
@@ -276,19 +287,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "完全取代 SOC 人員",
-        "只統計員工出勤",
         "將威脅資訊轉化為可用於判斷與應對的情資",
-        "自動保證所有攻擊失敗"
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "上傳或提交網址與檔案進行威脅檢測"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bf12b6f3d7a87bea",
@@ -300,19 +312,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "資安預算的貨幣單位",
-        "企業的官方商標",
-        "網站 SSL 憑證發行機構",
-        "可能顯示系統遭入侵的指標"
+        "執行或參與威脅活動的行為者",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
+        "管理層長期風險與策略規劃"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6049252f7bc77be9",
@@ -324,10 +337,10 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "企業的官方商標",
-        "網站 SSL 憑證發行機構",
+        "管理層長期風險與策略規劃",
+        "執行或參與威脅活動的行為者",
         "可能顯示系統遭入侵的指標",
-        "資安預算的貨幣單位"
+        "攻擊者的戰術、技術與程序"
       ],
       "correct": 2,
       "explanation_source": "知識補充",
@@ -336,7 +349,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-46e2686919026dc9",
@@ -348,19 +362,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "網站 SSL 憑證發行機構",
-        "可能顯示系統遭入侵的指標",
-        "資安預算的貨幣單位",
-        "企業的官方商標"
+        "攻擊者的戰術、技術與程序",
+        "管理層長期風險與策略規劃",
+        "執行或參與威脅活動的行為者",
+        "可能顯示系統遭入侵的指標"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4dccf2e09d7b33a3",
@@ -372,19 +387,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "三種電郵加密格式",
-        "三種風險評級顏色",
         "攻擊者的戰術、技術與程序",
-        "DNS 的三種紀錄"
+        "可能顯示系統遭入侵的指標",
+        "管理層長期風險與策略規劃",
+        "執行或參與威脅活動的行為者"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "手冊與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7888fc2e0e14b8fa",
@@ -396,10 +412,10 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "三種風險評級顏色",
+        "執行或參與威脅活動的行為者",
         "攻擊者的戰術、技術與程序",
-        "DNS 的三種紀錄",
-        "三種電郵加密格式"
+        "可能顯示系統遭入侵的指標",
+        "管理層長期風險與策略規劃"
       ],
       "correct": 1,
       "explanation_source": "手冊與知識補充",
@@ -408,7 +424,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-1fbb1f1eac66f268",
@@ -420,19 +437,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
+        "管理層長期風險與策略規劃",
+        "執行或參與威脅活動的行為者",
         "攻擊者的戰術、技術與程序",
-        "DNS 的三種紀錄",
-        "三種電郵加密格式",
-        "三種風險評級顏色"
+        "可能顯示系統遭入侵的指標"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "手冊與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e9a9779df338ae89",
@@ -444,19 +462,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "鍵盤輸入法設定",
-        "管理層長期風險與策略規劃",
-        "單一封包的 CRC 計算",
-        "重設個人桌布"
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
+        "執行或參與威脅活動的行為者",
+        "管理層長期風險與策略規劃"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-0a8cc2295852a720",
@@ -469,9 +488,9 @@
       "section": "客戶情境",
       "options": [
         "管理層長期風險與策略規劃",
-        "單一封包的 CRC 計算",
-        "重設個人桌布",
-        "鍵盤輸入法設定"
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
+        "執行或參與威脅活動的行為者"
       ],
       "correct": 0,
       "explanation_source": "簡報",
@@ -480,7 +499,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7ff7c1b20741c574",
@@ -492,19 +512,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "單一封包的 CRC 計算",
-        "重設個人桌布",
-        "鍵盤輸入法設定",
-        "管理層長期風險與策略規劃"
+        "執行或參與威脅活動的行為者",
+        "管理層長期風險與策略規劃",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c20708543b75eb1e",
@@ -516,19 +537,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
         "攻擊手法與偵測防禦方法",
-        "年度薪資結構",
-        "辦公室家具採購",
-        "備份磁帶標籤"
+        "受勒索軟體攻擊的組織"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6f8e8c764dac7258",
@@ -540,9 +562,9 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "年度薪資結構",
-        "辦公室家具採購",
-        "備份磁帶標籤",
+        "受勒索軟體攻擊的組織",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
         "攻擊手法與偵測防禦方法"
       ],
       "correct": 3,
@@ -552,7 +574,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-290595c7f6ee939c",
@@ -564,19 +587,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "辦公室家具採購",
-        "備份磁帶標籤",
         "攻擊手法與偵測防禦方法",
-        "年度薪資結構"
+        "受勒索軟體攻擊的組織",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e886aaa73a93e419",
@@ -588,19 +612,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "只有公司財報",
-        "只有網站配色",
-        "只包含員工假勤",
-        "特定威脅活動、攻擊計畫及可執行的營運判斷"
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "執行或參與威脅活動的行為者",
+        "將威脅資訊轉化為可用於判斷與應對的情資"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "簡報與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5c1a3c4b061d1ecf",
@@ -612,10 +637,10 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "只有網站配色",
-        "只包含員工假勤",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "未確認資料敏感性就上傳客戶機密檔案",
         "特定威脅活動、攻擊計畫及可執行的營運判斷",
-        "只有公司財報"
+        "執行或參與威脅活動的行為者"
       ],
       "correct": 2,
       "explanation_source": "簡報與知識補充",
@@ -624,7 +649,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d6249236e0a61460",
@@ -636,19 +662,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "只包含員工假勤",
-        "特定威脅活動、攻擊計畫及可執行的營運判斷",
-        "只有公司財報",
-        "只有網站配色"
+        "執行或參與威脅活動的行為者",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "簡報與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-13590be4f5163593",
@@ -660,19 +687,20 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "防火牆的製造商",
-        "SSL 憑證的有效日期",
         "執行或參與威脅活動的行為者",
-        "任何網站的訪客"
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-dd8e5cf24e910c00",
@@ -684,10 +712,10 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "SSL 憑證的有效日期",
+        "攻擊者的戰術、技術與程序",
         "執行或參與威脅活動的行為者",
-        "任何網站的訪客",
-        "防火牆的製造商"
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "可能顯示系統遭入侵的指標"
       ],
       "correct": 1,
       "explanation_source": "知識補充",
@@ -696,7 +724,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e133cf70325d29b6",
@@ -708,19 +737,20 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
         "執行或參與威脅活動的行為者",
-        "任何網站的訪客",
-        "防火牆的製造商",
-        "SSL 憑證的有效日期"
+        "特定威脅活動、攻擊計畫及可執行的營運判斷"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5988a1adc8d90608",
@@ -732,19 +762,20 @@
       "category": "暗網監控",
       "section": "核心",
       "options": [
-        "把帳密貼到公開社群",
-        "確認真實性、影響帳號及暴露範圍",
-        "立即宣布企業所有資料外洩",
-        "忽略所有舊資料"
+        "不能，應判讀內容、來源及脈絡",
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "先確認來源、內容可信度及與企業的關聯",
+        "確認真實性、影響帳號及暴露範圍"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c61392810109ca8c",
@@ -757,9 +788,9 @@
       "section": "客戶情境",
       "options": [
         "確認真實性、影響帳號及暴露範圍",
-        "立即宣布企業所有資料外洩",
-        "忽略所有舊資料",
-        "把帳密貼到公開社群"
+        "不能，應判讀內容、來源及脈絡",
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "先確認來源、內容可信度及與企業的關聯"
       ],
       "correct": 0,
       "explanation_source": "官網與實務",
@@ -768,7 +799,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b1e98d833f0d214c",
@@ -780,19 +812,20 @@
       "category": "暗網監控",
       "section": "觀念複習",
       "options": [
-        "立即宣布企業所有資料外洩",
-        "忽略所有舊資料",
-        "把帳密貼到公開社群",
-        "確認真實性、影響帳號及暴露範圍"
+        "先確認來源、內容可信度及與企業的關聯",
+        "確認真實性、影響帳號及暴露範圍",
+        "不能，應判讀內容、來源及脈絡",
+        "資訊竊取型惡意軟體蒐集的紀錄"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5191ff47b023ff58",
@@ -804,19 +837,20 @@
       "category": "暗網監控",
       "section": "核心",
       "options": [
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站",
         "資訊竊取型惡意軟體蒐集的紀錄",
-        "合法的員工登入報表",
-        "網站流量的純統計圖",
-        "DNSSEC 金鑰清單"
+        "不能，應判讀內容、來源及脈絡"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-9562d3b448c9b656",
@@ -828,9 +862,9 @@
       "category": "暗網監控",
       "section": "客戶情境",
       "options": [
-        "合法的員工登入報表",
-        "網站流量的純統計圖",
-        "DNSSEC 金鑰清單",
+        "不能，應判讀內容、來源及脈絡",
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站",
         "資訊竊取型惡意軟體蒐集的紀錄"
       ],
       "correct": 3,
@@ -840,7 +874,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-050c9851cdf27459",
@@ -852,19 +887,20 @@
       "category": "暗網監控",
       "section": "觀念複習",
       "options": [
-        "網站流量的純統計圖",
-        "DNSSEC 金鑰清單",
         "資訊竊取型惡意軟體蒐集的紀錄",
-        "合法的員工登入報表"
+        "不能，應判讀內容、來源及脈絡",
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bb08d9a89dec4eb5",
@@ -876,19 +912,20 @@
       "category": "暗網監控",
       "section": "核心",
       "options": [
-        "僅公開公司首頁",
-        "僅辦公室印表機",
-        "僅本機藍牙裝置",
-        "地下論壇與勒索軟體洩漏站"
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站",
+        "不能，應判讀內容、來源及脈絡",
+        "資訊竊取型惡意軟體蒐集的紀錄"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c5bc55bc5eea2c8f",
@@ -900,10 +937,10 @@
       "category": "暗網監控",
       "section": "客戶情境",
       "options": [
-        "僅辦公室印表機",
-        "僅本機藍牙裝置",
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "確認真實性、影響帳號及暴露範圍",
         "地下論壇與勒索軟體洩漏站",
-        "僅公開公司首頁"
+        "不能，應判讀內容、來源及脈絡"
       ],
       "correct": 2,
       "explanation_source": "官網",
@@ -912,7 +949,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-cf528f472729c351",
@@ -924,19 +962,20 @@
       "category": "暗網監控",
       "section": "觀念複習",
       "options": [
-        "僅本機藍牙裝置",
-        "地下論壇與勒索軟體洩漏站",
-        "僅公開公司首頁",
-        "僅辦公室印表機"
+        "不能，應判讀內容、來源及脈絡",
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-1e35da6b380590d3",
@@ -948,19 +987,20 @@
       "category": "暗網監控",
       "section": "核心",
       "options": [
-        "可以，因為 Telegram 只用於犯罪",
-        "不能，因為 Telegram 永遠不會有情資",
         "不能，應判讀內容、來源及脈絡",
-        "可以，任何提及都是攻擊"
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-2ffa8844743602ca",
@@ -972,10 +1012,10 @@
       "category": "暗網監控",
       "section": "客戶情境",
       "options": [
-        "不能，因為 Telegram 永遠不會有情資",
+        "地下論壇與勒索軟體洩漏站",
         "不能，應判讀內容、來源及脈絡",
-        "可以，任何提及都是攻擊",
-        "可以，因為 Telegram 只用於犯罪"
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "確認真實性、影響帳號及暴露範圍"
       ],
       "correct": 1,
       "explanation_source": "官網與實務",
@@ -984,7 +1024,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c2bf935660406693",
@@ -996,19 +1037,20 @@
       "category": "暗網監控",
       "section": "觀念複習",
       "options": [
+        "確認真實性、影響帳號及暴露範圍",
+        "地下論壇與勒索軟體洩漏站",
         "不能，應判讀內容、來源及脈絡",
-        "可以，任何提及都是攻擊",
-        "可以，因為 Telegram 只用於犯罪",
-        "不能，因為 Telegram 永遠不會有情資"
+        "資訊竊取型惡意軟體蒐集的紀錄"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-064df61d1b2de936",
@@ -1020,19 +1062,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "實體辦公室照明",
-        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
-        "企業內部薪資核算",
-        "電腦 CPU 超頻"
+        "偽冒品牌的第三方行動應用程式",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-681ac809d12418fb",
@@ -1045,9 +1088,9 @@
       "section": "客戶情境",
       "options": [
         "偽冒品牌、釣魚及欺詐性網域等外部濫用",
-        "企業內部薪資核算",
-        "電腦 CPU 超頻",
-        "實體辦公室照明"
+        "偽冒品牌的第三方行動應用程式",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
       "correct": 0,
       "explanation_source": "官網",
@@ -1056,7 +1099,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5820cfcf052700ab",
@@ -1068,19 +1112,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "企業內部薪資核算",
-        "電腦 CPU 超頻",
-        "實體辦公室照明",
-        "偽冒品牌、釣魚及欺詐性網域等外部濫用"
+        "不能，監控清單的域名不一定已被確認惡意",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "偽冒品牌的第三方行動應用程式",
+        "偵測可能誘騙使用者交出敏感資料的網站"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-543d271ec5004b7a",
@@ -1092,19 +1137,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "需監控的 Domain",
+        "假冒企業的社群帳號與粉絲專頁",
         "外觀或拼字近似合法品牌的網域",
-        "公司主機的 MAC 位址",
-        "DNS 伺服器的主機板",
-        "已停用的作業系統"
+        "網域、社群媒體、App 與暗網的品牌濫用"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-aa3119e7668ab083",
@@ -1116,9 +1162,9 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "公司主機的 MAC 位址",
-        "DNS 伺服器的主機板",
-        "已停用的作業系統",
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "需監控的 Domain",
+        "假冒企業的社群帳號與粉絲專頁",
         "外觀或拼字近似合法品牌的網域"
       ],
       "correct": 3,
@@ -1128,7 +1174,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-891961ed130d2a6f",
@@ -1140,19 +1187,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "DNS 伺服器的主機板",
-        "已停用的作業系統",
         "外觀或拼字近似合法品牌的網域",
-        "公司主機的 MAC 位址"
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "需監控的 Domain",
+        "假冒企業的社群帳號與粉絲專頁"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-693632188602bc33",
@@ -1164,19 +1212,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "提高顯示器解析度",
-        "統計公司內部餐費",
-        "檢查實體門禁卡電量",
-        "偵測可能誘騙使用者交出敏感資料的網站"
+        "前者為註冊日期，後者為平台辨識日期",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e2dab5ff84f4c9b7",
@@ -1188,10 +1237,10 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "統計公司內部餐費",
-        "檢查實體門禁卡電量",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "前者為註冊日期，後者為平台辨識日期",
         "偵測可能誘騙使用者交出敏感資料的網站",
-        "提高顯示器解析度"
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用"
       ],
       "correct": 2,
       "explanation_source": "官網與簡報",
@@ -1200,7 +1249,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-21531a227f4f3a8f",
@@ -1212,19 +1262,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "檢查實體門禁卡電量",
-        "偵測可能誘騙使用者交出敏感資料的網站",
-        "提高顯示器解析度",
-        "統計公司內部餐費"
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "前者為註冊日期，後者為平台辨識日期",
+        "偵測可能誘騙使用者交出敏感資料的網站"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-2f1dd518ac3e6f3f",
@@ -1236,19 +1287,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "疑似網域一定是官方子網域",
-        "兩者只差字體顏色",
         "疑似網域是待研判線索，不代表已確認為釣魚",
-        "疑似網域必然已經成功詐騙"
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "簡報與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-717a330fd901f3ee",
@@ -1260,10 +1312,10 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "兩者只差字體顏色",
+        "不能，監控清單的域名不一定已被確認惡意",
         "疑似網域是待研判線索，不代表已確認為釣魚",
-        "疑似網域必然已經成功詐騙",
-        "疑似網域一定是官方子網域"
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "網域、社群媒體、App 與暗網的品牌濫用"
       ],
       "correct": 1,
       "explanation_source": "簡報與實務",
@@ -1272,7 +1324,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7ded5b58db5f7945",
@@ -1284,19 +1337,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "不能，監控清單的域名不一定已被確認惡意",
         "疑似網域是待研判線索，不代表已確認為釣魚",
-        "疑似網域必然已經成功詐騙",
-        "疑似網域一定是官方子網域",
-        "兩者只差字體顏色"
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "簡報與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-2f9c178ecffa5dec",
@@ -1308,19 +1362,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "實體門禁電池",
-        "偽冒品牌的第三方行動應用程式",
-        "公司筆電風扇轉速",
-        "辦公室空調溫度"
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "假冒企業的社群帳號與粉絲專頁",
+        "外觀或拼字近似合法品牌的網域",
+        "偽冒品牌的第三方行動應用程式"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-59bd8dc7d1eb537a",
@@ -1333,9 +1388,9 @@
       "section": "客戶情境",
       "options": [
         "偽冒品牌的第三方行動應用程式",
-        "公司筆電風扇轉速",
-        "辦公室空調溫度",
-        "實體門禁電池"
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "假冒企業的社群帳號與粉絲專頁",
+        "外觀或拼字近似合法品牌的網域"
       ],
       "correct": 0,
       "explanation_source": "官網與簡報",
@@ -1344,7 +1399,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-261ae053d6c57b3f",
@@ -1356,19 +1412,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "公司筆電風扇轉速",
-        "辦公室空調溫度",
-        "實體門禁電池",
-        "偽冒品牌的第三方行動應用程式"
+        "外觀或拼字近似合法品牌的網域",
+        "偽冒品牌的第三方行動應用程式",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "假冒企業的社群帳號與粉絲專頁"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-48a9f58e5b77ecd1",
@@ -1380,19 +1437,20 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "外觀或拼字近似合法品牌的網域",
+        "監控指定域名及其內容或狀態變更",
         "假冒企業的社群帳號與粉絲專頁",
-        "只有企業內部電子郵件",
-        "只偵測機房溫度",
-        "只監控員工打卡"
+        "偽冒品牌的第三方行動應用程式"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-16463ec64b5378b8",
@@ -1404,9 +1462,9 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "只有企業內部電子郵件",
-        "只偵測機房溫度",
-        "只監控員工打卡",
+        "偽冒品牌的第三方行動應用程式",
+        "外觀或拼字近似合法品牌的網域",
+        "監控指定域名及其內容或狀態變更",
         "假冒企業的社群帳號與粉絲專頁"
       ],
       "correct": 3,
@@ -1416,7 +1474,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-09ddd1594eb55ef8",
@@ -1428,19 +1487,20 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "只偵測機房溫度",
-        "只監控員工打卡",
         "假冒企業的社群帳號與粉絲專頁",
-        "只有企業內部電子郵件"
+        "偽冒品牌的第三方行動應用程式",
+        "外觀或拼字近似合法品牌的網域",
+        "監控指定域名及其內容或狀態變更"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "簡報",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-deb8590928dfdeab",
@@ -1452,19 +1512,20 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "自動刪除所有網路內容",
-        "保證永久移除所有截圖",
-        "直接封鎖全世界 DNS",
-        "協調平台、託管商或註冊商移除惡意內容"
+        "不是，偵測與下架是不同流程",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "Takedown Tracker",
+        "已被多處轉貼且缺乏有效申訴管道的內容"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d3cb51463194d210",
@@ -1476,10 +1537,10 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "保證永久移除所有截圖",
-        "直接封鎖全世界 DNS",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "不是，偵測與下架是不同流程",
         "協調平台、託管商或註冊商移除惡意內容",
-        "自動刪除所有網路內容"
+        "Takedown Tracker"
       ],
       "correct": 2,
       "explanation_source": "官網",
@@ -1488,7 +1549,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d5065a8fd07d84a3",
@@ -1500,19 +1562,20 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "直接封鎖全世界 DNS",
-        "協調平台、託管商或註冊商移除惡意內容",
-        "自動刪除所有網路內容",
-        "保證永久移除所有截圖"
+        "Takedown Tracker",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "不是，偵測與下架是不同流程",
+        "協調平台、託管商或註冊商移除惡意內容"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d206bf75a2df88c7",
@@ -1524,19 +1587,20 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "是，所有網站都能瞬間移除",
-        "不是，因為釣魚網站不能下架",
         "不是，偵測與下架是不同流程",
-        "是，兩者完全同義"
+        "驗證威脅真實性並排除誤報",
+        "客戶合約與實際服務條款",
+        "Takedown Tracker"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6e758dbcc5cb61cd",
@@ -1548,10 +1612,10 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "不是，因為釣魚網站不能下架",
+        "Takedown Tracker",
         "不是，偵測與下架是不同流程",
-        "是，兩者完全同義",
-        "是，所有網站都能瞬間移除"
+        "驗證威脅真實性並排除誤報",
+        "客戶合約與實際服務條款"
       ],
       "correct": 1,
       "explanation_source": "官網與實務",
@@ -1560,7 +1624,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8792da01d7f4a9a6",
@@ -1572,19 +1637,20 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
+        "客戶合約與實際服務條款",
+        "Takedown Tracker",
         "不是，偵測與下架是不同流程",
-        "是，兩者完全同義",
-        "是，所有網站都能瞬間移除",
-        "不是，因為釣魚網站不能下架"
+        "驗證威脅真實性並排除誤報"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-85cddceb418638cc",
@@ -1596,19 +1662,20 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "業務人員的口頭推測",
-        "客戶合約與實際服務條款",
-        "網路上任一成功案例",
-        "其他客戶的平均時間"
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "驗證威脅真實性並排除誤報",
+        "不是，偵測與下架是不同流程",
+        "客戶合約與實際服務條款"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "簡報與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bd708f7b17e4c803",
@@ -1621,9 +1688,9 @@
       "section": "客戶情境",
       "options": [
         "客戶合約與實際服務條款",
-        "網路上任一成功案例",
-        "其他客戶的平均時間",
-        "業務人員的口頭推測"
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "驗證威脅真實性並排除誤報",
+        "不是，偵測與下架是不同流程"
       ],
       "correct": 0,
       "explanation_source": "簡報與實務",
@@ -1632,7 +1699,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-40e226f22636f1ab",
@@ -1644,19 +1712,20 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "網路上任一成功案例",
-        "其他客戶的平均時間",
-        "業務人員的口頭推測",
-        "客戶合約與實際服務條款"
+        "不是，偵測與下架是不同流程",
+        "客戶合約與實際服務條款",
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "驗證威脅真實性並排除誤報"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "簡報與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b1d53db1aa93add4",
@@ -1668,19 +1737,20 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
+        "Takedown Tracker",
+        "不是，偵測與下架是不同流程",
         "已被多處轉貼且缺乏有效申訴管道的內容",
-        "受控的測試環境檔案",
-        "公司內部草稿",
-        "尚未公開的私人便條"
+        "協調平台、託管商或註冊商移除惡意內容"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-1ab27b4e54190c6e",
@@ -1692,9 +1762,9 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "受控的測試環境檔案",
-        "公司內部草稿",
-        "尚未公開的私人便條",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "Takedown Tracker",
+        "不是，偵測與下架是不同流程",
         "已被多處轉貼且缺乏有效申訴管道的內容"
       ],
       "correct": 3,
@@ -1704,7 +1774,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a2c0889024812bdb",
@@ -1716,19 +1787,20 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "公司內部草稿",
-        "尚未公開的私人便條",
         "已被多處轉貼且缺乏有效申訴管道的內容",
-        "受控的測試環境檔案"
+        "協調平台、託管商或註冊商移除惡意內容",
+        "Takedown Tracker",
+        "不是，偵測與下架是不同流程"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e077d9700da10f31",
@@ -1740,19 +1812,20 @@
       "category": "攻擊面管理",
       "section": "核心",
       "options": [
-        "只盤點辦公桌椅",
-        "只管理人事資料",
-        "只計算網站廣告費",
-        "識別與評估對外暴露的數位資產及風險"
+        "持續盤點網際網路暴露資產與影子 IT",
+        "識別與評估對外暴露的數位資產及風險",
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8f02e69b42cd047d",
@@ -1764,10 +1837,10 @@
       "category": "攻擊面管理",
       "section": "客戶情境",
       "options": [
-        "只管理人事資料",
-        "只計算網站廣告費",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "持續盤點網際網路暴露資產與影子 IT",
         "識別與評估對外暴露的數位資產及風險",
-        "只盤點辦公桌椅"
+        "不一定，需判斷服務、設定與暴露情境"
       ],
       "correct": 2,
       "explanation_source": "官網",
@@ -1776,7 +1849,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-61ec706f222e0a9d",
@@ -1788,19 +1862,20 @@
       "category": "攻擊面管理",
       "section": "觀念複習",
       "options": [
-        "只計算網站廣告費",
-        "識別與評估對外暴露的數位資產及風險",
-        "只盤點辦公桌椅",
-        "只管理人事資料"
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "持續盤點網際網路暴露資產與影子 IT",
+        "識別與評估對外暴露的數位資產及風險"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-14e5b8024d208651",
@@ -1812,19 +1887,20 @@
       "category": "攻擊面管理",
       "section": "核心",
       "options": [
-        "企業合法的機房備援",
-        "只存在於暗網的伺服器",
         "未受正式 IT 管理或掌握的技術與服務",
-        "任何暗色主題的應用"
+        "持續盤點網際網路暴露資產與影子 IT",
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "簡報與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-533ffbd373f54307",
@@ -1836,10 +1912,10 @@
       "category": "攻擊面管理",
       "section": "客戶情境",
       "options": [
-        "只存在於暗網的伺服器",
+        "依嚴重度及實際可利用性排序曝險發現",
         "未受正式 IT 管理或掌握的技術與服務",
-        "任何暗色主題的應用",
-        "企業合法的機房備援"
+        "持續盤點網際網路暴露資產與影子 IT",
+        "不一定，需判斷服務、設定與暴露情境"
       ],
       "correct": 1,
       "explanation_source": "簡報與知識補充",
@@ -1848,7 +1924,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-81ea865f250a2564",
@@ -1860,19 +1937,20 @@
       "category": "攻擊面管理",
       "section": "觀念複習",
       "options": [
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現",
         "未受正式 IT 管理或掌握的技術與服務",
-        "任何暗色主題的應用",
-        "企業合法的機房備援",
-        "只存在於暗網的伺服器"
+        "持續盤點網際網路暴露資產與影子 IT"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "簡報與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-cc6707dbaad2688a",
@@ -1884,19 +1962,20 @@
       "category": "攻擊面管理",
       "section": "核心",
       "options": [
-        "忽略所有 DNS 紀錄",
-        "確認歸屬、用途、暴露服務與風險",
-        "立即刪除公司主網域",
-        "一律視為外部駭客資產"
+        "檢視已識別資產的弱點與錯誤設定",
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "確認歸屬、用途、暴露服務與風險"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-cb907c0bac6d2392",
@@ -1909,9 +1988,9 @@
       "section": "客戶情境",
       "options": [
         "確認歸屬、用途、暴露服務與風險",
-        "立即刪除公司主網域",
-        "一律視為外部駭客資產",
-        "忽略所有 DNS 紀錄"
+        "檢視已識別資產的弱點與錯誤設定",
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現"
       ],
       "correct": 0,
       "explanation_source": "官網與實務",
@@ -1920,7 +1999,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b3168011d3c274b0",
@@ -1932,19 +2012,20 @@
       "category": "攻擊面管理",
       "section": "觀念複習",
       "options": [
-        "立即刪除公司主網域",
-        "一律視為外部駭客資產",
-        "忽略所有 DNS 紀錄",
-        "確認歸屬、用途、暴露服務與風險"
+        "依嚴重度及實際可利用性排序曝險發現",
+        "確認歸屬、用途、暴露服務與風險",
+        "檢視已識別資產的弱點與錯誤設定",
+        "不一定，需判斷服務、設定與暴露情境"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8407426b85bc2506",
@@ -1956,19 +2037,20 @@
       "category": "攻擊面管理",
       "section": "核心",
       "options": [
+        "依嚴重度及實際可利用性排序曝險發現",
+        "識別與評估對外暴露的數位資產及風險",
         "不一定，需判斷服務、設定與暴露情境",
-        "一定，任何開放埠都必須關閉",
-        "一定，因為 TCP 不能公開",
-        "不一定，因為埠與資安無關"
+        "未受正式 IT 管理或掌握的技術與服務"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d66f61b6099be962",
@@ -1980,9 +2062,9 @@
       "category": "攻擊面管理",
       "section": "客戶情境",
       "options": [
-        "一定，任何開放埠都必須關閉",
-        "一定，因為 TCP 不能公開",
-        "不一定，因為埠與資安無關",
+        "未受正式 IT 管理或掌握的技術與服務",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "識別與評估對外暴露的數位資產及風險",
         "不一定，需判斷服務、設定與暴露情境"
       ],
       "correct": 3,
@@ -1992,7 +2074,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-13ab94e502f7bcda",
@@ -2004,19 +2087,20 @@
       "category": "攻擊面管理",
       "section": "觀念複習",
       "options": [
-        "一定，因為 TCP 不能公開",
-        "不一定，因為埠與資安無關",
         "不一定，需判斷服務、設定與暴露情境",
-        "一定，任何開放埠都必須關閉"
+        "未受正式 IT 管理或掌握的技術與服務",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "識別與評估對外暴露的數位資產及風險"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-94a592622f992448",
@@ -2028,19 +2112,20 @@
       "category": "漏洞情資",
       "section": "核心",
       "options": [
-        "企業內部帳號密碼",
-        "網域名稱的國碼",
-        "電子郵件的寄件人",
-        "公開揭露漏洞的識別編號"
+        "漏洞在一定時間窗內被實際利用的機率",
+        "公開揭露漏洞的識別編號",
+        "列出已知遭實際利用的漏洞",
+        "漏洞嚴重度評分框架"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bcd8a7f27dff0573",
@@ -2052,10 +2137,10 @@
       "category": "漏洞情資",
       "section": "客戶情境",
       "options": [
-        "網域名稱的國碼",
-        "電子郵件的寄件人",
+        "漏洞嚴重度評分框架",
+        "漏洞在一定時間窗內被實際利用的機率",
         "公開揭露漏洞的識別編號",
-        "企業內部帳號密碼"
+        "列出已知遭實際利用的漏洞"
       ],
       "correct": 2,
       "explanation_source": "知識補充",
@@ -2064,7 +2149,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6e75f950d1072450",
@@ -2076,19 +2162,20 @@
       "category": "漏洞情資",
       "section": "觀念複習",
       "options": [
-        "電子郵件的寄件人",
-        "公開揭露漏洞的識別編號",
-        "企業內部帳號密碼",
-        "網域名稱的國碼"
+        "列出已知遭實際利用的漏洞",
+        "漏洞嚴重度評分框架",
+        "漏洞在一定時間窗內被實際利用的機率",
+        "公開揭露漏洞的識別編號"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-76cf1a792050c117",
@@ -2100,19 +2187,20 @@
       "category": "漏洞情資",
       "section": "核心",
       "options": [
-        "下架保證天數",
-        "員工受訓完成率",
         "漏洞嚴重度評分框架",
-        "攻擊者的真實身分"
+        "公開揭露漏洞的識別編號",
+        "列出已知遭實際利用的漏洞",
+        "漏洞在一定時間窗內被實際利用的機率"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-f98e60df81072a0f",
@@ -2124,10 +2212,10 @@
       "category": "漏洞情資",
       "section": "客戶情境",
       "options": [
-        "員工受訓完成率",
+        "漏洞在一定時間窗內被實際利用的機率",
         "漏洞嚴重度評分框架",
-        "攻擊者的真實身分",
-        "下架保證天數"
+        "公開揭露漏洞的識別編號",
+        "列出已知遭實際利用的漏洞"
       ],
       "correct": 1,
       "explanation_source": "知識補充",
@@ -2136,7 +2224,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6a39b922b669cda0",
@@ -2148,19 +2237,20 @@
       "category": "漏洞情資",
       "section": "觀念複習",
       "options": [
+        "列出已知遭實際利用的漏洞",
+        "漏洞在一定時間窗內被實際利用的機率",
         "漏洞嚴重度評分框架",
-        "攻擊者的真實身分",
-        "下架保證天數",
-        "員工受訓完成率"
+        "公開揭露漏洞的識別編號"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-045ef8af091772d9",
@@ -2172,19 +2262,20 @@
       "category": "漏洞情資",
       "section": "核心",
       "options": [
-        "員工上網時數",
-        "漏洞在一定時間窗內被實際利用的機率",
-        "網站年營收",
-        "密碼雜湊長度"
+        "不是，情資協助優先排序；修補需另行執行與驗證",
+        "列出已知遭實際利用的漏洞",
+        "公開揭露漏洞的識別編號",
+        "漏洞在一定時間窗內被實際利用的機率"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-892e0adb28c1fb66",
@@ -2197,9 +2288,9 @@
       "section": "客戶情境",
       "options": [
         "漏洞在一定時間窗內被實際利用的機率",
-        "網站年營收",
-        "密碼雜湊長度",
-        "員工上網時數"
+        "不是，情資協助優先排序；修補需另行執行與驗證",
+        "列出已知遭實際利用的漏洞",
+        "公開揭露漏洞的識別編號"
       ],
       "correct": 0,
       "explanation_source": "知識補充",
@@ -2208,7 +2299,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-79e90c5c32911350",
@@ -2220,19 +2312,20 @@
       "category": "漏洞情資",
       "section": "觀念複習",
       "options": [
-        "網站年營收",
-        "密碼雜湊長度",
-        "員工上網時數",
-        "漏洞在一定時間窗內被實際利用的機率"
+        "公開揭露漏洞的識別編號",
+        "漏洞在一定時間窗內被實際利用的機率",
+        "不是，情資協助優先排序；修補需另行執行與驗證",
+        "列出已知遭實際利用的漏洞"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e9346c78cf16b805",
@@ -2244,19 +2337,20 @@
       "category": "漏洞情資",
       "section": "核心",
       "options": [
+        "漏洞嚴重度評分框架",
+        "漏洞在一定時間窗內被實際利用的機率",
         "列出已知遭實際利用的漏洞",
-        "列出所有尚未公開的漏洞",
-        "列出所有企業的資安分數",
-        "列出合法域名註冊商"
+        "公開揭露漏洞的識別編號"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-33938e48e075ab4f",
@@ -2268,9 +2362,9 @@
       "category": "漏洞情資",
       "section": "客戶情境",
       "options": [
-        "列出所有尚未公開的漏洞",
-        "列出所有企業的資安分數",
-        "列出合法域名註冊商",
+        "公開揭露漏洞的識別編號",
+        "漏洞嚴重度評分框架",
+        "漏洞在一定時間窗內被實際利用的機率",
         "列出已知遭實際利用的漏洞"
       ],
       "correct": 3,
@@ -2280,7 +2374,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-f3848b7144b21caa",
@@ -2292,19 +2387,20 @@
       "category": "漏洞情資",
       "section": "觀念複習",
       "options": [
-        "列出所有企業的資安分數",
-        "列出合法域名註冊商",
         "列出已知遭實際利用的漏洞",
-        "列出所有尚未公開的漏洞"
+        "公開揭露漏洞的識別編號",
+        "漏洞嚴重度評分框架",
+        "漏洞在一定時間窗內被實際利用的機率"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/data-sheets/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-eec2363256c86786",
@@ -2316,19 +2412,20 @@
       "category": "第三方風險",
       "section": "核心",
       "options": [
-        "自動簽署所有採購合約",
-        "保證供應商不會遭攻擊",
-        "替供應商支付保費",
-        "掌握供應商外部暴露與可能影響"
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "掌握供應商外部暴露與可能影響",
+        "核實事件與本企業的資料、服務關聯",
+        "入侵過程的驗證與第三方外洩影響分析"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-3bfed4f48e23afff",
@@ -2340,10 +2437,10 @@
       "category": "第三方風險",
       "section": "客戶情境",
       "options": [
-        "保證供應商不會遭攻擊",
-        "替供應商支付保費",
+        "入侵過程的驗證與第三方外洩影響分析",
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
         "掌握供應商外部暴露與可能影響",
-        "自動簽署所有採購合約"
+        "核實事件與本企業的資料、服務關聯"
       ],
       "correct": 2,
       "explanation_source": "官網",
@@ -2352,7 +2449,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c35c82fadb20cafd",
@@ -2364,19 +2462,20 @@
       "category": "第三方風險",
       "section": "觀念複習",
       "options": [
-        "替供應商支付保費",
-        "掌握供應商外部暴露與可能影響",
-        "自動簽署所有採購合約",
-        "保證供應商不會遭攻擊"
+        "核實事件與本企業的資料、服務關聯",
+        "入侵過程的驗證與第三方外洩影響分析",
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "掌握供應商外部暴露與可能影響"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-9281c9b088aa5214",
@@ -2388,19 +2487,20 @@
       "category": "第三方風險",
       "section": "核心",
       "options": [
-        "不問情況直接公開客戶名單",
-        "直接刪除所有供應商帳號",
         "核實事件與本企業的資料、服務關聯",
-        "立刻斷言所有供應商皆不安全"
+        "入侵過程的驗證與第三方外洩影響分析",
+        "掌握供應商外部暴露與可能影響",
+        "Takedown Tracker"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-38caa1a055366be8",
@@ -2412,10 +2512,10 @@
       "category": "第三方風險",
       "section": "客戶情境",
       "options": [
-        "直接刪除所有供應商帳號",
+        "Takedown Tracker",
         "核實事件與本企業的資料、服務關聯",
-        "立刻斷言所有供應商皆不安全",
-        "不問情況直接公開客戶名單"
+        "入侵過程的驗證與第三方外洩影響分析",
+        "掌握供應商外部暴露與可能影響"
       ],
       "correct": 1,
       "explanation_source": "官網與實務",
@@ -2424,7 +2524,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7053178e664de24b",
@@ -2436,19 +2537,20 @@
       "category": "第三方風險",
       "section": "觀念複習",
       "options": [
+        "掌握供應商外部暴露與可能影響",
+        "Takedown Tracker",
         "核實事件與本企業的資料、服務關聯",
-        "立刻斷言所有供應商皆不安全",
-        "不問情況直接公開客戶名單",
-        "直接刪除所有供應商帳號"
+        "入侵過程的驗證與第三方外洩影響分析"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-88440453fcc0039b",
@@ -2460,14 +2562,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "直接執行系統還原",
-        "管理監控關鍵字及其對應服務",
-        "安裝本機顯示卡",
-        "建立員工薪資表"
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定",
+        "管理監控關鍵字及其對應服務"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "操作手冊 p.11–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-327af10f8cfda173",
@@ -2480,13 +2583,14 @@
       "section": "客戶情境",
       "options": [
         "管理監控關鍵字及其對應服務",
-        "安裝本機顯示卡",
-        "建立員工薪資表",
-        "直接執行系統還原"
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定"
       ],
       "correct": 0,
       "explanation_source": "操作手冊 p.11–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-34303373c4f6f69d",
@@ -2498,14 +2602,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "安裝本機顯示卡",
-        "建立員工薪資表",
-        "直接執行系統還原",
-        "管理監控關鍵字及其對應服務"
+        "管理個人檔案與帳號安全設定",
+        "管理監控關鍵字及其對應服務",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "操作手冊 p.11–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-f0cfdb154e4bd327",
@@ -2517,14 +2622,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務",
         "將關鍵字分組管理",
-        "自動封鎖所有 IP",
-        "替代 SSL 憑證",
-        "儲存使用者密碼明文"
+        "其下關鍵字也會一併刪除"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "操作手冊 p.12–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b18537ad09e52cc1",
@@ -2536,14 +2642,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "自動封鎖所有 IP",
-        "替代 SSL 憑證",
-        "儲存使用者密碼明文",
+        "其下關鍵字也會一併刪除",
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務",
         "將關鍵字分組管理"
       ],
       "correct": 3,
       "explanation_source": "操作手冊 p.12–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-225d8b09ce924df1",
@@ -2555,14 +2662,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "替代 SSL 憑證",
-        "儲存使用者密碼明文",
         "將關鍵字分組管理",
-        "自動封鎖所有 IP"
+        "其下關鍵字也會一併刪除",
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "操作手冊 p.12–25",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5a8055df0ea696e7",
@@ -2574,14 +2682,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "直接下架全球網站",
-        "修改企業註冊地址",
-        "產生防火牆硬體",
-        "透過 CSV 批次匯入關鍵字"
+        "管理個人檔案與帳號安全設定",
+        "透過 CSV 批次匯入關鍵字",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "操作手冊 p.14",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-44a12e4bbd85f798",
@@ -2593,14 +2702,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "修改企業註冊地址",
-        "產生防火牆硬體",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定",
         "透過 CSV 批次匯入關鍵字",
-        "直接下架全球網站"
+        "指定該關鍵字啟用的監控服務"
       ],
       "correct": 2,
       "explanation_source": "操作手冊 p.14",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-57cfbbc14300b3c7",
@@ -2612,14 +2722,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "產生防火牆硬體",
-        "透過 CSV 批次匯入關鍵字",
-        "直接下架全球網站",
-        "修改企業註冊地址"
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定",
+        "透過 CSV 批次匯入關鍵字"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "操作手冊 p.14",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-13bafdaa9e529f3e",
@@ -2631,14 +2742,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "將所有警示判為誤報",
-        "直接建立銀行帳戶",
         "查看與指定關鍵字相關的警示",
-        "立即刪除該關鍵字"
+        "指定該關鍵字啟用的監控服務",
+        "管理個人檔案與帳號安全設定",
+        "管理監控關鍵字及其對應服務"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-faf7844a7ac38cd6",
@@ -2650,14 +2762,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "直接建立銀行帳戶",
+        "管理監控關鍵字及其對應服務",
         "查看與指定關鍵字相關的警示",
-        "立即刪除該關鍵字",
-        "將所有警示判為誤報"
+        "指定該關鍵字啟用的監控服務",
+        "管理個人檔案與帳號安全設定"
       ],
       "correct": 1,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-34c93c180a43eda1",
@@ -2669,14 +2782,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
+        "管理個人檔案與帳號安全設定",
+        "管理監控關鍵字及其對應服務",
         "查看與指定關鍵字相關的警示",
-        "立即刪除該關鍵字",
-        "將所有警示判為誤報",
-        "直接建立銀行帳戶"
+        "指定該關鍵字啟用的監控服務"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a59632fd4441b20e",
@@ -2688,14 +2802,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "不會影響任何資料",
-        "其下關鍵字也會一併刪除",
-        "所有警示會自動升級",
-        "所有網域都會失效"
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "其下關鍵字也會一併刪除"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "操作手冊 p.24–26",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7c8a376267cf5d86",
@@ -2708,13 +2823,14 @@
       "section": "客戶情境",
       "options": [
         "其下關鍵字也會一併刪除",
-        "所有警示會自動升級",
-        "所有網域都會失效",
-        "不會影響任何資料"
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示"
       ],
       "correct": 0,
       "explanation_source": "操作手冊 p.24–26",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-53e284d849c1a59f",
@@ -2726,14 +2842,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "所有警示會自動升級",
-        "所有網域都會失效",
-        "不會影響任何資料",
-        "其下關鍵字也會一併刪除"
+        "查看與指定關鍵字相關的警示",
+        "其下關鍵字也會一併刪除",
+        "登入時的第二項驗證因素",
+        "指定該關鍵字啟用的監控服務"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "操作手冊 p.24–26",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-35bc4b5cb8be12f4",
@@ -2745,14 +2862,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定",
         "指定該關鍵字啟用的監控服務",
-        "使用者的作業系統",
-        "網頁字體",
-        "外部供應商的信用卡"
+        "關鍵字定義監控條件，警示頁面呈現相關命中"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "操作手冊 p.12",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-317cb9542e5351bf",
@@ -2764,14 +2882,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "使用者的作業系統",
-        "網頁字體",
-        "外部供應商的信用卡",
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定",
         "指定該關鍵字啟用的監控服務"
       ],
       "correct": 3,
       "explanation_source": "操作手冊 p.12",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-817755879702a0b4",
@@ -2783,14 +2902,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "網頁字體",
-        "外部供應商的信用卡",
         "指定該關鍵字啟用的監控服務",
-        "使用者的作業系統"
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "查看與指定關鍵字相關的警示",
+        "管理個人檔案與帳號安全設定"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "操作手冊 p.12",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ee7646e406f88374",
@@ -2802,14 +2922,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "網頁載入速度",
-        "關鍵字數量",
-        "下架成功率保證",
-        "登入時的第二項驗證因素"
+        "查看與指定關鍵字相關的警示",
+        "登入時的第二項驗證因素",
+        "其下關鍵字也會一併刪除",
+        "指定該關鍵字啟用的監控服務"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "操作手冊 p.9–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-df7a65007a21bf96",
@@ -2821,14 +2942,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "關鍵字數量",
-        "下架成功率保證",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
         "登入時的第二項驗證因素",
-        "網頁載入速度"
+        "其下關鍵字也會一併刪除"
       ],
       "correct": 2,
       "explanation_source": "操作手冊 p.9–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6811d9cafa27c9c6",
@@ -2840,14 +2962,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "下架成功率保證",
-        "登入時的第二項驗證因素",
-        "網頁載入速度",
-        "關鍵字數量"
+        "其下關鍵字也會一併刪除",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "登入時的第二項驗證因素"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "操作手冊 p.9–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-47fdfc8c787c0216",
@@ -2859,14 +2982,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "刪除所有客戶資料",
-        "下載全部暗網資料",
         "管理個人檔案與帳號安全設定",
-        "搜尋全球所有漏洞"
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
+        "管理監控關鍵字及其對應服務"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "操作手冊 p.4–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-59aca42ceab105db",
@@ -2878,14 +3002,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "下載全部暗網資料",
+        "管理監控關鍵字及其對應服務",
         "管理個人檔案與帳號安全設定",
-        "搜尋全球所有漏洞",
-        "刪除所有客戶資料"
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示"
       ],
       "correct": 1,
       "explanation_source": "操作手冊 p.4–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-10009da274491043",
@@ -2897,14 +3022,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
+        "查看與指定關鍵字相關的警示",
+        "管理監控關鍵字及其對應服務",
         "管理個人檔案與帳號安全設定",
-        "搜尋全球所有漏洞",
-        "刪除所有客戶資料",
-        "下載全部暗網資料"
+        "指定該關鍵字啟用的監控服務"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "操作手冊 p.4–10",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e048a9a440616334",
@@ -2916,14 +3042,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "警示管理只能修改帳號照片",
-        "關鍵字定義監控條件，警示頁面呈現相關命中",
-        "兩者都是密碼管理器",
-        "關鍵字管理只能顯示圖片"
+        "指定該關鍵字啟用的監控服務",
+        "案件詳情、處理時間、下架結果與必要截圖",
+        "避免將真正惡意的偽冒站排除於監控或處理",
+        "關鍵字定義監控條件，警示頁面呈現相關命中"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d2989a2fb7f4aa84",
@@ -2936,13 +3063,14 @@
       "section": "客戶情境",
       "options": [
         "關鍵字定義監控條件，警示頁面呈現相關命中",
-        "兩者都是密碼管理器",
-        "關鍵字管理只能顯示圖片",
-        "警示管理只能修改帳號照片"
+        "指定該關鍵字啟用的監控服務",
+        "案件詳情、處理時間、下架結果與必要截圖",
+        "避免將真正惡意的偽冒站排除於監控或處理"
       ],
       "correct": 0,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-3f5ad8f9ce6a0c01",
@@ -2954,14 +3082,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
-        "兩者都是密碼管理器",
-        "關鍵字管理只能顯示圖片",
-        "警示管理只能修改帳號照片",
-        "關鍵字定義監控條件，警示頁面呈現相關命中"
+        "避免將真正惡意的偽冒站排除於監控或處理",
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "指定該關鍵字啟用的監控服務",
+        "案件詳情、處理時間、下架結果與必要截圖"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "操作手冊 p.18–19",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b26e56eda68ebedd",
@@ -2973,19 +3102,20 @@
       "category": "整合與應用",
       "section": "核心",
       "options": [
+        "授權模組、實際版本、監控範圍與服務條款",
+        "標準化表達與交換威脅情資",
         "讓外部威脅脈絡支援內部偵測與調查",
-        "自動取代所有網路設備",
-        "保證 SOC 不會再有誤報",
-        "將 SIEM 變成檔案伺服器"
+        "可信度、資產關聯、可利用性及業務衝擊"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7096b5b1376ebac1",
@@ -2997,9 +3127,9 @@
       "category": "整合與應用",
       "section": "客戶情境",
       "options": [
-        "自動取代所有網路設備",
-        "保證 SOC 不會再有誤報",
-        "將 SIEM 變成檔案伺服器",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "授權模組、實際版本、監控範圍與服務條款",
+        "標準化表達與交換威脅情資",
         "讓外部威脅脈絡支援內部偵測與調查"
       ],
       "correct": 3,
@@ -3009,7 +3139,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c9124bbecc1a6b4a",
@@ -3021,19 +3152,20 @@
       "category": "整合與應用",
       "section": "觀念複習",
       "options": [
-        "保證 SOC 不會再有誤報",
-        "將 SIEM 變成檔案伺服器",
         "讓外部威脅脈絡支援內部偵測與調查",
-        "自動取代所有網路設備"
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "授權模組、實際版本、監控範圍與服務條款",
+        "標準化表達與交換威脅情資"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-18c6f251502d9aac",
@@ -3045,19 +3177,20 @@
       "category": "整合與應用",
       "section": "核心",
       "options": [
-        "管理實體門禁卡",
-        "產生企業 Logo",
-        "壓縮網站圖片",
-        "標準化表達與交換威脅情資"
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "標準化表達與交換威脅情資",
+        "REST API 與 STIX/TAXII",
+        "讓外部威脅脈絡支援內部偵測與調查"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-26b5c431928cde51",
@@ -3069,10 +3202,10 @@
       "category": "整合與應用",
       "section": "客戶情境",
       "options": [
-        "產生企業 Logo",
-        "壓縮網站圖片",
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "可信度、資產關聯、可利用性及業務衝擊",
         "標準化表達與交換威脅情資",
-        "管理實體門禁卡"
+        "REST API 與 STIX/TAXII"
       ],
       "correct": 2,
       "explanation_source": "官網與知識補充",
@@ -3081,7 +3214,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a7dc9cb8155b26c0",
@@ -3093,19 +3227,20 @@
       "category": "整合與應用",
       "section": "觀念複習",
       "options": [
-        "壓縮網站圖片",
-        "標準化表達與交換威脅情資",
-        "管理實體門禁卡",
-        "產生企業 Logo"
+        "REST API 與 STIX/TAXII",
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "標準化表達與交換威脅情資"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與知識補充",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-fce010932c763ba2",
@@ -3117,19 +3252,20 @@
       "category": "整合與應用",
       "section": "核心",
       "options": [
-        "只按英文字母順序",
-        "只按畫面顏色",
         "可信度、資產關聯、可利用性及業務衝擊",
-        "只按警示字數"
+        "授權模組、實際版本、監控範圍與服務條款",
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "REST API 與 STIX/TAXII"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-47dc7fe6b6914a78",
@@ -3141,10 +3277,10 @@
       "category": "整合與應用",
       "section": "客戶情境",
       "options": [
-        "只按畫面顏色",
+        "REST API 與 STIX/TAXII",
         "可信度、資產關聯、可利用性及業務衝擊",
-        "只按警示字數",
-        "只按英文字母順序"
+        "授權模組、實際版本、監控範圍與服務條款",
+        "讓外部威脅脈絡支援內部偵測與調查"
       ],
       "correct": 1,
       "explanation_source": "官網與實務",
@@ -3153,7 +3289,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8e42e6ed208516b4",
@@ -3165,19 +3302,20 @@
       "category": "整合與應用",
       "section": "觀念複習",
       "options": [
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "REST API 與 STIX/TAXII",
         "可信度、資產關聯、可利用性及業務衝擊",
-        "只按警示字數",
-        "只按英文字母順序",
-        "只按畫面顏色"
+        "授權模組、實際版本、監控範圍與服務條款"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b9d4d7285bc97df9",
@@ -3189,19 +3327,20 @@
       "category": "整合與應用",
       "section": "核心",
       "options": [
-        "只看新聞稿發布日期",
-        "授權模組、實際版本、監控範圍與服務條款",
-        "只看產品 Logo 顏色",
-        "只看別家客戶使用人數"
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "REST API 與 STIX/TAXII",
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "授權模組、實際版本、監控範圍與服務條款"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-841ee0bbf851a936",
@@ -3214,9 +3353,9 @@
       "section": "客戶情境",
       "options": [
         "授權模組、實際版本、監控範圍與服務條款",
-        "只看產品 Logo 顏色",
-        "只看別家客戶使用人數",
-        "只看新聞稿發布日期"
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "REST API 與 STIX/TAXII",
+        "讓外部威脅脈絡支援內部偵測與調查"
       ],
       "correct": 0,
       "explanation_source": "官網與實務",
@@ -3225,7 +3364,8 @@
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-76455998b3e303b8",
@@ -3237,19 +3377,20 @@
       "category": "整合與應用",
       "section": "觀念複習",
       "options": [
-        "只看產品 Logo 顏色",
-        "只看別家客戶使用人數",
-        "只看新聞稿發布日期",
-        "授權模組、實際版本、監控範圍與服務條款"
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "授權模組、實際版本、監控範圍與服務條款",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "REST API 與 STIX/TAXII"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4fa4316edb88bce0",
@@ -3261,14 +3402,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "已使用次數與可使用次數",
+        "需監控的 Domain",
         "已立案但尚未受理的案件",
-        "已確認永久下架",
-        "已刪除的白名單",
-        "全部案件已結案"
+        "目前正在進行下架的案件"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5e34024ed8ce14c7",
@@ -3280,14 +3422,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "已確認永久下架",
-        "已刪除的白名單",
-        "全部案件已結案",
+        "目前正在進行下架的案件",
+        "已使用次數與可使用次數",
+        "需監控的 Domain",
         "已立案但尚未受理的案件"
       ],
       "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-47df8e01c13d9ef9",
@@ -3299,14 +3442,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "已刪除的白名單",
-        "全部案件已結案",
         "已立案但尚未受理的案件",
-        "已確認永久下架"
+        "目前正在進行下架的案件",
+        "已使用次數與可使用次數",
+        "需監控的 Domain"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d44085ee5f9c2ff3",
@@ -3318,14 +3462,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "已完成的案件",
-        "從未送出的草稿",
-        "已排除的誤報",
-        "目前正在進行下架的案件"
+        "需監控的 Domain",
+        "目前正在進行下架的案件",
+        "已立案但尚未受理的案件",
+        "已使用次數與可使用次數"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e89d003507a20b6f",
@@ -3337,14 +3482,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "從未送出的草稿",
-        "已排除的誤報",
+        "已使用次數與可使用次數",
+        "需監控的 Domain",
         "目前正在進行下架的案件",
-        "已完成的案件"
+        "已立案但尚未受理的案件"
       ],
       "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-00aa262a6eaf9bc7",
@@ -3356,14 +3502,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "已排除的誤報",
-        "目前正在進行下架的案件",
-        "已完成的案件",
-        "從未送出的草稿"
+        "已立案但尚未受理的案件",
+        "已使用次數與可使用次數",
+        "需監控的 Domain",
+        "目前正在進行下架的案件"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-1f3caddc49670272",
@@ -3375,14 +3522,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "無法查詢案件紀錄",
-        "關鍵字已被刪除",
         "案件已結案，仍應查看詳細狀態與結果",
-        "所有網站永久消失"
+        "前者為註冊日期，後者為平台辨識日期",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-f54d5978ecdb4941",
@@ -3394,14 +3542,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "關鍵字已被刪除",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
         "案件已結案，仍應查看詳細狀態與結果",
-        "所有網站永久消失",
-        "無法查詢案件紀錄"
+        "前者為註冊日期，後者為平台辨識日期",
+        "偵測可能誘騙使用者交出敏感資料的網站"
       ],
       "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-142b9935e4b7dd4c",
@@ -3413,14 +3562,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
         "案件已結案，仍應查看詳細狀態與結果",
-        "所有網站永久消失",
-        "無法查詢案件紀錄",
-        "關鍵字已被刪除"
+        "前者為註冊日期，後者為平台辨識日期"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c2b5d5c6a8d66bb0",
@@ -3432,14 +3582,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "偵測到的 IP 數量",
-        "已使用次數與可使用次數",
-        "所有客戶的資安評分",
-        "網站存活天數"
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件",
+        "需監控的 Domain",
+        "已使用次數與可使用次數"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-65451b9180ab4d60",
@@ -3452,13 +3603,14 @@
       "section": "客戶情境",
       "options": [
         "已使用次數與可使用次數",
-        "所有客戶的資安評分",
-        "網站存活天數",
-        "偵測到的 IP 數量"
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件",
+        "需監控的 Domain"
       ],
       "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-53c5988c1514ca32",
@@ -3470,14 +3622,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "所有客戶的資安評分",
-        "網站存活天數",
-        "偵測到的 IP 數量",
-        "已使用次數與可使用次數"
+        "需監控的 Domain",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-9801e152c6a6fbbc",
@@ -3489,14 +3642,15 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "不是，偵測與下架是不同流程",
         "Takedown Tracker",
-        "Profile Picture",
-        "Keyword Type",
-        "DNS Resolver"
+        "協調平台、託管商或註冊商移除惡意內容"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-3ecd54a0e05a4cd0",
@@ -3508,14 +3662,15 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "Profile Picture",
-        "Keyword Type",
-        "DNS Resolver",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "不是，偵測與下架是不同流程",
         "Takedown Tracker"
       ],
       "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a1f62864b4b9fdaa",
@@ -3527,14 +3682,15 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "Keyword Type",
-        "DNS Resolver",
         "Takedown Tracker",
-        "Profile Picture"
+        "協調平台、託管商或註冊商移除惡意內容",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "不是，偵測與下架是不同流程"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4d362459953c24fd",
@@ -3546,14 +3702,15 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "員工的個人電話",
-        "公司的資安評分",
-        "帳號雙因素驗證碼",
-        "主要濫用網址"
+        "客戶合約與實際服務條款",
+        "主要濫用網址",
+        "上傳案件事證截圖",
+        "提交下架申請的方式"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b9d16169f1336390",
@@ -3565,14 +3722,15 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "公司的資安評分",
-        "帳號雙因素驗證碼",
+        "提交下架申請的方式",
+        "客戶合約與實際服務條款",
         "主要濫用網址",
-        "員工的個人電話"
+        "上傳案件事證截圖"
       ],
       "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-c539ef5c7ad57d5d",
@@ -3584,14 +3742,15 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "帳號雙因素驗證碼",
-        "主要濫用網址",
-        "員工的個人電話",
-        "公司的資安評分"
+        "上傳案件事證截圖",
+        "提交下架申請的方式",
+        "客戶合約與實際服務條款",
+        "主要濫用網址"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-61d59a8c2f549f38",
@@ -3603,14 +3762,15 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "選擇網站字體",
-        "修改公司帳戶餘額",
         "上傳案件事證截圖",
-        "輸入新的使用者密碼"
+        "提交下架申請的方式",
+        "主要濫用網址",
+        "客戶合約與實際服務條款"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-934244fee3177499",
@@ -3622,14 +3782,15 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "修改公司帳戶餘額",
+        "客戶合約與實際服務條款",
         "上傳案件事證截圖",
-        "輸入新的使用者密碼",
-        "選擇網站字體"
+        "提交下架申請的方式",
+        "主要濫用網址"
       ],
       "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e565b4615170f625",
@@ -3641,14 +3802,15 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
+        "主要濫用網址",
+        "客戶合約與實際服務條款",
         "上傳案件事證截圖",
-        "輸入新的使用者密碼",
-        "選擇網站字體",
-        "修改公司帳戶餘額"
+        "提交下架申請的方式"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-877191be0a4b8f0c",
@@ -3660,14 +3822,15 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
-        "只能選擇 CPU 和 RAM",
-        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
-        "只允許 Email 和 DNS",
-        "只能選擇 CVE"
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a62b76d61c54cba7",
@@ -3680,13 +3843,14 @@
       "section": "客戶情境",
       "options": [
         "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
-        "只允許 Email 和 DNS",
-        "只能選擇 CVE",
-        "只能選擇 CPU 和 RAM"
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "已被多處轉貼且缺乏有效申訴管道的內容"
       ],
       "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-09430a9d2a6423f5",
@@ -3698,14 +3862,15 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "只允許 Email 和 DNS",
-        "只能選擇 CVE",
-        "只能選擇 CPU 和 RAM",
-        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive"
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "協調平台、託管商或註冊商移除惡意內容"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Report Incident",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-dd539be47ba9c68f",
@@ -3717,14 +3882,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "偵測可能誘騙使用者交出敏感資料的網站",
         "避免官方網站或社群帳號被誤認為侵權內容",
-        "自動核准所有下架案件",
-        "刪除所有惡意網域",
-        "自動變更員工密碼"
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-91aec5116acbd49b",
@@ -3736,14 +3902,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "自動核准所有下架案件",
-        "刪除所有惡意網域",
-        "自動變更員工密碼",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "偵測可能誘騙使用者交出敏感資料的網站",
         "避免官方網站或社群帳號被誤認為侵權內容"
       ],
       "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-58830d0f109f76f5",
@@ -3755,14 +3922,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "刪除所有惡意網域",
-        "自動變更員工密碼",
         "避免官方網站或社群帳號被誤認為侵權內容",
-        "自動核准所有下架案件"
+        "不能，監控清單的域名不一定已被確認惡意",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "偵測可能誘騙使用者交出敏感資料的網站"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-97c9669ab3309624",
@@ -3774,14 +3942,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "下架失敗的金額",
-        "網站 TLS 版本",
-        "員工的密碼提示",
-        "加入白名單的原因"
+        "已立案但尚未受理的案件",
+        "加入白名單的原因",
+        "Keywords",
+        "已使用次數與可使用次數"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-55e6cd604f6045d4",
@@ -3793,14 +3962,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "網站 TLS 版本",
-        "員工的密碼提示",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
         "加入白名單的原因",
-        "下架失敗的金額"
+        "Keywords"
       ],
       "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ea99cfc237392a47",
@@ -3812,14 +3982,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "員工的密碼提示",
-        "加入白名單的原因",
-        "下架失敗的金額",
-        "網站 TLS 版本"
+        "Keywords",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "加入白名單的原因"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e69d3ce299c08a57",
@@ -3831,14 +4002,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "只顯示員工的薪資",
-        "只管理網路交換器",
         "監控指定域名及其內容或狀態變更",
-        "代替所有防火牆"
+        "假冒企業的社群帳號與粉絲專頁",
+        "偽冒品牌的第三方行動應用程式",
+        "外觀或拼字近似合法品牌的網域"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-dfbfceb5aa330308",
@@ -3850,14 +4022,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "只管理網路交換器",
+        "外觀或拼字近似合法品牌的網域",
         "監控指定域名及其內容或狀態變更",
-        "代替所有防火牆",
-        "只顯示員工的薪資"
+        "假冒企業的社群帳號與粉絲專頁",
+        "偽冒品牌的第三方行動應用程式"
       ],
       "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-636125b36687950b",
@@ -3869,14 +4042,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
+        "偽冒品牌的第三方行動應用程式",
+        "外觀或拼字近似合法品牌的網域",
         "監控指定域名及其內容或狀態變更",
-        "代替所有防火牆",
-        "只顯示員工的薪資",
-        "只管理網路交換器"
+        "假冒企業的社群帳號與粉絲專頁"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-193cc31e9d45ab06",
@@ -3888,14 +4062,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "所有員工身分證號",
-        "需監控的 Domain",
-        "伺服器 root 密碼",
-        "銀行轉帳帳號"
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件",
+        "需監控的 Domain"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Add Domain",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e4e87c8da4eae009",
@@ -3908,13 +4083,14 @@
       "section": "客戶情境",
       "options": [
         "需監控的 Domain",
-        "伺服器 root 密碼",
-        "銀行轉帳帳號",
-        "所有員工身分證號"
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件"
       ],
       "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Add Domain",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e2faa864af25c913",
@@ -3926,14 +4102,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "伺服器 root 密碼",
-        "銀行轉帳帳號",
-        "所有員工身分證號",
-        "需監控的 Domain"
+        "目前正在進行下架的案件",
+        "需監控的 Domain",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Add Domain",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-efecd4c575d9373f",
@@ -3945,14 +4122,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
         "Keywords",
-        "企業股票代碼作為密碼",
-        "硬碟序號",
-        "防火牆購買日期"
+        "加入白名單的原因"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ae2d09735e34f188",
@@ -3964,14 +4142,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "企業股票代碼作為密碼",
-        "硬碟序號",
-        "防火牆購買日期",
+        "加入白名單的原因",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
         "Keywords"
       ],
       "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-121faa54cd8c525f",
@@ -3983,14 +4162,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "硬碟序號",
-        "防火牆購買日期",
         "Keywords",
-        "企業股票代碼作為密碼"
+        "加入白名單的原因",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-be07967296f285b3",
@@ -4002,14 +4182,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "直接刪除網站 HTML",
-        "關閉公司所有 DNS",
-        "將員工帳號設成公開",
-        "將系統產生的 Token 放入公司網頁程式碼"
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d7ad30264ea02ea8",
@@ -4021,14 +4202,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "關閉公司所有 DNS",
-        "將員工帳號設成公開",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
         "將系統產生的 Token 放入公司網頁程式碼",
-        "直接刪除網站 HTML"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取"
       ],
       "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e06921e5804fca19",
@@ -4040,14 +4222,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "將員工帳號設成公開",
-        "將系統產生的 Token 放入公司網頁程式碼",
-        "直接刪除網站 HTML",
-        "關閉公司所有 DNS"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "將系統產生的 Token 放入公司網頁程式碼"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b0485fc354244274",
@@ -4059,14 +4242,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "所有告警都必須立即下架",
-        "抓取事件與資安完全無關",
         "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
-        "任何抓取都直接等於帳密外洩"
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-0925141800fe0501",
@@ -4078,14 +4262,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "抓取事件與資安完全無關",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
         "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
-        "任何抓取都直接等於帳密外洩",
-        "所有告警都必須立即下架"
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態"
       ],
       "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-93b06012d49eadd7",
@@ -4097,14 +4282,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
         "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
-        "任何抓取都直接等於帳密外洩",
-        "所有告警都必須立即下架",
-        "抓取事件與資安完全無關"
+        "將系統產生的 Token 放入公司網頁程式碼"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-32e4e14707600fe1",
@@ -4116,14 +4302,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "決定 CPU 型號",
-        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
-        "設定公司人員薪資",
-        "重設網域註冊商密碼"
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-29d979b6769b53a8",
@@ -4136,13 +4323,14 @@
       "section": "客戶情境",
       "options": [
         "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
-        "設定公司人員薪資",
-        "重設網域註冊商密碼",
-        "決定 CPU 型號"
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
       "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6f243891ce3a8c60",
@@ -4154,14 +4342,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "設定公司人員薪資",
-        "重設網域註冊商密碼",
-        "決定 CPU 型號",
-        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
+        "不能，監控清單的域名不一定已被確認惡意",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "網域、社群媒體、App 與暗網的品牌濫用"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4b0d6aadb85ad5b1",
@@ -4173,14 +4362,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件",
         "查看已被標記為誤報的域名",
-        "顯示所有已確認惡意域名",
-        "查看員工密碼到期日",
-        "產生備份還原點"
+        "已使用次數與可使用次數"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ff07b9258f4f66fa",
@@ -4192,14 +4382,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "顯示所有已確認惡意域名",
-        "查看員工密碼到期日",
-        "產生備份還原點",
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件",
         "查看已被標記為誤報的域名"
       ],
       "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ef67950ec67239ff",
@@ -4211,14 +4402,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "查看員工密碼到期日",
-        "產生備份還原點",
         "查看已被標記為誤報的域名",
-        "顯示所有已確認惡意域名"
+        "已使用次數與可使用次數",
+        "已立案但尚未受理的案件",
+        "目前正在進行下架的案件"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-68fb9eaf6775b82c",
@@ -4230,14 +4422,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "只依 CPU、RAM",
-        "只依員工年齡",
-        "只依網站 CSS",
-        "Keywords、Severities、Source、Type"
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "Keywords、Severities、Source、Type",
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "提交 Google 或 Microsoft 進行聯防阻擋"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-118b4ebc6be6865b",
@@ -4249,14 +4442,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "只依員工年齡",
-        "只依網站 CSS",
+        "提交 Google 或 Microsoft 進行聯防阻擋",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
         "Keywords、Severities、Source、Type",
-        "只依 CPU、RAM"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取"
       ],
       "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8c597fc6ca3045b6",
@@ -4268,14 +4462,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "只依網站 CSS",
-        "Keywords、Severities、Source、Type",
-        "只依 CPU、RAM",
-        "只依員工年齡"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "提交 Google 或 Microsoft 進行聯防阻擋",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "Keywords、Severities、Source、Type"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-86705889f5901671",
@@ -4287,14 +4482,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "公司所有憑證私鑰",
-        "全部未公開客戶密碼",
         "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
-        "員工薪資明細"
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "將系統產生的 Token 放入公司網頁程式碼"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5383762812f171e7",
@@ -4306,14 +4502,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "全部未公開客戶密碼",
+        "將系統產生的 Token 放入公司網頁程式碼",
         "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
-        "員工薪資明細",
-        "公司所有憑證私鑰"
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
       ],
       "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-f1ff164d6f7f7530",
@@ -4325,14 +4522,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "將系統產生的 Token 放入公司網頁程式碼",
         "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
-        "員工薪資明細",
-        "公司所有憑證私鑰",
-        "全部未公開客戶密碼"
+        "網域、社群媒體、App 與暗網的品牌濫用"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-72bd93edf7c372eb",
@@ -4344,14 +4542,15 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "只依網頁字體",
-        "Countries、Region、Ransomware Group、Industries",
-        "只依公司電腦桌布",
-        "只依瀏覽器縮放比例"
+        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "Countries、Region、Ransomware Group、Industries"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b0246199169a8a61",
@@ -4364,13 +4563,14 @@
       "section": "客戶情境",
       "options": [
         "Countries、Region、Ransomware Group、Industries",
-        "只依公司電腦桌布",
-        "只依瀏覽器縮放比例",
-        "只依網頁字體"
+        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "將威脅資訊轉化為可用於判斷與應對的情資"
       ],
       "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ab55452b2d5964d3",
@@ -4382,14 +4582,15 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "只依公司電腦桌布",
-        "只依瀏覽器縮放比例",
-        "只依網頁字體",
-        "Countries、Region、Ransomware Group、Industries"
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "Countries、Region、Ransomware Group、Industries",
+        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-dd4c14b16f281f09",
@@ -4401,14 +4602,15 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
         "受勒索軟體攻擊的組織",
-        "執行掃描的員工",
-        "產品授權管理員",
-        "網域註冊商"
+        "攻擊手法與偵測防禦方法"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ed0d7b644c6cb526",
@@ -4420,14 +4622,15 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "執行掃描的員工",
-        "產品授權管理員",
-        "網域註冊商",
+        "攻擊手法與偵測防禦方法",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序",
         "受勒索軟體攻擊的組織"
       ],
       "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-bd7a716f0d25ef99",
@@ -4439,14 +4642,15 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "產品授權管理員",
-        "網域註冊商",
         "受勒索軟體攻擊的組織",
-        "執行掃描的員工"
+        "攻擊手法與偵測防禦方法",
+        "可能顯示系統遭入侵的指標",
+        "攻擊者的戰術、技術與程序"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-521407a5f6d9618c",
@@ -4458,14 +4662,15 @@
       "category": "威脅情資",
       "section": "核心",
       "options": [
-        "調整電腦亮度",
-        "統計辦公室人數",
-        "只產生品牌 Logo",
-        "上傳或提交網址與檔案進行威脅檢測"
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "上傳或提交網址與檔案進行威脅檢測",
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "執行或參與威脅活動的行為者"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-6a84759d8bb5126e",
@@ -4477,14 +4682,15 @@
       "category": "威脅情資",
       "section": "客戶情境",
       "options": [
-        "統計辦公室人數",
-        "只產生品牌 Logo",
+        "執行或參與威脅活動的行為者",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
         "上傳或提交網址與檔案進行威脅檢測",
-        "調整電腦亮度"
+        "未確認資料敏感性就上傳客戶機密檔案"
       ],
       "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b43b34471f4cbe9e",
@@ -4496,14 +4702,15 @@
       "category": "威脅情資",
       "section": "觀念複習",
       "options": [
-        "只產生品牌 Logo",
-        "上傳或提交網址與檔案進行威脅檢測",
-        "調整電腦亮度",
-        "統計辦公室人數"
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "執行或參與威脅活動的行為者",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "上傳或提交網址與檔案進行威脅檢測"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a0a3a43d1d87c5ec",
@@ -4515,14 +4722,15 @@
       "category": "平台操作",
       "section": "核心",
       "options": [
-        "網站字體授權",
-        "主機板維修歷史",
         "威脅情資模組的風險評估與告警狀態",
-        "員工午餐菜單"
+        "透過 CSV 批次匯入關鍵字",
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-012593bdbacaa400",
@@ -4534,14 +4742,15 @@
       "category": "平台操作",
       "section": "客戶情境",
       "options": [
-        "主機板維修歷史",
+        "查看與指定關鍵字相關的警示",
         "威脅情資模組的風險評估與告警狀態",
-        "員工午餐菜單",
-        "網站字體授權"
+        "透過 CSV 批次匯入關鍵字",
+        "指定該關鍵字啟用的監控服務"
       ],
       "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d3df88657f103945",
@@ -4553,14 +4762,15 @@
       "category": "平台操作",
       "section": "觀念複習",
       "options": [
+        "指定該關鍵字啟用的監控服務",
+        "查看與指定關鍵字相關的警示",
         "威脅情資模組的風險評估與告警狀態",
-        "員工午餐菜單",
-        "網站字體授權",
-        "主機板維修歷史"
+        "透過 CSV 批次匯入關鍵字"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-2b4d605690823ce5",
@@ -4572,14 +4782,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "防毒病毒碼版本",
-        "提交 Google 或 Microsoft 進行聯防阻擋",
-        "公司股東名冊",
-        "已完成的付款憑證"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "Keywords、Severities、Source、Type",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "提交 Google 或 Microsoft 進行聯防阻擋"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-21f22df06986c30b",
@@ -4592,13 +4803,14 @@
       "section": "客戶情境",
       "options": [
         "提交 Google 或 Microsoft 進行聯防阻擋",
-        "公司股東名冊",
-        "已完成的付款憑證",
-        "防毒病毒碼版本"
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "Keywords、Severities、Source、Type",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單"
       ],
       "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-8c8658e33eb19f50",
@@ -4610,14 +4822,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "公司股東名冊",
-        "已完成的付款憑證",
-        "防毒病毒碼版本",
-        "提交 Google 或 Microsoft 進行聯防阻擋"
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "提交 Google 或 Microsoft 進行聯防阻擋",
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "Keywords、Severities、Source、Type"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-61182b8d0f60c585",
@@ -4629,14 +4842,15 @@
       "category": "下架服務",
       "section": "核心",
       "options": [
+        "上傳案件事證截圖",
+        "客戶合約與實際服務條款",
         "提交下架申請的方式",
-        "網站主機 CPU 型號",
-        "使用者登入密碼",
-        "關鍵字的字元長度"
+        "Takedown Tracker"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-52ccff1fa8ac36e8",
@@ -4648,14 +4862,15 @@
       "category": "下架服務",
       "section": "客戶情境",
       "options": [
-        "網站主機 CPU 型號",
-        "使用者登入密碼",
-        "關鍵字的字元長度",
+        "Takedown Tracker",
+        "上傳案件事證截圖",
+        "客戶合約與實際服務條款",
         "提交下架申請的方式"
       ],
       "correct": 3,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5389def5e17fe62e",
@@ -4667,14 +4882,15 @@
       "category": "下架服務",
       "section": "觀念複習",
       "options": [
-        "使用者登入密碼",
-        "關鍵字的字元長度",
         "提交下架申請的方式",
-        "網站主機 CPU 型號"
+        "Takedown Tracker",
+        "上傳案件事證截圖",
+        "客戶合約與實際服務條款"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-25b6dae0d7196d16",
@@ -4686,14 +4902,15 @@
       "category": "品牌保護",
       "section": "核心",
       "options": [
-        "所有員工的手機照片",
-        "只有伺服器磁碟資訊",
-        "全部網站的網頁原始碼",
-        "行動應用程式監控的告警與統計數據"
+        "監控指定域名及其內容或狀態變更",
+        "行動應用程式監控的告警與統計數據",
+        "前者為註冊日期，後者為平台辨識日期",
+        "案件已結案，仍應查看詳細狀態與結果"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-94299bc55bb1061e",
@@ -4705,14 +4922,15 @@
       "category": "品牌保護",
       "section": "客戶情境",
       "options": [
-        "只有伺服器磁碟資訊",
-        "全部網站的網頁原始碼",
+        "案件已結案，仍應查看詳細狀態與結果",
+        "監控指定域名及其內容或狀態變更",
         "行動應用程式監控的告警與統計數據",
-        "所有員工的手機照片"
+        "前者為註冊日期，後者為平台辨識日期"
       ],
       "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-33971439d73b6a6b",
@@ -4724,14 +4942,15 @@
       "category": "品牌保護",
       "section": "觀念複習",
       "options": [
-        "全部網站的網頁原始碼",
-        "行動應用程式監控的告警與統計數據",
-        "所有員工的手機照片",
-        "只有伺服器磁碟資訊"
+        "前者為註冊日期，後者為平台辨識日期",
+        "案件已結案，仍應查看詳細狀態與結果",
+        "監控指定域名及其內容或狀態變更",
+        "行動應用程式監控的告警與統計數據"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a275e5dfe34b52cb",
@@ -4743,14 +4962,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
-        "網站廣告轉換率",
         "公開程式碼儲存庫中意外曝露的機敏資料或原始碼",
-        "供應商的年度營收",
-        "公司內部人員打卡"
+        "非公開程式碼庫遭意外公開或未授權存取",
+        "告警在不同日期的數量變化趨勢",
+        "將警示標籤分類並視覺化呈現"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Executive Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-facd65ba04c46dd4",
@@ -4762,14 +4982,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
+        "將警示標籤分類並視覺化呈現",
         "非公開程式碼庫遭意外公開或未授權存取",
-        "所有私人程式庫都已遭入侵",
-        "公司辦公室監視器畫質",
-        "使用者的螢幕亮度"
+        "公開程式碼儲存庫中意外曝露的機敏資料或原始碼",
+        "告警在不同日期的數量變化趨勢"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Executive Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-9b959b4713c6edda",
@@ -4781,14 +5002,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
-        "已經刪除的網站",
-        "永久封鎖的員工",
-        "年度採購清單",
-        "尚未處理的安全警示狀態"
+        "將警示標籤分類並視覺化呈現",
+        "檢視警示指派對象及處理狀態",
+        "尚未處理的安全警示狀態",
+        "警示風險嚴重程度的分布"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-23855d9fbb23e3d1",
@@ -4800,14 +5022,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
-        "產品合約的三種付款方式",
-        "三種網頁語言",
-        "警示風險嚴重程度的分布",
-        "帳號權限的三種職級"
+        "尚未處理的安全警示狀態",
+        "將警示標籤分類並視覺化呈現",
+        "檢視警示指派對象及處理狀態",
+        "警示風險嚴重程度的分布"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-0469e1ce224a4a19",
@@ -4819,14 +5042,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
-        "下架保證完成日期",
         "告警在不同日期的數量變化趨勢",
-        "只有網站 DNS TTL",
-        "員工電腦硬碟容量"
+        "將警示標籤分類並視覺化呈現",
+        "檢視警示指派對象及處理狀態",
+        "尚未處理的安全警示狀態"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ae2f295263da6411",
@@ -4838,14 +5062,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
+        "尚未處理的安全警示狀態",
         "檢視警示指派對象及處理狀態",
-        "統計員工個人存款",
-        "管理網域名稱字型",
-        "修改網站 TLS 金鑰"
+        "將警示標籤分類並視覺化呈現",
+        "告警在不同日期的數量變化趨勢"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7f753e9b1ca8ab1c",
@@ -4857,14 +5082,15 @@
       "category": "儀表板",
       "section": "深入實務",
       "options": [
-        "自動證明所有告警為真",
-        "直接下架所有網站",
-        "取代全部資安稽核",
-        "將警示標籤分類並視覺化呈現"
+        "告警在不同日期的數量變化趨勢",
+        "尚未處理的安全警示狀態",
+        "將警示標籤分類並視覺化呈現",
+        "檢視警示指派對象及處理狀態"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-16660b84cfe8d3d9",
@@ -4876,19 +5102,20 @@
       "category": "威脅情資",
       "section": "深入實務",
       "options": [
-        "Feed 必然包含所有客戶的下架額度",
-        "TIP 只能顯示原始 IP 清單",
-        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
-        "兩者都是硬體防火牆"
+        "Countries、Region、Ransomware Group、Industries",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble 官方 FAQ",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/faqs/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-4fdde9aaba473e14",
@@ -4900,19 +5127,20 @@
       "category": "整合與應用",
       "section": "深入實務",
       "options": [
-        "只能透過傳真",
         "REST API 與 STIX/TAXII",
-        "只能人工截圖",
-        "只能用 USB 隨身碟"
+        "授權模組、實際版本、監控範圍與服務條款",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "讓外部威脅脈絡支援內部偵測與調查"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble 官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-eed1732af8468ba9",
@@ -4924,19 +5152,20 @@
       "category": "整合與應用",
       "section": "深入實務",
       "options": [
+        "可信度、資產關聯、可利用性及業務衝擊",
         "核對目前可用 Connector、版本、授權與 POC",
-        "只因官網寫有 API 就保證零開發",
-        "直接認定所有 SIEM 都不支援",
-        "只看行銷簡報封面"
+        "REST API 與 STIX/TAXII",
+        "授權模組、實際版本、監控範圍與服務條款"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "Cyble 官方 FAQ",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/faqs/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-7b67c05d5424f614",
@@ -4948,19 +5177,20 @@
       "category": "平台定位",
       "section": "深入實務",
       "options": [
-        "三種付款方式",
-        "三種網域類型",
-        "三種人事權限",
-        "偵測、驗證及處置／結案的威脅生命週期"
+        "整合網路威脅情資與數位風險防護的平台",
+        "表面網路、深層網路及暗網",
+        "偵測、驗證及處置／結案的威脅生命週期",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble 官方產品頁",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-3d3dc3b71d68cab0",
@@ -4972,19 +5202,20 @@
       "category": "品牌保護",
       "section": "深入實務",
       "options": [
-        "只有員工桌面",
-        "只有備份磁帶",
-        "網域、社群媒體、App 與暗網的品牌濫用",
-        "只有公司內部 VPN"
+        "外觀或拼字近似合法品牌的網域",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "網域、社群媒體、App 與暗網的品牌濫用"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble 官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/brand-intelligence/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-13252aaa6fd14e12",
@@ -4996,19 +5227,20 @@
       "category": "下架服務",
       "section": "深入實務",
       "options": [
-        "保證網域永不重新註冊",
         "驗證威脅真實性並排除誤報",
-        "將所有告警直接刪除",
-        "自動給每個網站合法授權"
+        "不是，偵測與下架是不同流程",
+        "客戶合約與實際服務條款",
+        "提交下架申請的方式"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble 官網",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/takedown-services/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b85255b1b32e4589",
@@ -5020,19 +5252,20 @@
       "category": "下架服務",
       "section": "深入實務",
       "options": [
+        "Takedown Tracker",
         "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
-        "因為官網從未提供任何下架服務",
-        "因為所有下架都由企業自行處理",
-        "因為下架只涉及本機資料"
+        "協調平台、託管商或註冊商移除惡意內容",
+        "已被多處轉貼且缺乏有效申訴管道的內容"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "Cyble 官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/solutions/takedown-services/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-764cdd2ed2c907df",
@@ -5044,19 +5277,20 @@
       "category": "攻擊面管理",
       "section": "深入實務",
       "options": [
-        "只列出員工姓名",
-        "只匯出採購發票",
-        "只掃描本機桌布",
-        "持續盤點網際網路暴露資產與影子 IT"
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "持續盤點網際網路暴露資產與影子 IT",
+        "未受正式 IT 管理或掌握的技術與服務"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble 官方 FAQ",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/faqs/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-5c8a0ef29bbe88db",
@@ -5068,19 +5302,20 @@
       "category": "攻擊面管理",
       "section": "深入實務",
       "options": [
-        "計算辦公室耗電量",
-        "移除所有公司網址",
-        "檢視已識別資產的弱點與錯誤設定",
-        "直接證明所有系統已遭攻擊"
+        "確認歸屬、用途、暴露服務與風險",
+        "不一定，需判斷服務、設定與暴露情境",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "檢視已識別資產的弱點與錯誤設定"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble 官方 FAQ",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/faqs/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-b1aa9234e561ff74",
@@ -5092,19 +5327,20 @@
       "category": "攻擊面管理",
       "section": "深入實務",
       "options": [
-        "一律先修最低風險",
         "依嚴重度及實際可利用性排序曝險發現",
-        "只依網址字母順序",
-        "只依網頁背景顏色"
+        "不一定，需判斷服務、設定與暴露情境",
+        "識別與評估對外暴露的數位資產及風險",
+        "持續盤點網際網路暴露資產與影子 IT"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble 官方 FAQ",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/faqs/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d8c60b2cd6eed369",
@@ -5116,19 +5352,20 @@
       "category": "第三方風險",
       "section": "深入實務",
       "options": [
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
         "入侵過程的驗證與第三方外洩影響分析",
-        "網站視覺設計",
-        "實體機房溫控",
-        "只提供電話簿"
+        "核實事件與本企業的資料、服務關聯",
+        "掌握供應商外部暴露與可能影響"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "Cyble 官方產品頁",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-d5be89d318c66854",
@@ -5140,19 +5377,20 @@
       "category": "漏洞情資",
       "section": "深入實務",
       "options": [
-        "是，所有漏洞都會即時消失",
-        "是，無需資產歸屬確認",
-        "不是，因為 Cyble 完全沒有漏洞情報",
-        "不是，情資協助優先排序；修補需另行執行與驗證"
+        "列出已知遭實際利用的漏洞",
+        "公開揭露漏洞的識別編號",
+        "不是，情資協助優先排序；修補需另行執行與驗證",
+        "漏洞在一定時間窗內被實際利用的機率"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble 官方產品頁",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-0a56633c463e17ef",
@@ -5164,19 +5402,20 @@
       "category": "暗網監控",
       "section": "深入實務",
       "options": [
-        "立即刪除所有 DNS",
-        "直接視為成功下架",
-        "先確認來源、內容可信度及與企業的關聯",
-        "立即公布已遭駭客入侵"
+        "核實供應商、資料類型、服務依賴及事件真實性",
+        "確認真實性、影響帳號及暴露範圍",
+        "不能，應判讀內容、來源及脈絡",
+        "先確認來源、內容可信度及與企業的關聯"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble 官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-a41d8ca3004d2e8a",
@@ -5188,19 +5427,20 @@
       "category": "暗網監控",
       "section": "深入實務",
       "options": [
-        "只依貼文按讚數決定",
         "核實供應商、資料類型、服務依賴及事件真實性",
-        "一律認定所有企業資料已公開",
-        "只比較供應商 Logo"
+        "先確認來源、內容可信度及與企業的關聯",
+        "確認真實性、影響帳號及暴露範圍",
+        "不能，應判讀內容、來源及脈絡"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble 官網與實務",
       "references": [
         {
           "title": "Cyble 官方資料",
           "url": "https://cyble.com/products/cyble-vision/"
         }
-      ]
+      ],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-0ade2eadb41c5474",
@@ -5212,14 +5452,15 @@
       "category": "平台操作",
       "section": "深入實務",
       "options": [
+        "避免將真正惡意的偽冒站排除於監控或處理",
         "Status 是案件狀態；Active Duration 是案件處理時長",
-        "兩者都是企業評級",
-        "兩者都是憑證序號",
-        "兩者都是員工職稱"
+        "案件詳情、處理時間、下架結果與必要截圖",
+        "關鍵字定義監控條件，警示頁面呈現相關命中"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-21f9480373127359",
@@ -5231,14 +5472,15 @@
       "category": "品牌保護",
       "section": "深入實務",
       "options": [
-        "兩者都是關閉日期",
-        "兩者都是憑證到期日",
-        "前者為員工生日、後者為薪資日",
-        "前者為註冊日期，後者為平台辨識日期"
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "前者為註冊日期，後者為平台辨識日期",
+        "案件已結案，仍應查看詳細狀態與結果"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-17d7030725fecf1e",
@@ -5250,14 +5492,15 @@
       "category": "品牌保護",
       "section": "深入實務",
       "options": [
-        "可以，因為兩者都只有 IP",
-        "不能，因為前者不是域名",
-        "不能，監控清單的域名不一定已被確認惡意",
-        "可以，加入監控即自動確認攻擊"
+        "需監控的 Domain",
+        "避免官方網站或社群帳號被誤認為侵權內容",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "不能，監控清單的域名不一定已被確認惡意"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "品牌偽冒模組手冊與操作手冊 v1.5",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-ab713f5a1bc8e530",
@@ -5269,14 +5512,15 @@
       "category": "品牌保護",
       "section": "深入實務",
       "options": [
-        "前者只能監控郵件、後者只能監控手機",
         "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
-        "兩者都只是更改網站配色",
-        "兩者都是 DNS 註冊商"
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "Keywords、Severities、Source、Type",
+        "提交 Google 或 Microsoft 進行聯防阻擋"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Monitoring／Watermarking",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-28ac13ccd6ee5ced",
@@ -5288,14 +5532,15 @@
       "category": "平台操作",
       "section": "深入實務",
       "options": [
+        "威脅情資模組的風險評估與告警狀態",
         "避免將真正惡意的偽冒站排除於監控或處理",
-        "因為白名單會自動加速所有網頁",
-        "因為 URL 不可能偽造",
-        "因為所有白名單都是永久有效"
+        "案件詳情、處理時間、下架結果與必要截圖",
+        "關鍵字定義監控條件，警示頁面呈現相關命中"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-618849ceea0a2887",
@@ -5307,14 +5552,15 @@
       "category": "平台操作",
       "section": "深入實務",
       "options": [
-        "只保留網站 Logo",
-        "只記錄使用者桌布",
-        "不需要任何紀錄",
-        "案件詳情、處理時間、下架結果與必要截圖"
+        "避免將真正惡意的偽冒站排除於監控或處理",
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "案件詳情、處理時間、下架結果與必要截圖",
+        "Status 是案件狀態；Active Duration 是案件處理時長"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_source": "品牌偽冒模組手冊與實務",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     },
     {
       "uid": "cyble-e0b943b8e714bb7a",
@@ -5326,14 +5572,15 @@
       "category": "威脅情資",
       "section": "深入實務",
       "options": [
-        "先確認上傳規範",
-        "閱讀檢測結果與限制",
-        "未確認資料敏感性就上傳客戶機密檔案",
-        "使用經授權的測試檔"
+        "上傳或提交網址與檔案進行威脅檢測",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "未確認資料敏感性就上傳客戶機密檔案"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_source": "Cyble Vision 操作手冊 v1.5 與安全實務",
-      "references": []
+      "references": [],
+      "quality_review": "同類別／相關知識點干擾選項（自動產生；語意及唯一正解待人工確認）"
     }
   ]
 }
