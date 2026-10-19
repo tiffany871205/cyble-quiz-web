@@ -3,6 +3,8 @@
   "source": "Cyble 官方網站、2026 產品簡報及 Cyble Vision 操作手冊；非官方考題",
   "items": [
     {
+      "uid": "cyble-205b28c44ec12324",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 1,
       "question": "Cyble Vision 的主要定位是什麼？",
       "answer": "整合網路威脅情資與數位風險防護的平台",
@@ -25,6 +27,8 @@
       ]
     },
     {
+      "uid": "cyble-5130e9822ddc46c9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 2,
       "question": "客戶詢問：「Cyble Vision 的主要定位是什麼？」最適合如何回答？",
       "answer": "整合網路威脅情資與數位風險防護的平台",
@@ -47,6 +51,8 @@
       ]
     },
     {
+      "uid": "cyble-bf886e8fcffde1e7",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 3,
       "question": "內部教育訓練要確認觀念：Cyble Vision 的主要定位是什麼？",
       "answer": "整合網路威脅情資與數位風險防護的平台",
@@ -69,6 +75,8 @@
       ]
     },
     {
+      "uid": "cyble-dddf809e55423904",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 4,
       "question": "Cyble Vision 主要監控哪些網路層面？",
       "answer": "表面網路、深層網路及暗網",
@@ -91,6 +99,8 @@
       ]
     },
     {
+      "uid": "cyble-c591a03f91c7e720",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 5,
       "question": "客戶詢問：「Cyble Vision 主要監控哪些網路層面？」最適合如何回答？",
       "answer": "表面網路、深層網路及暗網",
@@ -113,6 +123,8 @@
       ]
     },
     {
+      "uid": "cyble-769d99374c28b5ed",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 6,
       "question": "內部教育訓練要確認觀念：Cyble Vision 主要監控哪些網路層面？",
       "answer": "表面網路、深層網路及暗網",
@@ -135,6 +147,8 @@
       ]
     },
     {
+      "uid": "cyble-2881d631b059fc1b",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 7,
       "question": "Cyble Vision 與 Cyble Hawk 的定位差異是什麼？",
       "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
@@ -157,6 +171,8 @@
       ]
     },
     {
+      "uid": "cyble-15a5a151fb044761",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 8,
       "question": "客戶詢問：「Cyble Vision 與 Cyble Hawk 的定位差異是什麼？」最適合如何回答？",
       "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
@@ -179,6 +195,8 @@
       ]
     },
     {
+      "uid": "cyble-1175b0a42a344153",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 9,
       "question": "內部教育訓練要確認觀念：Cyble Vision 與 Cyble Hawk 的定位差異是什麼？",
       "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
@@ -201,6 +219,8 @@
       ]
     },
     {
+      "uid": "cyble-25c3ef10d0469273",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 10,
       "question": "CTI 的核心目的為何？",
       "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
@@ -223,6 +243,8 @@
       ]
     },
     {
+      "uid": "cyble-4b0569924c118db1",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 11,
       "question": "客戶詢問：「CTI 的核心目的為何？」最適合如何回答？",
       "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
@@ -245,6 +267,8 @@
       ]
     },
     {
+      "uid": "cyble-05594f2592e02b24",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 12,
       "question": "內部教育訓練要確認觀念：CTI 的核心目的為何？",
       "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
@@ -267,6 +291,8 @@
       ]
     },
     {
+      "uid": "cyble-bf12b6f3d7a87bea",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 13,
       "question": "IOC 是什麼？",
       "answer": "可能顯示系統遭入侵的指標",
@@ -289,6 +315,8 @@
       ]
     },
     {
+      "uid": "cyble-6049252f7bc77be9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 14,
       "question": "客戶詢問：「IOC 是什麼？」最適合如何回答？",
       "answer": "可能顯示系統遭入侵的指標",
@@ -311,6 +339,8 @@
       ]
     },
     {
+      "uid": "cyble-46e2686919026dc9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 15,
       "question": "內部教育訓練要確認觀念：IOC 是什麼？",
       "answer": "可能顯示系統遭入侵的指標",
@@ -333,6 +363,8 @@
       ]
     },
     {
+      "uid": "cyble-4dccf2e09d7b33a3",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 16,
       "question": "TTP 指的是什麼？",
       "answer": "攻擊者的戰術、技術與程序",
@@ -355,6 +387,8 @@
       ]
     },
     {
+      "uid": "cyble-7888fc2e0e14b8fa",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 17,
       "question": "客戶詢問：「TTP 指的是什麼？」最適合如何回答？",
       "answer": "攻擊者的戰術、技術與程序",
@@ -377,6 +411,8 @@
       ]
     },
     {
+      "uid": "cyble-1fbb1f1eac66f268",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 18,
       "question": "內部教育訓練要確認觀念：TTP 指的是什麼？",
       "answer": "攻擊者的戰術、技術與程序",
@@ -399,6 +435,8 @@
       ]
     },
     {
+      "uid": "cyble-e9a9779df338ae89",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 19,
       "question": "Strategic Intelligence 通常服務哪種決策？",
       "answer": "管理層長期風險與策略規劃",
@@ -421,6 +459,8 @@
       ]
     },
     {
+      "uid": "cyble-0a8cc2295852a720",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 20,
       "question": "客戶詢問：「Strategic Intelligence 通常服務哪種決策？」最適合如何回答？",
       "answer": "管理層長期風險與策略規劃",
@@ -443,6 +483,8 @@
       ]
     },
     {
+      "uid": "cyble-7ff7c1b20741c574",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 21,
       "question": "內部教育訓練要確認觀念：Strategic Intelligence 通常服務哪種決策？",
       "answer": "管理層長期風險與策略規劃",
@@ -465,6 +507,8 @@
       ]
     },
     {
+      "uid": "cyble-c20708543b75eb1e",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 22,
       "question": "Tactical Intelligence 主要關注什麼？",
       "answer": "攻擊手法與偵測防禦方法",
@@ -487,6 +531,8 @@
       ]
     },
     {
+      "uid": "cyble-6f8e8c764dac7258",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 23,
       "question": "客戶詢問：「Tactical Intelligence 主要關注什麼？」最適合如何回答？",
       "answer": "攻擊手法與偵測防禦方法",
@@ -509,6 +555,8 @@
       ]
     },
     {
+      "uid": "cyble-290595c7f6ee939c",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 24,
       "question": "內部教育訓練要確認觀念：Tactical Intelligence 主要關注什麼？",
       "answer": "攻擊手法與偵測防禦方法",
@@ -531,6 +579,8 @@
       ]
     },
     {
+      "uid": "cyble-e886aaa73a93e419",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 25,
       "question": "Operational Intelligence 最接近哪種內容？",
       "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
@@ -553,6 +603,8 @@
       ]
     },
     {
+      "uid": "cyble-5c1a3c4b061d1ecf",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 26,
       "question": "客戶詢問：「Operational Intelligence 最接近哪種內容？」最適合如何回答？",
       "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
@@ -575,6 +627,8 @@
       ]
     },
     {
+      "uid": "cyble-d6249236e0a61460",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 27,
       "question": "內部教育訓練要確認觀念：Operational Intelligence 最接近哪種內容？",
       "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
@@ -597,6 +651,8 @@
       ]
     },
     {
+      "uid": "cyble-13590be4f5163593",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 28,
       "question": "Threat Actor 是什麼？",
       "answer": "執行或參與威脅活動的行為者",
@@ -619,6 +675,8 @@
       ]
     },
     {
+      "uid": "cyble-dd8e5cf24e910c00",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 29,
       "question": "客戶詢問：「Threat Actor 是什麼？」最適合如何回答？",
       "answer": "執行或參與威脅活動的行為者",
@@ -641,6 +699,8 @@
       ]
     },
     {
+      "uid": "cyble-e133cf70325d29b6",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 30,
       "question": "內部教育訓練要確認觀念：Threat Actor 是什麼？",
       "answer": "執行或參與威脅活動的行為者",
@@ -663,6 +723,8 @@
       ]
     },
     {
+      "uid": "cyble-5988a1adc8d90608",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 31,
       "question": "暗網監控發現企業帳密洩漏，最適當的第一步是什麼？",
       "answer": "確認真實性、影響帳號及暴露範圍",
@@ -685,6 +747,8 @@
       ]
     },
     {
+      "uid": "cyble-c61392810109ca8c",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 32,
       "question": "客戶詢問：「暗網監控發現企業帳密洩漏，最適當的第一步是什麼？」最適合如何回答？",
       "answer": "確認真實性、影響帳號及暴露範圍",
@@ -707,6 +771,8 @@
       ]
     },
     {
+      "uid": "cyble-b1e98d833f0d214c",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 33,
       "question": "內部教育訓練要確認觀念：暗網監控發現企業帳密洩漏，最適當的第一步是什麼？",
       "answer": "確認真實性、影響帳號及暴露範圍",
@@ -729,6 +795,8 @@
       ]
     },
     {
+      "uid": "cyble-5191ff47b023ff58",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 34,
       "question": "Stealer Logs 通常是什麼？",
       "answer": "資訊竊取型惡意軟體蒐集的紀錄",
@@ -751,6 +819,8 @@
       ]
     },
     {
+      "uid": "cyble-9562d3b448c9b656",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 35,
       "question": "客戶詢問：「Stealer Logs 通常是什麼？」最適合如何回答？",
       "answer": "資訊竊取型惡意軟體蒐集的紀錄",
@@ -773,6 +843,8 @@
       ]
     },
     {
+      "uid": "cyble-050c9851cdf27459",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 36,
       "question": "內部教育訓練要確認觀念：Stealer Logs 通常是什麼？",
       "answer": "資訊竊取型惡意軟體蒐集的紀錄",
@@ -795,6 +867,8 @@
       ]
     },
     {
+      "uid": "cyble-bb08d9a89dec4eb5",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 37,
       "question": "暗網監控來源可能包含哪一項？",
       "answer": "地下論壇與勒索軟體洩漏站",
@@ -817,6 +891,8 @@
       ]
     },
     {
+      "uid": "cyble-c5bc55bc5eea2c8f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 38,
       "question": "客戶詢問：「暗網監控來源可能包含哪一項？」最適合如何回答？",
       "answer": "地下論壇與勒索軟體洩漏站",
@@ -839,6 +915,8 @@
       ]
     },
     {
+      "uid": "cyble-cf528f472729c351",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 39,
       "question": "內部教育訓練要確認觀念：暗網監控來源可能包含哪一項？",
       "answer": "地下論壇與勒索軟體洩漏站",
@@ -861,6 +939,8 @@
       ]
     },
     {
+      "uid": "cyble-1e35da6b380590d3",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 40,
       "question": "Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？",
       "answer": "不能，應判讀內容、來源及脈絡",
@@ -883,6 +963,8 @@
       ]
     },
     {
+      "uid": "cyble-2ffa8844743602ca",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 41,
       "question": "客戶詢問：「Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？」最適合如何回答？",
       "answer": "不能，應判讀內容、來源及脈絡",
@@ -905,6 +987,8 @@
       ]
     },
     {
+      "uid": "cyble-c2bf935660406693",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 42,
       "question": "內部教育訓練要確認觀念：Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？",
       "answer": "不能，應判讀內容、來源及脈絡",
@@ -927,6 +1011,8 @@
       ]
     },
     {
+      "uid": "cyble-064df61d1b2de936",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 43,
       "question": "Brand Intelligence 主要處理哪一類問題？",
       "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
@@ -949,6 +1035,8 @@
       ]
     },
     {
+      "uid": "cyble-681ac809d12418fb",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 44,
       "question": "客戶詢問：「Brand Intelligence 主要處理哪一類問題？」最適合如何回答？",
       "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
@@ -971,6 +1059,8 @@
       ]
     },
     {
+      "uid": "cyble-5820cfcf052700ab",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 45,
       "question": "內部教育訓練要確認觀念：Brand Intelligence 主要處理哪一類問題？",
       "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
@@ -993,6 +1083,8 @@
       ]
     },
     {
+      "uid": "cyble-543d271ec5004b7a",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 46,
       "question": "Lookalike Domain 是什麼？",
       "answer": "外觀或拼字近似合法品牌的網域",
@@ -1015,6 +1107,8 @@
       ]
     },
     {
+      "uid": "cyble-aa3119e7668ab083",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 47,
       "question": "客戶詢問：「Lookalike Domain 是什麼？」最適合如何回答？",
       "answer": "外觀或拼字近似合法品牌的網域",
@@ -1037,6 +1131,8 @@
       ]
     },
     {
+      "uid": "cyble-891961ed130d2a6f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 48,
       "question": "內部教育訓練要確認觀念：Lookalike Domain 是什麼？",
       "answer": "外觀或拼字近似合法品牌的網域",
@@ -1059,6 +1155,8 @@
       ]
     },
     {
+      "uid": "cyble-693632188602bc33",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 49,
       "question": "Phishing Monitoring 主要目的是什麼？",
       "answer": "偵測可能誘騙使用者交出敏感資料的網站",
@@ -1081,6 +1179,8 @@
       ]
     },
     {
+      "uid": "cyble-e2dab5ff84f4c9b7",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 50,
       "question": "客戶詢問：「Phishing Monitoring 主要目的是什麼？」最適合如何回答？",
       "answer": "偵測可能誘騙使用者交出敏感資料的網站",
@@ -1103,6 +1203,8 @@
       ]
     },
     {
+      "uid": "cyble-21531a227f4f3a8f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 51,
       "question": "內部教育訓練要確認觀念：Phishing Monitoring 主要目的是什麼？",
       "answer": "偵測可能誘騙使用者交出敏感資料的網站",
@@ -1125,6 +1227,8 @@
       ]
     },
     {
+      "uid": "cyble-2f1dd518ac3e6f3f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 52,
       "question": "Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？",
       "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
@@ -1147,6 +1251,8 @@
       ]
     },
     {
+      "uid": "cyble-717a330fd901f3ee",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 53,
       "question": "客戶詢問：「Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？」最適合如何回答？",
       "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
@@ -1169,6 +1275,8 @@
       ]
     },
     {
+      "uid": "cyble-7ded5b58db5f7945",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 54,
       "question": "內部教育訓練要確認觀念：Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？",
       "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
@@ -1191,6 +1299,8 @@
       ]
     },
     {
+      "uid": "cyble-2f9c178ecffa5dec",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 55,
       "question": "Mobile Application Monitoring 可能偵測什麼？",
       "answer": "偽冒品牌的第三方行動應用程式",
@@ -1213,6 +1323,8 @@
       ]
     },
     {
+      "uid": "cyble-59bd8dc7d1eb537a",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 56,
       "question": "客戶詢問：「Mobile Application Monitoring 可能偵測什麼？」最適合如何回答？",
       "answer": "偽冒品牌的第三方行動應用程式",
@@ -1235,6 +1347,8 @@
       ]
     },
     {
+      "uid": "cyble-261ae053d6c57b3f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 57,
       "question": "內部教育訓練要確認觀念：Mobile Application Monitoring 可能偵測什麼？",
       "answer": "偽冒品牌的第三方行動應用程式",
@@ -1257,6 +1371,8 @@
       ]
     },
     {
+      "uid": "cyble-48a9f58e5b77ecd1",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 58,
       "question": "Social Media Monitoring 可協助發現什麼？",
       "answer": "假冒企業的社群帳號與粉絲專頁",
@@ -1279,6 +1395,8 @@
       ]
     },
     {
+      "uid": "cyble-16463ec64b5378b8",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 59,
       "question": "客戶詢問：「Social Media Monitoring 可協助發現什麼？」最適合如何回答？",
       "answer": "假冒企業的社群帳號與粉絲專頁",
@@ -1301,6 +1419,8 @@
       ]
     },
     {
+      "uid": "cyble-09ddd1594eb55ef8",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 60,
       "question": "內部教育訓練要確認觀念：Social Media Monitoring 可協助發現什麼？",
       "answer": "假冒企業的社群帳號與粉絲專頁",
@@ -1323,6 +1443,8 @@
       ]
     },
     {
+      "uid": "cyble-deb8590928dfdeab",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 61,
       "question": "Takedown 的意思是什麼？",
       "answer": "協調平台、託管商或註冊商移除惡意內容",
@@ -1345,6 +1467,8 @@
       ]
     },
     {
+      "uid": "cyble-d3cb51463194d210",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 62,
       "question": "客戶詢問：「Takedown 的意思是什麼？」最適合如何回答？",
       "answer": "協調平台、託管商或註冊商移除惡意內容",
@@ -1367,6 +1491,8 @@
       ]
     },
     {
+      "uid": "cyble-d5065a8fd07d84a3",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 63,
       "question": "內部教育訓練要確認觀念：Takedown 的意思是什麼？",
       "answer": "協調平台、託管商或註冊商移除惡意內容",
@@ -1389,6 +1515,8 @@
       ]
     },
     {
+      "uid": "cyble-d206bf75a2df88c7",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 64,
       "question": "偵測到釣魚網站後，是否代表 Cyble 已完成下架？",
       "answer": "不是，偵測與下架是不同流程",
@@ -1411,6 +1539,8 @@
       ]
     },
     {
+      "uid": "cyble-6e758dbcc5cb61cd",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 65,
       "question": "客戶詢問：「偵測到釣魚網站後，是否代表 Cyble 已完成下架？」最適合如何回答？",
       "answer": "不是，偵測與下架是不同流程",
@@ -1433,6 +1563,8 @@
       ]
     },
     {
+      "uid": "cyble-8792da01d7f4a9a6",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 66,
       "question": "內部教育訓練要確認觀念：偵測到釣魚網站後，是否代表 Cyble 已完成下架？",
       "answer": "不是，偵測與下架是不同流程",
@@ -1455,6 +1587,8 @@
       ]
     },
     {
+      "uid": "cyble-85cddceb418638cc",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 67,
       "question": "下架 SLA 應以哪個依據承諾客戶？",
       "answer": "客戶合約與實際服務條款",
@@ -1477,6 +1611,8 @@
       ]
     },
     {
+      "uid": "cyble-bd708f7b17e4c803",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 68,
       "question": "客戶詢問：「下架 SLA 應以哪個依據承諾客戶？」最適合如何回答？",
       "answer": "客戶合約與實際服務條款",
@@ -1499,6 +1635,8 @@
       ]
     },
     {
+      "uid": "cyble-40e226f22636f1ab",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 69,
       "question": "內部教育訓練要確認觀念：下架 SLA 應以哪個依據承諾客戶？",
       "answer": "客戶合約與實際服務條款",
@@ -1521,6 +1659,8 @@
       ]
     },
     {
+      "uid": "cyble-b1d53db1aa93add4",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 70,
       "question": "哪一種情況通常較難保證完整下架？",
       "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
@@ -1543,6 +1683,8 @@
       ]
     },
     {
+      "uid": "cyble-1ab27b4e54190c6e",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 71,
       "question": "客戶詢問：「哪一種情況通常較難保證完整下架？」最適合如何回答？",
       "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
@@ -1565,6 +1707,8 @@
       ]
     },
     {
+      "uid": "cyble-a2c0889024812bdb",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 72,
       "question": "內部教育訓練要確認觀念：哪一種情況通常較難保證完整下架？",
       "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
@@ -1587,6 +1731,8 @@
       ]
     },
     {
+      "uid": "cyble-e077d9700da10f31",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 73,
       "question": "EASM 的主要目標是什麼？",
       "answer": "識別與評估對外暴露的數位資產及風險",
@@ -1609,6 +1755,8 @@
       ]
     },
     {
+      "uid": "cyble-8f02e69b42cd047d",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 74,
       "question": "客戶詢問：「EASM 的主要目標是什麼？」最適合如何回答？",
       "answer": "識別與評估對外暴露的數位資產及風險",
@@ -1631,6 +1779,8 @@
       ]
     },
     {
+      "uid": "cyble-61ec706f222e0a9d",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 75,
       "question": "內部教育訓練要確認觀念：EASM 的主要目標是什麼？",
       "answer": "識別與評估對外暴露的數位資產及風險",
@@ -1653,6 +1803,8 @@
       ]
     },
     {
+      "uid": "cyble-14e5b8024d208651",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 76,
       "question": "Shadow IT 指的是什麼？",
       "answer": "未受正式 IT 管理或掌握的技術與服務",
@@ -1675,6 +1827,8 @@
       ]
     },
     {
+      "uid": "cyble-533ffbd373f54307",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 77,
       "question": "客戶詢問：「Shadow IT 指的是什麼？」最適合如何回答？",
       "answer": "未受正式 IT 管理或掌握的技術與服務",
@@ -1697,6 +1851,8 @@
       ]
     },
     {
+      "uid": "cyble-81ea865f250a2564",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 78,
       "question": "內部教育訓練要確認觀念：Shadow IT 指的是什麼？",
       "answer": "未受正式 IT 管理或掌握的技術與服務",
@@ -1719,6 +1875,8 @@
       ]
     },
     {
+      "uid": "cyble-cc6707dbaad2688a",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 79,
       "question": "發現未識別子網域時，最合理的處理方式是什麼？",
       "answer": "確認歸屬、用途、暴露服務與風險",
@@ -1741,6 +1899,8 @@
       ]
     },
     {
+      "uid": "cyble-cb907c0bac6d2392",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 80,
       "question": "客戶詢問：「發現未識別子網域時，最合理的處理方式是什麼？」最適合如何回答？",
       "answer": "確認歸屬、用途、暴露服務與風險",
@@ -1763,6 +1923,8 @@
       ]
     },
     {
+      "uid": "cyble-b3168011d3c274b0",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 81,
       "question": "內部教育訓練要確認觀念：發現未識別子網域時，最合理的處理方式是什麼？",
       "answer": "確認歸屬、用途、暴露服務與風險",
@@ -1785,6 +1947,8 @@
       ]
     },
     {
+      "uid": "cyble-8407426b85bc2506",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 82,
       "question": "開放埠本身是否一定代表漏洞？",
       "answer": "不一定，需判斷服務、設定與暴露情境",
@@ -1807,6 +1971,8 @@
       ]
     },
     {
+      "uid": "cyble-d66f61b6099be962",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 83,
       "question": "客戶詢問：「開放埠本身是否一定代表漏洞？」最適合如何回答？",
       "answer": "不一定，需判斷服務、設定與暴露情境",
@@ -1829,6 +1995,8 @@
       ]
     },
     {
+      "uid": "cyble-13ab94e502f7bcda",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 84,
       "question": "內部教育訓練要確認觀念：開放埠本身是否一定代表漏洞？",
       "answer": "不一定，需判斷服務、設定與暴露情境",
@@ -1851,6 +2019,8 @@
       ]
     },
     {
+      "uid": "cyble-94a592622f992448",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 85,
       "question": "CVE 是什麼？",
       "answer": "公開揭露漏洞的識別編號",
@@ -1873,6 +2043,8 @@
       ]
     },
     {
+      "uid": "cyble-bcd8a7f27dff0573",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 86,
       "question": "客戶詢問：「CVE 是什麼？」最適合如何回答？",
       "answer": "公開揭露漏洞的識別編號",
@@ -1895,6 +2067,8 @@
       ]
     },
     {
+      "uid": "cyble-6e75f950d1072450",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 87,
       "question": "內部教育訓練要確認觀念：CVE 是什麼？",
       "answer": "公開揭露漏洞的識別編號",
@@ -1917,6 +2091,8 @@
       ]
     },
     {
+      "uid": "cyble-76cf1a792050c117",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 88,
       "question": "CVSS 主要表示什麼？",
       "answer": "漏洞嚴重度評分框架",
@@ -1939,6 +2115,8 @@
       ]
     },
     {
+      "uid": "cyble-f98e60df81072a0f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 89,
       "question": "客戶詢問：「CVSS 主要表示什麼？」最適合如何回答？",
       "answer": "漏洞嚴重度評分框架",
@@ -1961,6 +2139,8 @@
       ]
     },
     {
+      "uid": "cyble-6a39b922b669cda0",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 90,
       "question": "內部教育訓練要確認觀念：CVSS 主要表示什麼？",
       "answer": "漏洞嚴重度評分框架",
@@ -1983,6 +2163,8 @@
       ]
     },
     {
+      "uid": "cyble-045ef8af091772d9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 91,
       "question": "EPSS 主要用於估計什麼？",
       "answer": "漏洞在一定時間窗內被實際利用的機率",
@@ -2005,6 +2187,8 @@
       ]
     },
     {
+      "uid": "cyble-892e0adb28c1fb66",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 92,
       "question": "客戶詢問：「EPSS 主要用於估計什麼？」最適合如何回答？",
       "answer": "漏洞在一定時間窗內被實際利用的機率",
@@ -2027,6 +2211,8 @@
       ]
     },
     {
+      "uid": "cyble-79e90c5c32911350",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 93,
       "question": "內部教育訓練要確認觀念：EPSS 主要用於估計什麼？",
       "answer": "漏洞在一定時間窗內被實際利用的機率",
@@ -2049,6 +2235,8 @@
       ]
     },
     {
+      "uid": "cyble-e9346c78cf16b805",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 94,
       "question": "KEV 清單的核心意義是什麼？",
       "answer": "列出已知遭實際利用的漏洞",
@@ -2071,6 +2259,8 @@
       ]
     },
     {
+      "uid": "cyble-33938e48e075ab4f",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 95,
       "question": "客戶詢問：「KEV 清單的核心意義是什麼？」最適合如何回答？",
       "answer": "列出已知遭實際利用的漏洞",
@@ -2093,6 +2283,8 @@
       ]
     },
     {
+      "uid": "cyble-f3848b7144b21caa",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 96,
       "question": "內部教育訓練要確認觀念：KEV 清單的核心意義是什麼？",
       "answer": "列出已知遭實際利用的漏洞",
@@ -2115,6 +2307,8 @@
       ]
     },
     {
+      "uid": "cyble-eec2363256c86786",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 97,
       "question": "第三方風險情資主要幫助企業做什麼？",
       "answer": "掌握供應商外部暴露與可能影響",
@@ -2137,6 +2331,8 @@
       ]
     },
     {
+      "uid": "cyble-3bfed4f48e23afff",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 98,
       "question": "客戶詢問：「第三方風險情資主要幫助企業做什麼？」最適合如何回答？",
       "answer": "掌握供應商外部暴露與可能影響",
@@ -2159,6 +2355,8 @@
       ]
     },
     {
+      "uid": "cyble-c35c82fadb20cafd",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 99,
       "question": "內部教育訓練要確認觀念：第三方風險情資主要幫助企業做什麼？",
       "answer": "掌握供應商外部暴露與可能影響",
@@ -2181,6 +2379,8 @@
       ]
     },
     {
+      "uid": "cyble-9281c9b088aa5214",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 100,
       "question": "供應商遭揭露資料外洩時，第一步應是什麼？",
       "answer": "核實事件與本企業的資料、服務關聯",
@@ -2203,6 +2403,8 @@
       ]
     },
     {
+      "uid": "cyble-38caa1a055366be8",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 101,
       "question": "客戶詢問：「供應商遭揭露資料外洩時，第一步應是什麼？」最適合如何回答？",
       "answer": "核實事件與本企業的資料、服務關聯",
@@ -2225,6 +2427,8 @@
       ]
     },
     {
+      "uid": "cyble-7053178e664de24b",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 102,
       "question": "內部教育訓練要確認觀念：供應商遭揭露資料外洩時，第一步應是什麼？",
       "answer": "核實事件與本企業的資料、服務關聯",
@@ -2247,6 +2451,8 @@
       ]
     },
     {
+      "uid": "cyble-88440453fcc0039b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 103,
       "question": "Control Panel 中的 Keyword Management 用於什麼？",
       "answer": "管理監控關鍵字及其對應服務",
@@ -2264,6 +2470,8 @@
       "references": []
     },
     {
+      "uid": "cyble-327af10f8cfda173",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 104,
       "question": "客戶詢問：「Control Panel 中的 Keyword Management 用於什麼？」最適合如何回答？",
       "answer": "管理監控關鍵字及其對應服務",
@@ -2281,6 +2489,8 @@
       "references": []
     },
     {
+      "uid": "cyble-34303373c4f6f69d",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 105,
       "question": "內部教育訓練要確認觀念：Control Panel 中的 Keyword Management 用於什麼？",
       "answer": "管理監控關鍵字及其對應服務",
@@ -2298,6 +2508,8 @@
       "references": []
     },
     {
+      "uid": "cyble-f0cfdb154e4bd327",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 106,
       "question": "在 Keyword Management 中 Bucket 的用途為何？",
       "answer": "將關鍵字分組管理",
@@ -2315,6 +2527,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b18537ad09e52cc1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 107,
       "question": "客戶詢問：「在 Keyword Management 中 Bucket 的用途為何？」最適合如何回答？",
       "answer": "將關鍵字分組管理",
@@ -2332,6 +2546,8 @@
       "references": []
     },
     {
+      "uid": "cyble-225d8b09ce924df1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 108,
       "question": "內部教育訓練要確認觀念：在 Keyword Management 中 Bucket 的用途為何？",
       "answer": "將關鍵字分組管理",
@@ -2349,6 +2565,8 @@
       "references": []
     },
     {
+      "uid": "cyble-5a8055df0ea696e7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 109,
       "question": "Bulk Upload 可用來做什麼？",
       "answer": "透過 CSV 批次匯入關鍵字",
@@ -2366,6 +2584,8 @@
       "references": []
     },
     {
+      "uid": "cyble-44a12e4bbd85f798",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 110,
       "question": "客戶詢問：「Bulk Upload 可用來做什麼？」最適合如何回答？",
       "answer": "透過 CSV 批次匯入關鍵字",
@@ -2383,6 +2603,8 @@
       "references": []
     },
     {
+      "uid": "cyble-57cfbbc14300b3c7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 111,
       "question": "內部教育訓練要確認觀念：Bulk Upload 可用來做什麼？",
       "answer": "透過 CSV 批次匯入關鍵字",
@@ -2400,6 +2622,8 @@
       "references": []
     },
     {
+      "uid": "cyble-13bafdaa9e529f3e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 112,
       "question": "Keyword Management 的 View Alerts 作用為何？",
       "answer": "查看與指定關鍵字相關的警示",
@@ -2417,6 +2641,8 @@
       "references": []
     },
     {
+      "uid": "cyble-faf7844a7ac38cd6",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 113,
       "question": "客戶詢問：「Keyword Management 的 View Alerts 作用為何？」最適合如何回答？",
       "answer": "查看與指定關鍵字相關的警示",
@@ -2434,6 +2660,8 @@
       "references": []
     },
     {
+      "uid": "cyble-34c93c180a43eda1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 114,
       "question": "內部教育訓練要確認觀念：Keyword Management 的 View Alerts 作用為何？",
       "answer": "查看與指定關鍵字相關的警示",
@@ -2451,6 +2679,8 @@
       "references": []
     },
     {
+      "uid": "cyble-a59632fd4441b20e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 115,
       "question": "刪除整個 Bucket 時，操作手冊提醒什麼？",
       "answer": "其下關鍵字也會一併刪除",
@@ -2468,6 +2698,8 @@
       "references": []
     },
     {
+      "uid": "cyble-7c8a376267cf5d86",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 116,
       "question": "客戶詢問：「刪除整個 Bucket 時，操作手冊提醒什麼？」最適合如何回答？",
       "answer": "其下關鍵字也會一併刪除",
@@ -2485,6 +2717,8 @@
       "references": []
     },
     {
+      "uid": "cyble-53e284d849c1a59f",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 117,
       "question": "內部教育訓練要確認觀念：刪除整個 Bucket 時，操作手冊提醒什麼？",
       "answer": "其下關鍵字也會一併刪除",
@@ -2502,6 +2736,8 @@
       "references": []
     },
     {
+      "uid": "cyble-35bc4b5cb8be12f4",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 118,
       "question": "在新增關鍵字時，Services 欄位主要代表什麼？",
       "answer": "指定該關鍵字啟用的監控服務",
@@ -2519,6 +2755,8 @@
       "references": []
     },
     {
+      "uid": "cyble-317cb9542e5351bf",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 119,
       "question": "客戶詢問：「在新增關鍵字時，Services 欄位主要代表什麼？」最適合如何回答？",
       "answer": "指定該關鍵字啟用的監控服務",
@@ -2536,6 +2774,8 @@
       "references": []
     },
     {
+      "uid": "cyble-817755879702a0b4",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 120,
       "question": "內部教育訓練要確認觀念：在新增關鍵字時，Services 欄位主要代表什麼？",
       "answer": "指定該關鍵字啟用的監控服務",
@@ -2553,6 +2793,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ee7646e406f88374",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 121,
       "question": "平台帳號的 2FA 主要增加什麼？",
       "answer": "登入時的第二項驗證因素",
@@ -2570,6 +2812,8 @@
       "references": []
     },
     {
+      "uid": "cyble-df7a65007a21bf96",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 122,
       "question": "客戶詢問：「平台帳號的 2FA 主要增加什麼？」最適合如何回答？",
       "answer": "登入時的第二項驗證因素",
@@ -2587,6 +2831,8 @@
       "references": []
     },
     {
+      "uid": "cyble-6811d9cafa27c9c6",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 123,
       "question": "內部教育訓練要確認觀念：平台帳號的 2FA 主要增加什麼？",
       "answer": "登入時的第二項驗證因素",
@@ -2604,6 +2850,8 @@
       "references": []
     },
     {
+      "uid": "cyble-47fdfc8c787c0216",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 124,
       "question": "Profile Settings 主要用於什麼？",
       "answer": "管理個人檔案與帳號安全設定",
@@ -2621,6 +2869,8 @@
       "references": []
     },
     {
+      "uid": "cyble-59aca42ceab105db",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 125,
       "question": "客戶詢問：「Profile Settings 主要用於什麼？」最適合如何回答？",
       "answer": "管理個人檔案與帳號安全設定",
@@ -2638,6 +2888,8 @@
       "references": []
     },
     {
+      "uid": "cyble-10009da274491043",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 126,
       "question": "內部教育訓練要確認觀念：Profile Settings 主要用於什麼？",
       "answer": "管理個人檔案與帳號安全設定",
@@ -2655,6 +2907,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e048a9a440616334",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 127,
       "question": "Alerts Management 與 Keyword Management 的關係為何？",
       "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
@@ -2672,6 +2926,8 @@
       "references": []
     },
     {
+      "uid": "cyble-d2989a2fb7f4aa84",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 128,
       "question": "客戶詢問：「Alerts Management 與 Keyword Management 的關係為何？」最適合如何回答？",
       "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
@@ -2689,6 +2945,8 @@
       "references": []
     },
     {
+      "uid": "cyble-3f5ad8f9ce6a0c01",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 129,
       "question": "內部教育訓練要確認觀念：Alerts Management 與 Keyword Management 的關係為何？",
       "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
@@ -2706,6 +2964,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b26e56eda68ebedd",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 130,
       "question": "將 Cyble 情資導入 SIEM 的主要價值是什麼？",
       "answer": "讓外部威脅脈絡支援內部偵測與調查",
@@ -2728,6 +2988,8 @@
       ]
     },
     {
+      "uid": "cyble-7096b5b1376ebac1",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 131,
       "question": "客戶詢問：「將 Cyble 情資導入 SIEM 的主要價值是什麼？」最適合如何回答？",
       "answer": "讓外部威脅脈絡支援內部偵測與調查",
@@ -2750,6 +3012,8 @@
       ]
     },
     {
+      "uid": "cyble-c9124bbecc1a6b4a",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 132,
       "question": "內部教育訓練要確認觀念：將 Cyble 情資導入 SIEM 的主要價值是什麼？",
       "answer": "讓外部威脅脈絡支援內部偵測與調查",
@@ -2772,6 +3036,8 @@
       ]
     },
     {
+      "uid": "cyble-18c6f251502d9aac",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 133,
       "question": "STIX/TAXII 的典型用途是什麼？",
       "answer": "標準化表達與交換威脅情資",
@@ -2794,6 +3060,8 @@
       ]
     },
     {
+      "uid": "cyble-26b5c431928cde51",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 134,
       "question": "客戶詢問：「STIX/TAXII 的典型用途是什麼？」最適合如何回答？",
       "answer": "標準化表達與交換威脅情資",
@@ -2816,6 +3084,8 @@
       ]
     },
     {
+      "uid": "cyble-a7dc9cb8155b26c0",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 135,
       "question": "內部教育訓練要確認觀念：STIX/TAXII 的典型用途是什麼？",
       "answer": "標準化表達與交換威脅情資",
@@ -2838,6 +3108,8 @@
       ]
     },
     {
+      "uid": "cyble-fce010932c763ba2",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 136,
       "question": "面對大量外部情資警示，優先順序應考慮什麼？",
       "answer": "可信度、資產關聯、可利用性及業務衝擊",
@@ -2860,6 +3132,8 @@
       ]
     },
     {
+      "uid": "cyble-47dc7fe6b6914a78",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 137,
       "question": "客戶詢問：「面對大量外部情資警示，優先順序應考慮什麼？」最適合如何回答？",
       "answer": "可信度、資產關聯、可利用性及業務衝擊",
@@ -2882,6 +3156,8 @@
       ]
     },
     {
+      "uid": "cyble-8e42e6ed208516b4",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 138,
       "question": "內部教育訓練要確認觀念：面對大量外部情資警示，優先順序應考慮什麼？",
       "answer": "可信度、資產關聯、可利用性及業務衝擊",
@@ -2904,6 +3180,8 @@
       ]
     },
     {
+      "uid": "cyble-b9d4d7285bc97df9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 139,
       "question": "向客戶介紹 Cyble 功能時，哪些內容必須特別確認？",
       "answer": "授權模組、實際版本、監控範圍與服務條款",
@@ -2926,6 +3204,8 @@
       ]
     },
     {
+      "uid": "cyble-841ee0bbf851a936",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 140,
       "question": "客戶詢問：「向客戶介紹 Cyble 功能時，哪些內容必須特別確認？」最適合如何回答？",
       "answer": "授權模組、實際版本、監控範圍與服務條款",
@@ -2948,6 +3228,8 @@
       ]
     },
     {
+      "uid": "cyble-76455998b3e303b8",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 141,
       "question": "內部教育訓練要確認觀念：向客戶介紹 Cyble 功能時，哪些內容必須特別確認？",
       "answer": "授權模組、實際版本、監控範圍與服務條款",
@@ -2970,6 +3252,8 @@
       ]
     },
     {
+      "uid": "cyble-4fa4316edb88bce0",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 142,
       "question": "Takedown Tracker 的 New 表示什麼？",
       "answer": "已立案但尚未受理的案件",
@@ -2987,6 +3271,8 @@
       "references": []
     },
     {
+      "uid": "cyble-5e34024ed8ce14c7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 143,
       "question": "客戶詢問：「Takedown Tracker 的 New 表示什麼？」最適合如何回答？",
       "answer": "已立案但尚未受理的案件",
@@ -3004,6 +3290,8 @@
       "references": []
     },
     {
+      "uid": "cyble-47df8e01c13d9ef9",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 144,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 的 New 表示什麼？",
       "answer": "已立案但尚未受理的案件",
@@ -3021,6 +3309,8 @@
       "references": []
     },
     {
+      "uid": "cyble-d44085ee5f9c2ff3",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 145,
       "question": "Takedown Tracker 的 Active 代表什麼？",
       "answer": "目前正在進行下架的案件",
@@ -3038,6 +3328,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e89d003507a20b6f",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 146,
       "question": "客戶詢問：「Takedown Tracker 的 Active 代表什麼？」最適合如何回答？",
       "answer": "目前正在進行下架的案件",
@@ -3055,6 +3347,8 @@
       "references": []
     },
     {
+      "uid": "cyble-00aa262a6eaf9bc7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 147,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Active 代表什麼？",
       "answer": "目前正在進行下架的案件",
@@ -3072,6 +3366,8 @@
       "references": []
     },
     {
+      "uid": "cyble-1f3caddc49670272",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 148,
       "question": "Takedown Tracker 的 Closed 代表什麼？",
       "answer": "案件已結案，仍應查看詳細狀態與結果",
@@ -3089,6 +3385,8 @@
       "references": []
     },
     {
+      "uid": "cyble-f54d5978ecdb4941",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 149,
       "question": "客戶詢問：「Takedown Tracker 的 Closed 代表什麼？」最適合如何回答？",
       "answer": "案件已結案，仍應查看詳細狀態與結果",
@@ -3106,6 +3404,8 @@
       "references": []
     },
     {
+      "uid": "cyble-142b9935e4b7dd4c",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 150,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Closed 代表什麼？",
       "answer": "案件已結案，仍應查看詳細狀態與結果",
@@ -3123,6 +3423,8 @@
       "references": []
     },
     {
+      "uid": "cyble-c2b5d5c6a8d66bb0",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 151,
       "question": "Takedown Tracker 的 Credits 欄位表示什麼？",
       "answer": "已使用次數與可使用次數",
@@ -3140,6 +3442,8 @@
       "references": []
     },
     {
+      "uid": "cyble-65451b9180ab4d60",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 152,
       "question": "客戶詢問：「Takedown Tracker 的 Credits 欄位表示什麼？」最適合如何回答？",
       "answer": "已使用次數與可使用次數",
@@ -3157,6 +3461,8 @@
       "references": []
     },
     {
+      "uid": "cyble-53c5988c1514ca32",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 153,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Credits 欄位表示什麼？",
       "answer": "已使用次數與可使用次數",
@@ -3174,6 +3480,8 @@
       "references": []
     },
     {
+      "uid": "cyble-9801e152c6a6fbbc",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 154,
       "question": "從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？",
       "answer": "Takedown Tracker",
@@ -3191,6 +3499,8 @@
       "references": []
     },
     {
+      "uid": "cyble-3ecd54a0e05a4cd0",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 155,
       "question": "客戶詢問：「從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？」最適合如何回答？",
       "answer": "Takedown Tracker",
@@ -3208,6 +3518,8 @@
       "references": []
     },
     {
+      "uid": "cyble-a1f62864b4b9fdaa",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 156,
       "question": "內部教育訓練要確認觀念：從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？",
       "answer": "Takedown Tracker",
@@ -3225,6 +3537,8 @@
       "references": []
     },
     {
+      "uid": "cyble-4d362459953c24fd",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 157,
       "question": "Report Incident 中 Primary Abuse URL 是什麼？",
       "answer": "主要濫用網址",
@@ -3242,6 +3556,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b9d16169f1336390",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 158,
       "question": "客戶詢問：「Report Incident 中 Primary Abuse URL 是什麼？」最適合如何回答？",
       "answer": "主要濫用網址",
@@ -3259,6 +3575,8 @@
       "references": []
     },
     {
+      "uid": "cyble-c539ef5c7ad57d5d",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 159,
       "question": "內部教育訓練要確認觀念：Report Incident 中 Primary Abuse URL 是什麼？",
       "answer": "主要濫用網址",
@@ -3276,6 +3594,8 @@
       "references": []
     },
     {
+      "uid": "cyble-61d59a8c2f549f38",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 160,
       "question": "Report Incident 中 Evidence 的用途為何？",
       "answer": "上傳案件事證截圖",
@@ -3293,6 +3613,8 @@
       "references": []
     },
     {
+      "uid": "cyble-934244fee3177499",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 161,
       "question": "客戶詢問：「Report Incident 中 Evidence 的用途為何？」最適合如何回答？",
       "answer": "上傳案件事證截圖",
@@ -3310,6 +3632,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e565b4615170f625",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 162,
       "question": "內部教育訓練要確認觀念：Report Incident 中 Evidence 的用途為何？",
       "answer": "上傳案件事證截圖",
@@ -3327,6 +3651,8 @@
       "references": []
     },
     {
+      "uid": "cyble-877191be0a4b8f0c",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 163,
       "question": "Report Incident 的 Incident Info 可選哪些類型？",
       "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
@@ -3344,6 +3670,8 @@
       "references": []
     },
     {
+      "uid": "cyble-a62b76d61c54cba7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 164,
       "question": "客戶詢問：「Report Incident 的 Incident Info 可選哪些類型？」最適合如何回答？",
       "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
@@ -3361,6 +3689,8 @@
       "references": []
     },
     {
+      "uid": "cyble-09430a9d2a6423f5",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 165,
       "question": "內部教育訓練要確認觀念：Report Incident 的 Incident Info 可選哪些類型？",
       "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
@@ -3378,6 +3708,8 @@
       "references": []
     },
     {
+      "uid": "cyble-dd539be47ba9c68f",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 166,
       "question": "Whitelist URLs 的主要用途是什麼？",
       "answer": "避免官方網站或社群帳號被誤認為侵權內容",
@@ -3395,6 +3727,8 @@
       "references": []
     },
     {
+      "uid": "cyble-91aec5116acbd49b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 167,
       "question": "客戶詢問：「Whitelist URLs 的主要用途是什麼？」最適合如何回答？",
       "answer": "避免官方網站或社群帳號被誤認為侵權內容",
@@ -3412,6 +3746,8 @@
       "references": []
     },
     {
+      "uid": "cyble-58830d0f109f76f5",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 168,
       "question": "內部教育訓練要確認觀念：Whitelist URLs 的主要用途是什麼？",
       "answer": "避免官方網站或社群帳號被誤認為侵權內容",
@@ -3429,6 +3765,8 @@
       "references": []
     },
     {
+      "uid": "cyble-97c9669ab3309624",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 169,
       "question": "Whitelist URLs 中 Reason 欄位記錄什麼？",
       "answer": "加入白名單的原因",
@@ -3446,6 +3784,8 @@
       "references": []
     },
     {
+      "uid": "cyble-55e6cd604f6045d4",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 170,
       "question": "客戶詢問：「Whitelist URLs 中 Reason 欄位記錄什麼？」最適合如何回答？",
       "answer": "加入白名單的原因",
@@ -3463,6 +3803,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ea99cfc237392a47",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 171,
       "question": "內部教育訓練要確認觀念：Whitelist URLs 中 Reason 欄位記錄什麼？",
       "answer": "加入白名單的原因",
@@ -3480,6 +3822,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e69d3ce299c08a57",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 172,
       "question": "Watchlisted Domains 的功能為何？",
       "answer": "監控指定域名及其內容或狀態變更",
@@ -3497,6 +3841,8 @@
       "references": []
     },
     {
+      "uid": "cyble-dfbfceb5aa330308",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 173,
       "question": "客戶詢問：「Watchlisted Domains 的功能為何？」最適合如何回答？",
       "answer": "監控指定域名及其內容或狀態變更",
@@ -3514,6 +3860,8 @@
       "references": []
     },
     {
+      "uid": "cyble-636125b36687950b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 174,
       "question": "內部教育訓練要確認觀念：Watchlisted Domains 的功能為何？",
       "answer": "監控指定域名及其內容或狀態變更",
@@ -3531,6 +3879,8 @@
       "references": []
     },
     {
+      "uid": "cyble-193cc31e9d45ab06",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 175,
       "question": "Watchlisted Domains 的 Add Domain 操作需要輸入什麼？",
       "answer": "需監控的 Domain",
@@ -3548,6 +3898,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e4e87c8da4eae009",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 176,
       "question": "客戶詢問：「Watchlisted Domains 的 Add Domain 操作需要輸入什麼？」最適合如何回答？",
       "answer": "需監控的 Domain",
@@ -3565,6 +3917,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e2faa864af25c913",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 177,
       "question": "內部教育訓練要確認觀念：Watchlisted Domains 的 Add Domain 操作需要輸入什麼？",
       "answer": "需監控的 Domain",
@@ -3582,6 +3936,8 @@
       "references": []
     },
     {
+      "uid": "cyble-efecd4c575d9373f",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 178,
       "question": "Website Monitoring 的設定除了 Domains 還可填什麼？",
       "answer": "Keywords",
@@ -3599,6 +3955,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ae2d09735e34f188",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 179,
       "question": "客戶詢問：「Website Monitoring 的設定除了 Domains 還可填什麼？」最適合如何回答？",
       "answer": "Keywords",
@@ -3616,6 +3974,8 @@
       "references": []
     },
     {
+      "uid": "cyble-121faa54cd8c525f",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 180,
       "question": "內部教育訓練要確認觀念：Website Monitoring 的設定除了 Domains 還可填什麼？",
       "answer": "Keywords",
@@ -3633,6 +3993,8 @@
       "references": []
     },
     {
+      "uid": "cyble-be07967296f285b3",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 181,
       "question": "Website Watermarking 的新增流程包含哪個必要步驟？",
       "answer": "將系統產生的 Token 放入公司網頁程式碼",
@@ -3650,6 +4012,8 @@
       "references": []
     },
     {
+      "uid": "cyble-d7ad30264ea02ea8",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 182,
       "question": "客戶詢問：「Website Watermarking 的新增流程包含哪個必要步驟？」最適合如何回答？",
       "answer": "將系統產生的 Token 放入公司網頁程式碼",
@@ -3667,6 +4031,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e06921e5804fca19",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 183,
       "question": "內部教育訓練要確認觀念：Website Watermarking 的新增流程包含哪個必要步驟？",
       "answer": "將系統產生的 Token 放入公司網頁程式碼",
@@ -3684,6 +4050,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b0485fc354244274",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 184,
       "question": "Website Watermarking 告警應如何判讀？",
       "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
@@ -3701,6 +4069,8 @@
       "references": []
     },
     {
+      "uid": "cyble-0925141800fe0501",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 185,
       "question": "客戶詢問：「Website Watermarking 告警應如何判讀？」最適合如何回答？",
       "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
@@ -3718,6 +4088,8 @@
       "references": []
     },
     {
+      "uid": "cyble-93b06012d49eadd7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 186,
       "question": "內部教育訓練要確認觀念：Website Watermarking 告警應如何判讀？",
       "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
@@ -3735,6 +4107,8 @@
       "references": []
     },
     {
+      "uid": "cyble-32e4e14707600fe1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 187,
       "question": "Malicious Domains 的 Classification 篩選用途是什麼？",
       "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
@@ -3752,6 +4126,8 @@
       "references": []
     },
     {
+      "uid": "cyble-29d979b6769b53a8",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 188,
       "question": "客戶詢問：「Malicious Domains 的 Classification 篩選用途是什麼？」最適合如何回答？",
       "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
@@ -3769,6 +4145,8 @@
       "references": []
     },
     {
+      "uid": "cyble-6f243891ce3a8c60",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 189,
       "question": "內部教育訓練要確認觀念：Malicious Domains 的 Classification 篩選用途是什麼？",
       "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
@@ -3786,6 +4164,8 @@
       "references": []
     },
     {
+      "uid": "cyble-4b0d6aadb85ad5b1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 190,
       "question": "Malicious Domains 的 False Positive 篩選代表什麼？",
       "answer": "查看已被標記為誤報的域名",
@@ -3803,6 +4183,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ff07b9258f4f66fa",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 191,
       "question": "客戶詢問：「Malicious Domains 的 False Positive 篩選代表什麼？」最適合如何回答？",
       "answer": "查看已被標記為誤報的域名",
@@ -3820,6 +4202,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ef67950ec67239ff",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 192,
       "question": "內部教育訓練要確認觀念：Malicious Domains 的 False Positive 篩選代表什麼？",
       "answer": "查看已被標記為誤報的域名",
@@ -3837,6 +4221,8 @@
       "references": []
     },
     {
+      "uid": "cyble-68fb9eaf6775b82c",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 193,
       "question": "Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？",
       "answer": "Keywords、Severities、Source、Type",
@@ -3854,6 +4240,8 @@
       "references": []
     },
     {
+      "uid": "cyble-118b4ebc6be6865b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 194,
       "question": "客戶詢問：「Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？」最適合如何回答？",
       "answer": "Keywords、Severities、Source、Type",
@@ -3871,6 +4259,8 @@
       "references": []
     },
     {
+      "uid": "cyble-8c597fc6ca3045b6",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 195,
       "question": "內部教育訓練要確認觀念：Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？",
       "answer": "Keywords、Severities、Source、Type",
@@ -3888,6 +4278,8 @@
       "references": []
     },
     {
+      "uid": "cyble-86705889f5901671",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 196,
       "question": "社群媒體告警詳細資訊可能包含什麼？",
       "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
@@ -3905,6 +4297,8 @@
       "references": []
     },
     {
+      "uid": "cyble-5383762812f171e7",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 197,
       "question": "客戶詢問：「社群媒體告警詳細資訊可能包含什麼？」最適合如何回答？",
       "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
@@ -3922,6 +4316,8 @@
       "references": []
     },
     {
+      "uid": "cyble-f1ff164d6f7f7530",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 198,
       "question": "內部教育訓練要確認觀念：社群媒體告警詳細資訊可能包含什麼？",
       "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
@@ -3939,6 +4335,8 @@
       "references": []
     },
     {
+      "uid": "cyble-72bd93edf7c372eb",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 199,
       "question": "Ransomware Incidents 可依哪些條件篩選？",
       "answer": "Countries、Region、Ransomware Group、Industries",
@@ -3956,6 +4354,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b0246199169a8a61",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 200,
       "question": "客戶詢問：「Ransomware Incidents 可依哪些條件篩選？」最適合如何回答？",
       "answer": "Countries、Region、Ransomware Group、Industries",
@@ -3973,6 +4373,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ab55452b2d5964d3",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 201,
       "question": "內部教育訓練要確認觀念：Ransomware Incidents 可依哪些條件篩選？",
       "answer": "Countries、Region、Ransomware Group、Industries",
@@ -3990,6 +4392,8 @@
       "references": []
     },
     {
+      "uid": "cyble-dd4c14b16f281f09",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 202,
       "question": "Ransomware Incidents 的 Victim 欄位表示什麼？",
       "answer": "受勒索軟體攻擊的組織",
@@ -4007,6 +4411,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ed0d7b644c6cb526",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 203,
       "question": "客戶詢問：「Ransomware Incidents 的 Victim 欄位表示什麼？」最適合如何回答？",
       "answer": "受勒索軟體攻擊的組織",
@@ -4024,6 +4430,8 @@
       "references": []
     },
     {
+      "uid": "cyble-bd7a716f0d25ef99",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 204,
       "question": "內部教育訓練要確認觀念：Ransomware Incidents 的 Victim 欄位表示什麼？",
       "answer": "受勒索軟體攻擊的組織",
@@ -4041,6 +4449,8 @@
       "references": []
     },
     {
+      "uid": "cyble-521407a5f6d9618c",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 205,
       "question": "Threat Lens 的用途是什麼？",
       "answer": "上傳或提交網址與檔案進行威脅檢測",
@@ -4058,6 +4468,8 @@
       "references": []
     },
     {
+      "uid": "cyble-6a84759d8bb5126e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 206,
       "question": "客戶詢問：「Threat Lens 的用途是什麼？」最適合如何回答？",
       "answer": "上傳或提交網址與檔案進行威脅檢測",
@@ -4075,6 +4487,8 @@
       "references": []
     },
     {
+      "uid": "cyble-b43b34471f4cbe9e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 207,
       "question": "內部教育訓練要確認觀念：Threat Lens 的用途是什麼？",
       "answer": "上傳或提交網址與檔案進行威脅檢測",
@@ -4092,6 +4506,8 @@
       "references": []
     },
     {
+      "uid": "cyble-a0a3a43d1d87c5ec",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 208,
       "question": "Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？",
       "answer": "威脅情資模組的風險評估與告警狀態",
@@ -4109,6 +4525,8 @@
       "references": []
     },
     {
+      "uid": "cyble-012593bdbacaa400",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 209,
       "question": "客戶詢問：「Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？」最適合如何回答？",
       "answer": "威脅情資模組的風險評估與告警狀態",
@@ -4126,6 +4544,8 @@
       "references": []
     },
     {
+      "uid": "cyble-d3df88657f103945",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 210,
       "question": "內部教育訓練要確認觀念：Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？",
       "answer": "威脅情資模組的風險評估與告警狀態",
@@ -4143,6 +4563,8 @@
       "references": []
     },
     {
+      "uid": "cyble-2b4d605690823ce5",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 211,
       "question": "Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？",
       "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
@@ -4160,6 +4582,8 @@
       "references": []
     },
     {
+      "uid": "cyble-21f22df06986c30b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 212,
       "question": "客戶詢問：「Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？」最適合如何回答？",
       "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
@@ -4177,6 +4601,8 @@
       "references": []
     },
     {
+      "uid": "cyble-8c8658e33eb19f50",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 213,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？",
       "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
@@ -4194,6 +4620,8 @@
       "references": []
     },
     {
+      "uid": "cyble-61182b8d0f60c585",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 214,
       "question": "Takedown Tracker 的 Takedown Method 用於記錄什麼？",
       "answer": "提交下架申請的方式",
@@ -4211,6 +4639,8 @@
       "references": []
     },
     {
+      "uid": "cyble-52ccff1fa8ac36e8",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 215,
       "question": "客戶詢問：「Takedown Tracker 的 Takedown Method 用於記錄什麼？」最適合如何回答？",
       "answer": "提交下架申請的方式",
@@ -4228,6 +4658,8 @@
       "references": []
     },
     {
+      "uid": "cyble-5389def5e17fe62e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 216,
       "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Takedown Method 用於記錄什麼？",
       "answer": "提交下架申請的方式",
@@ -4245,6 +4677,8 @@
       "references": []
     },
     {
+      "uid": "cyble-25b6dae0d7196d16",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 217,
       "question": "Mobile Application Monitoring 主要呈現什麼？",
       "answer": "行動應用程式監控的告警與統計數據",
@@ -4262,6 +4696,8 @@
       "references": []
     },
     {
+      "uid": "cyble-94299bc55bb1061e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 218,
       "question": "客戶詢問：「Mobile Application Monitoring 主要呈現什麼？」最適合如何回答？",
       "answer": "行動應用程式監控的告警與統計數據",
@@ -4279,6 +4715,8 @@
       "references": []
     },
     {
+      "uid": "cyble-33971439d73b6a6b",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 219,
       "question": "內部教育訓練要確認觀念：Mobile Application Monitoring 主要呈現什麼？",
       "answer": "行動應用程式監控的告警與統計數據",
@@ -4296,6 +4734,8 @@
       "references": []
     },
     {
+      "uid": "cyble-a275e5dfe34b52cb",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 220,
       "question": "Executive Insights 的 Public Repositories Exposure 著重什麼？",
       "answer": "公開程式碼儲存庫中意外曝露的機敏資料或原始碼",
@@ -4313,6 +4753,8 @@
       "references": []
     },
     {
+      "uid": "cyble-facd65ba04c46dd4",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 221,
       "question": "Private Repositories Exposure 主要提示哪類風險？",
       "answer": "非公開程式碼庫遭意外公開或未授權存取",
@@ -4330,6 +4772,8 @@
       "references": []
     },
     {
+      "uid": "cyble-9b959b4713c6edda",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 222,
       "question": "Alerts Insights 的 Alerts Pending Action 是什麼？",
       "answer": "尚未處理的安全警示狀態",
@@ -4347,6 +4791,8 @@
       "references": []
     },
     {
+      "uid": "cyble-23855d9fbb23e3d1",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 223,
       "question": "Severity Distribution 的 High、Medium、Low 代表什麼？",
       "answer": "警示風險嚴重程度的分布",
@@ -4364,6 +4810,8 @@
       "references": []
     },
     {
+      "uid": "cyble-0469e1ce224a4a19",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 224,
       "question": "Alerts Timeline 可以用來觀察什麼？",
       "answer": "告警在不同日期的數量變化趨勢",
@@ -4381,6 +4829,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ae2f295263da6411",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 225,
       "question": "Assignee Wise Alert Distribution 主要用於什麼？",
       "answer": "檢視警示指派對象及處理狀態",
@@ -4398,6 +4848,8 @@
       "references": []
     },
     {
+      "uid": "cyble-7f753e9b1ca8ab1c",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 226,
       "question": "AI Filtered Tags Cloud 的用途為何？",
       "answer": "將警示標籤分類並視覺化呈現",
@@ -4415,6 +4867,8 @@
       "references": []
     },
     {
+      "uid": "cyble-16660b84cfe8d3d9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 227,
       "question": "Threat Intelligence Feed 與 TIP 平台的差別是什麼？",
       "answer": "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
@@ -4437,6 +4891,8 @@
       ]
     },
     {
+      "uid": "cyble-4fdde9aaba473e14",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 228,
       "question": "Cyble Vision 宣稱可透過哪些標準方式提供情資整合？",
       "answer": "REST API 與 STIX/TAXII",
@@ -4459,6 +4915,8 @@
       ]
     },
     {
+      "uid": "cyble-eed1732af8468ba9",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 229,
       "question": "若客戶要求與特定 SIEM 原生整合，最適合的確認方式是什麼？",
       "answer": "核對目前可用 Connector、版本、授權與 POC",
@@ -4481,6 +4939,8 @@
       ]
     },
     {
+      "uid": "cyble-7b67c05d5424f614",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 230,
       "question": "Cyble Vision 的 Detect、Validate、Closure 代表什麼？",
       "answer": "偵測、驗證及處置／結案的威脅生命週期",
@@ -4503,6 +4963,8 @@
       ]
     },
     {
+      "uid": "cyble-3d3dc3b71d68cab0",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 231,
       "question": "Cyble 官網列出的品牌保護監控範圍包含什麼？",
       "answer": "網域、社群媒體、App 與暗網的品牌濫用",
@@ -4525,6 +4987,8 @@
       ]
     },
     {
+      "uid": "cyble-13252aaa6fd14e12",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 232,
       "question": "Cyble 官網所述下架流程為何要有 Verification？",
       "answer": "驗證威脅真實性並排除誤報",
@@ -4547,6 +5011,8 @@
       ]
     },
     {
+      "uid": "cyble-b85255b1b32e4589",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 233,
       "question": "為什麼不能把官網下架成功率當成個別案件保證？",
       "answer": "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
@@ -4569,6 +5035,8 @@
       ]
     },
     {
+      "uid": "cyble-764cdd2ed2c907df",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 234,
       "question": "Cyble 官網對 ASM 的 Discover 階段描述為何？",
       "answer": "持續盤點網際網路暴露資產與影子 IT",
@@ -4591,6 +5059,8 @@
       ]
     },
     {
+      "uid": "cyble-5c8a0ef29bbe88db",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 235,
       "question": "Cyble 官網對 ASM 的 Assess 階段描述為何？",
       "answer": "檢視已識別資產的弱點與錯誤設定",
@@ -4613,6 +5083,8 @@
       ]
     },
     {
+      "uid": "cyble-b1aa9234e561ff74",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 236,
       "question": "Cyble 官網對 ASM 的 Prioritize 階段描述為何？",
       "answer": "依嚴重度及實際可利用性排序曝險發現",
@@ -4635,6 +5107,8 @@
       ]
     },
     {
+      "uid": "cyble-d8c60b2cd6eed369",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 237,
       "question": "第三方資料外洩事件在 Cyble Vision 產品頁屬於哪類能力？",
       "answer": "入侵過程的驗證與第三方外洩影響分析",
@@ -4657,6 +5131,8 @@
       ]
     },
     {
+      "uid": "cyble-d5be89d318c66854",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 238,
       "question": "官網宣稱的漏洞情資是否等同自動修補？",
       "answer": "不是，情資協助優先排序；修補需另行執行與驗證",
@@ -4679,6 +5155,8 @@
       ]
     },
     {
+      "uid": "cyble-0a56633c463e17ef",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 239,
       "question": "Dark Web Chatter 命中公司名稱時，應如何處理？",
       "answer": "先確認來源、內容可信度及與企業的關聯",
@@ -4701,6 +5179,8 @@
       ]
     },
     {
+      "uid": "cyble-a41d8ca3004d2e8a",
+      "source_status": "官方連結供延伸閱讀，尚未逐題核實",
       "id": 240,
       "question": "勒索洩漏站聲稱攻擊供應商時，如何判斷本企業風險？",
       "answer": "核實供應商、資料類型、服務依賴及事件真實性",
@@ -4723,6 +5203,8 @@
       ]
     },
     {
+      "uid": "cyble-0ade2eadb41c5474",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 241,
       "question": "Takedown Tracker 的 Status 與 Active Duration 有何不同？",
       "answer": "Status 是案件狀態；Active Duration 是案件處理時長",
@@ -4740,6 +5222,8 @@
       "references": []
     },
     {
+      "uid": "cyble-21f9480373127359",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 242,
       "question": "Malicious Domains 的 Registered On 與 Identified On 有何差異？",
       "answer": "前者為註冊日期，後者為平台辨識日期",
@@ -4757,6 +5241,8 @@
       "references": []
     },
     {
+      "uid": "cyble-17d7030725fecf1e",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 243,
       "question": "Watchlisted Domain 與 Malicious Domain 可以直接視為同義嗎？",
       "answer": "不能，監控清單的域名不一定已被確認惡意",
@@ -4774,6 +5260,8 @@
       "references": []
     },
     {
+      "uid": "cyble-ab713f5a1bc8e530",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 244,
       "question": "Website Monitoring 與 Website Watermarking 的差異是什麼？",
       "answer": "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
@@ -4791,6 +5279,8 @@
       "references": []
     },
     {
+      "uid": "cyble-28ac13ccd6ee5ced",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 245,
       "question": "為什麼新增白名單前應確認 URL 歸屬？",
       "answer": "避免將真正惡意的偽冒站排除於監控或處理",
@@ -4808,6 +5298,8 @@
       "references": []
     },
     {
+      "uid": "cyble-618849ceea0a2887",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 246,
       "question": "從 Takedown Tracker 看到 Closed，還需要保留什麼佐證？",
       "answer": "案件詳情、處理時間、下架結果與必要截圖",
@@ -4825,6 +5317,8 @@
       "references": []
     },
     {
+      "uid": "cyble-e0b943b8e714bb7a",
+      "source_status": "手冊／內部教材；需依版本核對",
       "id": 247,
       "question": "Threat Lens 掃描檔案時，最應避免的做法是什麼？",
       "answer": "未確認資料敏感性就上傳客戶機密檔案",
