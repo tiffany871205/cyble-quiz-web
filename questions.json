@@ -1,0 +1,4845 @@
+{
+  "version": "2026-10-19",
+  "source": "Cyble 官方網站、2026 產品簡報及 Cyble Vision 操作手冊；非官方考題",
+  "items": [
+    {
+      "id": 1,
+      "question": "Cyble Vision 的主要定位是什麼？",
+      "answer": "整合網路威脅情資與數位風險防護的平台",
+      "explanation": "整合外部威脅可視性、調查及應對；並非只是一種單點防護工具。",
+      "category": "平台定位",
+      "section": "核心",
+      "options": [
+        "單純的端點防毒軟體",
+        "只提供 DNS 解析服務",
+        "純粹的資產會計系統",
+        "整合網路威脅情資與數位風險防護的平台"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "客戶詢問：「Cyble Vision 的主要定位是什麼？」最適合如何回答？",
+      "answer": "整合網路威脅情資與數位風險防護的平台",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：整合外部威脅可視性、調查及應對；並非只是一種單點防護工具。",
+      "category": "平台定位",
+      "section": "客戶情境",
+      "options": [
+        "只提供 DNS 解析服務",
+        "純粹的資產會計系統",
+        "整合網路威脅情資與數位風險防護的平台",
+        "單純的端點防毒軟體"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "內部教育訓練要確認觀念：Cyble Vision 的主要定位是什麼？",
+      "answer": "整合網路威脅情資與數位風險防護的平台",
+      "explanation": "判斷重點：整合外部威脅可視性、調查及應對；並非只是一種單點防護工具。",
+      "category": "平台定位",
+      "section": "觀念複習",
+      "options": [
+        "純粹的資產會計系統",
+        "整合網路威脅情資與數位風險防護的平台",
+        "單純的端點防毒軟體",
+        "只提供 DNS 解析服務"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Cyble Vision 主要監控哪些網路層面？",
+      "answer": "表面網路、深層網路及暗網",
+      "explanation": "官網強調跨 surface、deep、dark web 的外部情資可視性。",
+      "category": "平台定位",
+      "section": "核心",
+      "options": [
+        "只監控 Wi-Fi 訊號",
+        "只監控內部程式碼版本",
+        "表面網路、深層網路及暗網",
+        "僅企業內部區域網路"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "客戶詢問：「Cyble Vision 主要監控哪些網路層面？」最適合如何回答？",
+      "answer": "表面網路、深層網路及暗網",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：官網強調跨 surface、deep、dark web 的外部情資可視性。",
+      "category": "平台定位",
+      "section": "客戶情境",
+      "options": [
+        "只監控內部程式碼版本",
+        "表面網路、深層網路及暗網",
+        "僅企業內部區域網路",
+        "只監控 Wi-Fi 訊號"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "內部教育訓練要確認觀念：Cyble Vision 主要監控哪些網路層面？",
+      "answer": "表面網路、深層網路及暗網",
+      "explanation": "判斷重點：官網強調跨 surface、deep、dark web 的外部情資可視性。",
+      "category": "平台定位",
+      "section": "觀念複習",
+      "options": [
+        "表面網路、深層網路及暗網",
+        "僅企業內部區域網路",
+        "只監控 Wi-Fi 訊號",
+        "只監控內部程式碼版本"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Cyble Vision 與 Cyble Hawk 的定位差異是什麼？",
+      "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+      "explanation": "Cyble 官方產品組合分別描述 Vision 與 Hawk 的主要服務對象。",
+      "category": "平台定位",
+      "section": "核心",
+      "options": [
+        "兩者都是資料庫引擎",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "兩者都是郵件伺服器",
+        "Vision 只做備份；Hawk 只做防毒"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "客戶詢問：「Cyble Vision 與 Cyble Hawk 的定位差異是什麼？」最適合如何回答？",
+      "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：Cyble 官方產品組合分別描述 Vision 與 Hawk 的主要服務對象。",
+      "category": "平台定位",
+      "section": "客戶情境",
+      "options": [
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+        "兩者都是郵件伺服器",
+        "Vision 只做備份；Hawk 只做防毒",
+        "兩者都是資料庫引擎"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "內部教育訓練要確認觀念：Cyble Vision 與 Cyble Hawk 的定位差異是什麼？",
+      "answer": "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查",
+      "explanation": "判斷重點：Cyble 官方產品組合分別描述 Vision 與 Hawk 的主要服務對象。",
+      "category": "平台定位",
+      "section": "觀念複習",
+      "options": [
+        "兩者都是郵件伺服器",
+        "Vision 只做備份；Hawk 只做防毒",
+        "兩者都是資料庫引擎",
+        "Vision 偏企業威脅情資與數位風險；Hawk 偏政府及執法調查"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "CTI 的核心目的為何？",
+      "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
+      "explanation": "情資需要結合來源、脈絡、可信度與行動建議。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "自動保證所有攻擊失敗",
+        "完全取代 SOC 人員",
+        "只統計員工出勤"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "客戶詢問：「CTI 的核心目的為何？」最適合如何回答？",
+      "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：情資需要結合來源、脈絡、可信度與行動建議。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "自動保證所有攻擊失敗",
+        "完全取代 SOC 人員",
+        "只統計員工出勤",
+        "將威脅資訊轉化為可用於判斷與應對的情資"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "內部教育訓練要確認觀念：CTI 的核心目的為何？",
+      "answer": "將威脅資訊轉化為可用於判斷與應對的情資",
+      "explanation": "判斷重點：情資需要結合來源、脈絡、可信度與行動建議。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "完全取代 SOC 人員",
+        "只統計員工出勤",
+        "將威脅資訊轉化為可用於判斷與應對的情資",
+        "自動保證所有攻擊失敗"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "IOC 是什麼？",
+      "answer": "可能顯示系統遭入侵的指標",
+      "explanation": "IOC 可包括惡意 IP、網域、檔案雜湊等，但需評估脈絡與誤判。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "資安預算的貨幣單位",
+        "企業的官方商標",
+        "網站 SSL 憑證發行機構",
+        "可能顯示系統遭入侵的指標"
+      ],
+      "correct": 3,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "客戶詢問：「IOC 是什麼？」最適合如何回答？",
+      "answer": "可能顯示系統遭入侵的指標",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：IOC 可包括惡意 IP、網域、檔案雜湊等，但需評估脈絡與誤判。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "企業的官方商標",
+        "網站 SSL 憑證發行機構",
+        "可能顯示系統遭入侵的指標",
+        "資安預算的貨幣單位"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "內部教育訓練要確認觀念：IOC 是什麼？",
+      "answer": "可能顯示系統遭入侵的指標",
+      "explanation": "判斷重點：IOC 可包括惡意 IP、網域、檔案雜湊等，但需評估脈絡與誤判。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "網站 SSL 憑證發行機構",
+        "可能顯示系統遭入侵的指標",
+        "資安預算的貨幣單位",
+        "企業的官方商標"
+      ],
+      "correct": 1,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "TTP 指的是什麼？",
+      "answer": "攻擊者的戰術、技術與程序",
+      "explanation": "TTP 描述攻擊行為模式，較單一 IOC 更能支援行為導向防禦。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "三種電郵加密格式",
+        "三種風險評級顏色",
+        "攻擊者的戰術、技術與程序",
+        "DNS 的三種紀錄"
+      ],
+      "correct": 2,
+      "explanation_source": "手冊與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "客戶詢問：「TTP 指的是什麼？」最適合如何回答？",
+      "answer": "攻擊者的戰術、技術與程序",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：TTP 描述攻擊行為模式，較單一 IOC 更能支援行為導向防禦。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "三種風險評級顏色",
+        "攻擊者的戰術、技術與程序",
+        "DNS 的三種紀錄",
+        "三種電郵加密格式"
+      ],
+      "correct": 1,
+      "explanation_source": "手冊與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "內部教育訓練要確認觀念：TTP 指的是什麼？",
+      "answer": "攻擊者的戰術、技術與程序",
+      "explanation": "判斷重點：TTP 描述攻擊行為模式，較單一 IOC 更能支援行為導向防禦。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "攻擊者的戰術、技術與程序",
+        "DNS 的三種紀錄",
+        "三種電郵加密格式",
+        "三種風險評級顏色"
+      ],
+      "correct": 0,
+      "explanation_source": "手冊與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Strategic Intelligence 通常服務哪種決策？",
+      "answer": "管理層長期風險與策略規劃",
+      "explanation": "戰略情資聚焦趨勢、產業、地緣政治與高層決策。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "鍵盤輸入法設定",
+        "管理層長期風險與策略規劃",
+        "單一封包的 CRC 計算",
+        "重設個人桌布"
+      ],
+      "correct": 1,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "客戶詢問：「Strategic Intelligence 通常服務哪種決策？」最適合如何回答？",
+      "answer": "管理層長期風險與策略規劃",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：戰略情資聚焦趨勢、產業、地緣政治與高層決策。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "管理層長期風險與策略規劃",
+        "單一封包的 CRC 計算",
+        "重設個人桌布",
+        "鍵盤輸入法設定"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "內部教育訓練要確認觀念：Strategic Intelligence 通常服務哪種決策？",
+      "answer": "管理層長期風險與策略規劃",
+      "explanation": "判斷重點：戰略情資聚焦趨勢、產業、地緣政治與高層決策。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "單一封包的 CRC 計算",
+        "重設個人桌布",
+        "鍵盤輸入法設定",
+        "管理層長期風險與策略規劃"
+      ],
+      "correct": 3,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Tactical Intelligence 主要關注什麼？",
+      "answer": "攻擊手法與偵測防禦方法",
+      "explanation": "戰術情資關注攻擊者使用的技術與防禦對策。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "攻擊手法與偵測防禦方法",
+        "年度薪資結構",
+        "辦公室家具採購",
+        "備份磁帶標籤"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "客戶詢問：「Tactical Intelligence 主要關注什麼？」最適合如何回答？",
+      "answer": "攻擊手法與偵測防禦方法",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：戰術情資關注攻擊者使用的技術與防禦對策。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "年度薪資結構",
+        "辦公室家具採購",
+        "備份磁帶標籤",
+        "攻擊手法與偵測防禦方法"
+      ],
+      "correct": 3,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "內部教育訓練要確認觀念：Tactical Intelligence 主要關注什麼？",
+      "answer": "攻擊手法與偵測防禦方法",
+      "explanation": "判斷重點：戰術情資關注攻擊者使用的技術與防禦對策。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "辦公室家具採購",
+        "備份磁帶標籤",
+        "攻擊手法與偵測防禦方法",
+        "年度薪資結構"
+      ],
+      "correct": 2,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Operational Intelligence 最接近哪種內容？",
+      "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
+      "explanation": "營運情資支援威脅活動的追蹤及日常安全應變。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "只有公司財報",
+        "只有網站配色",
+        "只包含員工假勤",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷"
+      ],
+      "correct": 3,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "客戶詢問：「Operational Intelligence 最接近哪種內容？」最適合如何回答？",
+      "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：營運情資支援威脅活動的追蹤及日常安全應變。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "只有網站配色",
+        "只包含員工假勤",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "只有公司財報"
+      ],
+      "correct": 2,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "內部教育訓練要確認觀念：Operational Intelligence 最接近哪種內容？",
+      "answer": "特定威脅活動、攻擊計畫及可執行的營運判斷",
+      "explanation": "判斷重點：營運情資支援威脅活動的追蹤及日常安全應變。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "只包含員工假勤",
+        "特定威脅活動、攻擊計畫及可執行的營運判斷",
+        "只有公司財報",
+        "只有網站配色"
+      ],
+      "correct": 1,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Threat Actor 是什麼？",
+      "answer": "執行或參與威脅活動的行為者",
+      "explanation": "行為者可為個人、團體或組織，不代表每次活動都能可靠歸因。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "防火牆的製造商",
+        "SSL 憑證的有效日期",
+        "執行或參與威脅活動的行為者",
+        "任何網站的訪客"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "客戶詢問：「Threat Actor 是什麼？」最適合如何回答？",
+      "answer": "執行或參與威脅活動的行為者",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：行為者可為個人、團體或組織，不代表每次活動都能可靠歸因。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "SSL 憑證的有效日期",
+        "執行或參與威脅活動的行為者",
+        "任何網站的訪客",
+        "防火牆的製造商"
+      ],
+      "correct": 1,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "內部教育訓練要確認觀念：Threat Actor 是什麼？",
+      "answer": "執行或參與威脅活動的行為者",
+      "explanation": "判斷重點：行為者可為個人、團體或組織，不代表每次活動都能可靠歸因。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "執行或參與威脅活動的行為者",
+        "任何網站的訪客",
+        "防火牆的製造商",
+        "SSL 憑證的有效日期"
+      ],
+      "correct": 0,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "暗網監控發現企業帳密洩漏，最適當的第一步是什麼？",
+      "answer": "確認真實性、影響帳號及暴露範圍",
+      "explanation": "情資命中不等於已確認入侵；先驗證再執行重設與調查。",
+      "category": "暗網監控",
+      "section": "核心",
+      "options": [
+        "把帳密貼到公開社群",
+        "確認真實性、影響帳號及暴露範圍",
+        "立即宣布企業所有資料外洩",
+        "忽略所有舊資料"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "客戶詢問：「暗網監控發現企業帳密洩漏，最適當的第一步是什麼？」最適合如何回答？",
+      "answer": "確認真實性、影響帳號及暴露範圍",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：情資命中不等於已確認入侵；先驗證再執行重設與調查。",
+      "category": "暗網監控",
+      "section": "客戶情境",
+      "options": [
+        "確認真實性、影響帳號及暴露範圍",
+        "立即宣布企業所有資料外洩",
+        "忽略所有舊資料",
+        "把帳密貼到公開社群"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "內部教育訓練要確認觀念：暗網監控發現企業帳密洩漏，最適當的第一步是什麼？",
+      "answer": "確認真實性、影響帳號及暴露範圍",
+      "explanation": "判斷重點：情資命中不等於已確認入侵；先驗證再執行重設與調查。",
+      "category": "暗網監控",
+      "section": "觀念複習",
+      "options": [
+        "立即宣布企業所有資料外洩",
+        "忽略所有舊資料",
+        "把帳密貼到公開社群",
+        "確認真實性、影響帳號及暴露範圍"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Stealer Logs 通常是什麼？",
+      "answer": "資訊竊取型惡意軟體蒐集的紀錄",
+      "explanation": "可能包含帳密、Cookie、瀏覽器資訊等，須核實來源及時效。",
+      "category": "暗網監控",
+      "section": "核心",
+      "options": [
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "合法的員工登入報表",
+        "網站流量的純統計圖",
+        "DNSSEC 金鑰清單"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "客戶詢問：「Stealer Logs 通常是什麼？」最適合如何回答？",
+      "answer": "資訊竊取型惡意軟體蒐集的紀錄",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：可能包含帳密、Cookie、瀏覽器資訊等，須核實來源及時效。",
+      "category": "暗網監控",
+      "section": "客戶情境",
+      "options": [
+        "合法的員工登入報表",
+        "網站流量的純統計圖",
+        "DNSSEC 金鑰清單",
+        "資訊竊取型惡意軟體蒐集的紀錄"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "內部教育訓練要確認觀念：Stealer Logs 通常是什麼？",
+      "answer": "資訊竊取型惡意軟體蒐集的紀錄",
+      "explanation": "判斷重點：可能包含帳密、Cookie、瀏覽器資訊等，須核實來源及時效。",
+      "category": "暗網監控",
+      "section": "觀念複習",
+      "options": [
+        "網站流量的純統計圖",
+        "DNSSEC 金鑰清單",
+        "資訊竊取型惡意軟體蒐集的紀錄",
+        "合法的員工登入報表"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "暗網監控來源可能包含哪一項？",
+      "answer": "地下論壇與勒索軟體洩漏站",
+      "explanation": "官網列出 TOR、I2P、論壇、貼文站及通訊頻道等多種來源。",
+      "category": "暗網監控",
+      "section": "核心",
+      "options": [
+        "僅公開公司首頁",
+        "僅辦公室印表機",
+        "僅本機藍牙裝置",
+        "地下論壇與勒索軟體洩漏站"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "客戶詢問：「暗網監控來源可能包含哪一項？」最適合如何回答？",
+      "answer": "地下論壇與勒索軟體洩漏站",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：官網列出 TOR、I2P、論壇、貼文站及通訊頻道等多種來源。",
+      "category": "暗網監控",
+      "section": "客戶情境",
+      "options": [
+        "僅辦公室印表機",
+        "僅本機藍牙裝置",
+        "地下論壇與勒索軟體洩漏站",
+        "僅公開公司首頁"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "內部教育訓練要確認觀念：暗網監控來源可能包含哪一項？",
+      "answer": "地下論壇與勒索軟體洩漏站",
+      "explanation": "判斷重點：官網列出 TOR、I2P、論壇、貼文站及通訊頻道等多種來源。",
+      "category": "暗網監控",
+      "section": "觀念複習",
+      "options": [
+        "僅本機藍牙裝置",
+        "地下論壇與勒索軟體洩漏站",
+        "僅公開公司首頁",
+        "僅辦公室印表機"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？",
+      "answer": "不能，應判讀內容、來源及脈絡",
+      "explanation": "關鍵字命中只是線索，需分析可信度與威脅意圖。",
+      "category": "暗網監控",
+      "section": "核心",
+      "options": [
+        "可以，因為 Telegram 只用於犯罪",
+        "不能，因為 Telegram 永遠不會有情資",
+        "不能，應判讀內容、來源及脈絡",
+        "可以，任何提及都是攻擊"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "question": "客戶詢問：「Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？」最適合如何回答？",
+      "answer": "不能，應判讀內容、來源及脈絡",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：關鍵字命中只是線索，需分析可信度與威脅意圖。",
+      "category": "暗網監控",
+      "section": "客戶情境",
+      "options": [
+        "不能，因為 Telegram 永遠不會有情資",
+        "不能，應判讀內容、來源及脈絡",
+        "可以，任何提及都是攻擊",
+        "可以，因為 Telegram 只用於犯罪"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "內部教育訓練要確認觀念：Telegram 情資出現品牌名稱，能直接認定是惡意攻擊嗎？",
+      "answer": "不能，應判讀內容、來源及脈絡",
+      "explanation": "判斷重點：關鍵字命中只是線索，需分析可信度與威脅意圖。",
+      "category": "暗網監控",
+      "section": "觀念複習",
+      "options": [
+        "不能，應判讀內容、來源及脈絡",
+        "可以，任何提及都是攻擊",
+        "可以，因為 Telegram 只用於犯罪",
+        "不能，因為 Telegram 永遠不會有情資"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Brand Intelligence 主要處理哪一類問題？",
+      "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+      "explanation": "官網列出品牌偽冒、釣魚網站及仿冒網域監控。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "實體辦公室照明",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "企業內部薪資核算",
+        "電腦 CPU 超頻"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "客戶詢問：「Brand Intelligence 主要處理哪一類問題？」最適合如何回答？",
+      "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：官網列出品牌偽冒、釣魚網站及仿冒網域監控。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+        "企業內部薪資核算",
+        "電腦 CPU 超頻",
+        "實體辦公室照明"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "內部教育訓練要確認觀念：Brand Intelligence 主要處理哪一類問題？",
+      "answer": "偽冒品牌、釣魚及欺詐性網域等外部濫用",
+      "explanation": "判斷重點：官網列出品牌偽冒、釣魚網站及仿冒網域監控。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "企業內部薪資核算",
+        "電腦 CPU 超頻",
+        "實體辦公室照明",
+        "偽冒品牌、釣魚及欺詐性網域等外部濫用"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Lookalike Domain 是什麼？",
+      "answer": "外觀或拼字近似合法品牌的網域",
+      "explanation": "可用於混淆、釣魚或品牌濫用，但相似不等於必然惡意。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "外觀或拼字近似合法品牌的網域",
+        "公司主機的 MAC 位址",
+        "DNS 伺服器的主機板",
+        "已停用的作業系統"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "客戶詢問：「Lookalike Domain 是什麼？」最適合如何回答？",
+      "answer": "外觀或拼字近似合法品牌的網域",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：可用於混淆、釣魚或品牌濫用，但相似不等於必然惡意。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "公司主機的 MAC 位址",
+        "DNS 伺服器的主機板",
+        "已停用的作業系統",
+        "外觀或拼字近似合法品牌的網域"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "question": "內部教育訓練要確認觀念：Lookalike Domain 是什麼？",
+      "answer": "外觀或拼字近似合法品牌的網域",
+      "explanation": "判斷重點：可用於混淆、釣魚或品牌濫用，但相似不等於必然惡意。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "DNS 伺服器的主機板",
+        "已停用的作業系統",
+        "外觀或拼字近似合法品牌的網域",
+        "公司主機的 MAC 位址"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Phishing Monitoring 主要目的是什麼？",
+      "answer": "偵測可能誘騙使用者交出敏感資料的網站",
+      "explanation": "釣魚監控重點在識別冒名與誘騙行為。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "提高顯示器解析度",
+        "統計公司內部餐費",
+        "檢查實體門禁卡電量",
+        "偵測可能誘騙使用者交出敏感資料的網站"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "question": "客戶詢問：「Phishing Monitoring 主要目的是什麼？」最適合如何回答？",
+      "answer": "偵測可能誘騙使用者交出敏感資料的網站",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：釣魚監控重點在識別冒名與誘騙行為。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "統計公司內部餐費",
+        "檢查實體門禁卡電量",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "提高顯示器解析度"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "內部教育訓練要確認觀念：Phishing Monitoring 主要目的是什麼？",
+      "answer": "偵測可能誘騙使用者交出敏感資料的網站",
+      "explanation": "判斷重點：釣魚監控重點在識別冒名與誘騙行為。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "檢查實體門禁卡電量",
+        "偵測可能誘騙使用者交出敏感資料的網站",
+        "提高顯示器解析度",
+        "統計公司內部餐費"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？",
+      "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
+      "explanation": "相似網域可能合法，需佐證網站內容、DNS 與使用行為。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "疑似網域一定是官方子網域",
+        "兩者只差字體顏色",
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "疑似網域必然已經成功詐騙"
+      ],
+      "correct": 2,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "question": "客戶詢問：「Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？」最適合如何回答？",
+      "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：相似網域可能合法，需佐證網站內容、DNS 與使用行為。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "兩者只差字體顏色",
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "疑似網域必然已經成功詐騙",
+        "疑似網域一定是官方子網域"
+      ],
+      "correct": 1,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "question": "內部教育訓練要確認觀念：Suspicious Domains Monitoring 與確認釣魚網站的差別是什麼？",
+      "answer": "疑似網域是待研判線索，不代表已確認為釣魚",
+      "explanation": "判斷重點：相似網域可能合法，需佐證網站內容、DNS 與使用行為。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "疑似網域是待研判線索，不代表已確認為釣魚",
+        "疑似網域必然已經成功詐騙",
+        "疑似網域一定是官方子網域",
+        "兩者只差字體顏色"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Mobile Application Monitoring 可能偵測什麼？",
+      "answer": "偽冒品牌的第三方行動應用程式",
+      "explanation": "品牌保護可延伸至假冒 App 與第三方上架管道。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "實體門禁電池",
+        "偽冒品牌的第三方行動應用程式",
+        "公司筆電風扇轉速",
+        "辦公室空調溫度"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "question": "客戶詢問：「Mobile Application Monitoring 可能偵測什麼？」最適合如何回答？",
+      "answer": "偽冒品牌的第三方行動應用程式",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：品牌保護可延伸至假冒 App 與第三方上架管道。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "偽冒品牌的第三方行動應用程式",
+        "公司筆電風扇轉速",
+        "辦公室空調溫度",
+        "實體門禁電池"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "內部教育訓練要確認觀念：Mobile Application Monitoring 可能偵測什麼？",
+      "answer": "偽冒品牌的第三方行動應用程式",
+      "explanation": "判斷重點：品牌保護可延伸至假冒 App 與第三方上架管道。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "公司筆電風扇轉速",
+        "辦公室空調溫度",
+        "實體門禁電池",
+        "偽冒品牌的第三方行動應用程式"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Social Media Monitoring 可協助發現什麼？",
+      "answer": "假冒企業的社群帳號與粉絲專頁",
+      "explanation": "代理商品牌監控簡報列出多個社群平台偽冒監控。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "假冒企業的社群帳號與粉絲專頁",
+        "只有企業內部電子郵件",
+        "只偵測機房溫度",
+        "只監控員工打卡"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "客戶詢問：「Social Media Monitoring 可協助發現什麼？」最適合如何回答？",
+      "answer": "假冒企業的社群帳號與粉絲專頁",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：代理商品牌監控簡報列出多個社群平台偽冒監控。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "只有企業內部電子郵件",
+        "只偵測機房溫度",
+        "只監控員工打卡",
+        "假冒企業的社群帳號與粉絲專頁"
+      ],
+      "correct": 3,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "內部教育訓練要確認觀念：Social Media Monitoring 可協助發現什麼？",
+      "answer": "假冒企業的社群帳號與粉絲專頁",
+      "explanation": "判斷重點：代理商品牌監控簡報列出多個社群平台偽冒監控。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "只偵測機房溫度",
+        "只監控員工打卡",
+        "假冒企業的社群帳號與粉絲專頁",
+        "只有企業內部電子郵件"
+      ],
+      "correct": 2,
+      "explanation_source": "簡報",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Takedown 的意思是什麼？",
+      "answer": "協調平台、託管商或註冊商移除惡意內容",
+      "explanation": "下架通常涉及證據、平台政策及第三方處理。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "自動刪除所有網路內容",
+        "保證永久移除所有截圖",
+        "直接封鎖全世界 DNS",
+        "協調平台、託管商或註冊商移除惡意內容"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "question": "客戶詢問：「Takedown 的意思是什麼？」最適合如何回答？",
+      "answer": "協調平台、託管商或註冊商移除惡意內容",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：下架通常涉及證據、平台政策及第三方處理。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "保證永久移除所有截圖",
+        "直接封鎖全世界 DNS",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "自動刪除所有網路內容"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "question": "內部教育訓練要確認觀念：Takedown 的意思是什麼？",
+      "answer": "協調平台、託管商或註冊商移除惡意內容",
+      "explanation": "判斷重點：下架通常涉及證據、平台政策及第三方處理。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "直接封鎖全世界 DNS",
+        "協調平台、託管商或註冊商移除惡意內容",
+        "自動刪除所有網路內容",
+        "保證永久移除所有截圖"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "question": "偵測到釣魚網站後，是否代表 Cyble 已完成下架？",
+      "answer": "不是，偵測與下架是不同流程",
+      "explanation": "下架通常需提出請求、驗證與協調，且可能失敗或延遲。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "是，所有網站都能瞬間移除",
+        "不是，因為釣魚網站不能下架",
+        "不是，偵測與下架是不同流程",
+        "是，兩者完全同義"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "question": "客戶詢問：「偵測到釣魚網站後，是否代表 Cyble 已完成下架？」最適合如何回答？",
+      "answer": "不是，偵測與下架是不同流程",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：下架通常需提出請求、驗證與協調，且可能失敗或延遲。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "不是，因為釣魚網站不能下架",
+        "不是，偵測與下架是不同流程",
+        "是，兩者完全同義",
+        "是，所有網站都能瞬間移除"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "question": "內部教育訓練要確認觀念：偵測到釣魚網站後，是否代表 Cyble 已完成下架？",
+      "answer": "不是，偵測與下架是不同流程",
+      "explanation": "判斷重點：下架通常需提出請求、驗證與協調，且可能失敗或延遲。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "不是，偵測與下架是不同流程",
+        "是，兩者完全同義",
+        "是，所有網站都能瞬間移除",
+        "不是，因為釣魚網站不能下架"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "question": "下架 SLA 應以哪個依據承諾客戶？",
+      "answer": "客戶合約與實際服務條款",
+      "explanation": "簡報中的歷史統計或案例不應直接當成個別合約保證。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "業務人員的口頭推測",
+        "客戶合約與實際服務條款",
+        "網路上任一成功案例",
+        "其他客戶的平均時間"
+      ],
+      "correct": 1,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "question": "客戶詢問：「下架 SLA 應以哪個依據承諾客戶？」最適合如何回答？",
+      "answer": "客戶合約與實際服務條款",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：簡報中的歷史統計或案例不應直接當成個別合約保證。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "客戶合約與實際服務條款",
+        "網路上任一成功案例",
+        "其他客戶的平均時間",
+        "業務人員的口頭推測"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "question": "內部教育訓練要確認觀念：下架 SLA 應以哪個依據承諾客戶？",
+      "answer": "客戶合約與實際服務條款",
+      "explanation": "判斷重點：簡報中的歷史統計或案例不應直接當成個別合約保證。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "網路上任一成功案例",
+        "其他客戶的平均時間",
+        "業務人員的口頭推測",
+        "客戶合約與實際服務條款"
+      ],
+      "correct": 3,
+      "explanation_source": "簡報與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "question": "哪一種情況通常較難保證完整下架？",
+      "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
+      "explanation": "不同平台政策與司法轄區會影響處理結果。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "受控的測試環境檔案",
+        "公司內部草稿",
+        "尚未公開的私人便條"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "question": "客戶詢問：「哪一種情況通常較難保證完整下架？」最適合如何回答？",
+      "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：不同平台政策與司法轄區會影響處理結果。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "受控的測試環境檔案",
+        "公司內部草稿",
+        "尚未公開的私人便條",
+        "已被多處轉貼且缺乏有效申訴管道的內容"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "question": "內部教育訓練要確認觀念：哪一種情況通常較難保證完整下架？",
+      "answer": "已被多處轉貼且缺乏有效申訴管道的內容",
+      "explanation": "判斷重點：不同平台政策與司法轄區會影響處理結果。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "公司內部草稿",
+        "尚未公開的私人便條",
+        "已被多處轉貼且缺乏有效申訴管道的內容",
+        "受控的測試環境檔案"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/articles/brand-protection-dark-web-monitoring/"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "question": "EASM 的主要目標是什麼？",
+      "answer": "識別與評估對外暴露的數位資產及風險",
+      "explanation": "外部攻擊面管理著重網際網路可見的資產及曝險。",
+      "category": "攻擊面管理",
+      "section": "核心",
+      "options": [
+        "只盤點辦公桌椅",
+        "只管理人事資料",
+        "只計算網站廣告費",
+        "識別與評估對外暴露的數位資產及風險"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "question": "客戶詢問：「EASM 的主要目標是什麼？」最適合如何回答？",
+      "answer": "識別與評估對外暴露的數位資產及風險",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：外部攻擊面管理著重網際網路可見的資產及曝險。",
+      "category": "攻擊面管理",
+      "section": "客戶情境",
+      "options": [
+        "只管理人事資料",
+        "只計算網站廣告費",
+        "識別與評估對外暴露的數位資產及風險",
+        "只盤點辦公桌椅"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "question": "內部教育訓練要確認觀念：EASM 的主要目標是什麼？",
+      "answer": "識別與評估對外暴露的數位資產及風險",
+      "explanation": "判斷重點：外部攻擊面管理著重網際網路可見的資產及曝險。",
+      "category": "攻擊面管理",
+      "section": "觀念複習",
+      "options": [
+        "只計算網站廣告費",
+        "識別與評估對外暴露的數位資產及風險",
+        "只盤點辦公桌椅",
+        "只管理人事資料"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "question": "Shadow IT 指的是什麼？",
+      "answer": "未受正式 IT 管理或掌握的技術與服務",
+      "explanation": "影子 IT 可能造成資產可視性不足。",
+      "category": "攻擊面管理",
+      "section": "核心",
+      "options": [
+        "企業合法的機房備援",
+        "只存在於暗網的伺服器",
+        "未受正式 IT 管理或掌握的技術與服務",
+        "任何暗色主題的應用"
+      ],
+      "correct": 2,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "question": "客戶詢問：「Shadow IT 指的是什麼？」最適合如何回答？",
+      "answer": "未受正式 IT 管理或掌握的技術與服務",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：影子 IT 可能造成資產可視性不足。",
+      "category": "攻擊面管理",
+      "section": "客戶情境",
+      "options": [
+        "只存在於暗網的伺服器",
+        "未受正式 IT 管理或掌握的技術與服務",
+        "任何暗色主題的應用",
+        "企業合法的機房備援"
+      ],
+      "correct": 1,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "question": "內部教育訓練要確認觀念：Shadow IT 指的是什麼？",
+      "answer": "未受正式 IT 管理或掌握的技術與服務",
+      "explanation": "判斷重點：影子 IT 可能造成資產可視性不足。",
+      "category": "攻擊面管理",
+      "section": "觀念複習",
+      "options": [
+        "未受正式 IT 管理或掌握的技術與服務",
+        "任何暗色主題的應用",
+        "企業合法的機房備援",
+        "只存在於暗網的伺服器"
+      ],
+      "correct": 0,
+      "explanation_source": "簡報與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "question": "發現未識別子網域時，最合理的處理方式是什麼？",
+      "answer": "確認歸屬、用途、暴露服務與風險",
+      "explanation": "資產歸屬與實際控制權需要確認，避免誤判。",
+      "category": "攻擊面管理",
+      "section": "核心",
+      "options": [
+        "忽略所有 DNS 紀錄",
+        "確認歸屬、用途、暴露服務與風險",
+        "立即刪除公司主網域",
+        "一律視為外部駭客資產"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "question": "客戶詢問：「發現未識別子網域時，最合理的處理方式是什麼？」最適合如何回答？",
+      "answer": "確認歸屬、用途、暴露服務與風險",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：資產歸屬與實際控制權需要確認，避免誤判。",
+      "category": "攻擊面管理",
+      "section": "客戶情境",
+      "options": [
+        "確認歸屬、用途、暴露服務與風險",
+        "立即刪除公司主網域",
+        "一律視為外部駭客資產",
+        "忽略所有 DNS 紀錄"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "question": "內部教育訓練要確認觀念：發現未識別子網域時，最合理的處理方式是什麼？",
+      "answer": "確認歸屬、用途、暴露服務與風險",
+      "explanation": "判斷重點：資產歸屬與實際控制權需要確認，避免誤判。",
+      "category": "攻擊面管理",
+      "section": "觀念複習",
+      "options": [
+        "立即刪除公司主網域",
+        "一律視為外部駭客資產",
+        "忽略所有 DNS 紀錄",
+        "確認歸屬、用途、暴露服務與風險"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "question": "開放埠本身是否一定代表漏洞？",
+      "answer": "不一定，需判斷服務、設定與暴露情境",
+      "explanation": "風險取決於服務必要性、版本、存取控制及弱點。",
+      "category": "攻擊面管理",
+      "section": "核心",
+      "options": [
+        "不一定，需判斷服務、設定與暴露情境",
+        "一定，任何開放埠都必須關閉",
+        "一定，因為 TCP 不能公開",
+        "不一定，因為埠與資安無關"
+      ],
+      "correct": 0,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "question": "客戶詢問：「開放埠本身是否一定代表漏洞？」最適合如何回答？",
+      "answer": "不一定，需判斷服務、設定與暴露情境",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：風險取決於服務必要性、版本、存取控制及弱點。",
+      "category": "攻擊面管理",
+      "section": "客戶情境",
+      "options": [
+        "一定，任何開放埠都必須關閉",
+        "一定，因為 TCP 不能公開",
+        "不一定，因為埠與資安無關",
+        "不一定，需判斷服務、設定與暴露情境"
+      ],
+      "correct": 3,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "question": "內部教育訓練要確認觀念：開放埠本身是否一定代表漏洞？",
+      "answer": "不一定，需判斷服務、設定與暴露情境",
+      "explanation": "判斷重點：風險取決於服務必要性、版本、存取控制及弱點。",
+      "category": "攻擊面管理",
+      "section": "觀念複習",
+      "options": [
+        "一定，因為 TCP 不能公開",
+        "不一定，因為埠與資安無關",
+        "不一定，需判斷服務、設定與暴露情境",
+        "一定，任何開放埠都必須關閉"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "question": "CVE 是什麼？",
+      "answer": "公開揭露漏洞的識別編號",
+      "explanation": "CVE 提供漏洞識別，不直接等於風險嚴重度或已遭利用。",
+      "category": "漏洞情資",
+      "section": "核心",
+      "options": [
+        "企業內部帳號密碼",
+        "網域名稱的國碼",
+        "電子郵件的寄件人",
+        "公開揭露漏洞的識別編號"
+      ],
+      "correct": 3,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "question": "客戶詢問：「CVE 是什麼？」最適合如何回答？",
+      "answer": "公開揭露漏洞的識別編號",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：CVE 提供漏洞識別，不直接等於風險嚴重度或已遭利用。",
+      "category": "漏洞情資",
+      "section": "客戶情境",
+      "options": [
+        "網域名稱的國碼",
+        "電子郵件的寄件人",
+        "公開揭露漏洞的識別編號",
+        "企業內部帳號密碼"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "question": "內部教育訓練要確認觀念：CVE 是什麼？",
+      "answer": "公開揭露漏洞的識別編號",
+      "explanation": "判斷重點：CVE 提供漏洞識別，不直接等於風險嚴重度或已遭利用。",
+      "category": "漏洞情資",
+      "section": "觀念複習",
+      "options": [
+        "電子郵件的寄件人",
+        "公開揭露漏洞的識別編號",
+        "企業內部帳號密碼",
+        "網域名稱的國碼"
+      ],
+      "correct": 1,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "question": "CVSS 主要表示什麼？",
+      "answer": "漏洞嚴重度評分框架",
+      "explanation": "CVSS 是嚴重度指標，仍需搭配資產脈絡及威脅情資。",
+      "category": "漏洞情資",
+      "section": "核心",
+      "options": [
+        "下架保證天數",
+        "員工受訓完成率",
+        "漏洞嚴重度評分框架",
+        "攻擊者的真實身分"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "question": "客戶詢問：「CVSS 主要表示什麼？」最適合如何回答？",
+      "answer": "漏洞嚴重度評分框架",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：CVSS 是嚴重度指標，仍需搭配資產脈絡及威脅情資。",
+      "category": "漏洞情資",
+      "section": "客戶情境",
+      "options": [
+        "員工受訓完成率",
+        "漏洞嚴重度評分框架",
+        "攻擊者的真實身分",
+        "下架保證天數"
+      ],
+      "correct": 1,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "question": "內部教育訓練要確認觀念：CVSS 主要表示什麼？",
+      "answer": "漏洞嚴重度評分框架",
+      "explanation": "判斷重點：CVSS 是嚴重度指標，仍需搭配資產脈絡及威脅情資。",
+      "category": "漏洞情資",
+      "section": "觀念複習",
+      "options": [
+        "漏洞嚴重度評分框架",
+        "攻擊者的真實身分",
+        "下架保證天數",
+        "員工受訓完成率"
+      ],
+      "correct": 0,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "question": "EPSS 主要用於估計什麼？",
+      "answer": "漏洞在一定時間窗內被實際利用的機率",
+      "explanation": "EPSS 是利用可能性預測，不是漏洞影響程度。",
+      "category": "漏洞情資",
+      "section": "核心",
+      "options": [
+        "員工上網時數",
+        "漏洞在一定時間窗內被實際利用的機率",
+        "網站年營收",
+        "密碼雜湊長度"
+      ],
+      "correct": 1,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "question": "客戶詢問：「EPSS 主要用於估計什麼？」最適合如何回答？",
+      "answer": "漏洞在一定時間窗內被實際利用的機率",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：EPSS 是利用可能性預測，不是漏洞影響程度。",
+      "category": "漏洞情資",
+      "section": "客戶情境",
+      "options": [
+        "漏洞在一定時間窗內被實際利用的機率",
+        "網站年營收",
+        "密碼雜湊長度",
+        "員工上網時數"
+      ],
+      "correct": 0,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "question": "內部教育訓練要確認觀念：EPSS 主要用於估計什麼？",
+      "answer": "漏洞在一定時間窗內被實際利用的機率",
+      "explanation": "判斷重點：EPSS 是利用可能性預測，不是漏洞影響程度。",
+      "category": "漏洞情資",
+      "section": "觀念複習",
+      "options": [
+        "網站年營收",
+        "密碼雜湊長度",
+        "員工上網時數",
+        "漏洞在一定時間窗內被實際利用的機率"
+      ],
+      "correct": 3,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "question": "KEV 清單的核心意義是什麼？",
+      "answer": "列出已知遭實際利用的漏洞",
+      "explanation": "KEV 可作為修補優先排序的重要訊號之一。",
+      "category": "漏洞情資",
+      "section": "核心",
+      "options": [
+        "列出已知遭實際利用的漏洞",
+        "列出所有尚未公開的漏洞",
+        "列出所有企業的資安分數",
+        "列出合法域名註冊商"
+      ],
+      "correct": 0,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "question": "客戶詢問：「KEV 清單的核心意義是什麼？」最適合如何回答？",
+      "answer": "列出已知遭實際利用的漏洞",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：KEV 可作為修補優先排序的重要訊號之一。",
+      "category": "漏洞情資",
+      "section": "客戶情境",
+      "options": [
+        "列出所有尚未公開的漏洞",
+        "列出所有企業的資安分數",
+        "列出合法域名註冊商",
+        "列出已知遭實際利用的漏洞"
+      ],
+      "correct": 3,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "question": "內部教育訓練要確認觀念：KEV 清單的核心意義是什麼？",
+      "answer": "列出已知遭實際利用的漏洞",
+      "explanation": "判斷重點：KEV 可作為修補優先排序的重要訊號之一。",
+      "category": "漏洞情資",
+      "section": "觀念複習",
+      "options": [
+        "列出所有企業的資安分數",
+        "列出合法域名註冊商",
+        "列出已知遭實際利用的漏洞",
+        "列出所有尚未公開的漏洞"
+      ],
+      "correct": 2,
+      "explanation_source": "知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/data-sheets/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "question": "第三方風險情資主要幫助企業做什麼？",
+      "answer": "掌握供應商外部暴露與可能影響",
+      "explanation": "供應商風險需要結合服務依賴、暴露與事件情資。",
+      "category": "第三方風險",
+      "section": "核心",
+      "options": [
+        "自動簽署所有採購合約",
+        "保證供應商不會遭攻擊",
+        "替供應商支付保費",
+        "掌握供應商外部暴露與可能影響"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "question": "客戶詢問：「第三方風險情資主要幫助企業做什麼？」最適合如何回答？",
+      "answer": "掌握供應商外部暴露與可能影響",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：供應商風險需要結合服務依賴、暴露與事件情資。",
+      "category": "第三方風險",
+      "section": "客戶情境",
+      "options": [
+        "保證供應商不會遭攻擊",
+        "替供應商支付保費",
+        "掌握供應商外部暴露與可能影響",
+        "自動簽署所有採購合約"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "question": "內部教育訓練要確認觀念：第三方風險情資主要幫助企業做什麼？",
+      "answer": "掌握供應商外部暴露與可能影響",
+      "explanation": "判斷重點：供應商風險需要結合服務依賴、暴露與事件情資。",
+      "category": "第三方風險",
+      "section": "觀念複習",
+      "options": [
+        "替供應商支付保費",
+        "掌握供應商外部暴露與可能影響",
+        "自動簽署所有採購合約",
+        "保證供應商不會遭攻擊"
+      ],
+      "correct": 1,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "question": "供應商遭揭露資料外洩時，第一步應是什麼？",
+      "answer": "核實事件與本企業的資料、服務關聯",
+      "explanation": "需要確認事件真實性、資料類型與影響範圍。",
+      "category": "第三方風險",
+      "section": "核心",
+      "options": [
+        "不問情況直接公開客戶名單",
+        "直接刪除所有供應商帳號",
+        "核實事件與本企業的資料、服務關聯",
+        "立刻斷言所有供應商皆不安全"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "question": "客戶詢問：「供應商遭揭露資料外洩時，第一步應是什麼？」最適合如何回答？",
+      "answer": "核實事件與本企業的資料、服務關聯",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：需要確認事件真實性、資料類型與影響範圍。",
+      "category": "第三方風險",
+      "section": "客戶情境",
+      "options": [
+        "直接刪除所有供應商帳號",
+        "核實事件與本企業的資料、服務關聯",
+        "立刻斷言所有供應商皆不安全",
+        "不問情況直接公開客戶名單"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "內部教育訓練要確認觀念：供應商遭揭露資料外洩時，第一步應是什麼？",
+      "answer": "核實事件與本企業的資料、服務關聯",
+      "explanation": "判斷重點：需要確認事件真實性、資料類型與影響範圍。",
+      "category": "第三方風險",
+      "section": "觀念複習",
+      "options": [
+        "核實事件與本企業的資料、服務關聯",
+        "立刻斷言所有供應商皆不安全",
+        "不問情況直接公開客戶名單",
+        "直接刪除所有供應商帳號"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "Control Panel 中的 Keyword Management 用於什麼？",
+      "answer": "管理監控關鍵字及其對應服務",
+      "explanation": "操作手冊示範關鍵字新增、篩選與管理流程。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "直接執行系統還原",
+        "管理監控關鍵字及其對應服務",
+        "安裝本機顯示卡",
+        "建立員工薪資表"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.11–25",
+      "references": []
+    },
+    {
+      "id": 104,
+      "question": "客戶詢問：「Control Panel 中的 Keyword Management 用於什麼？」最適合如何回答？",
+      "answer": "管理監控關鍵字及其對應服務",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊示範關鍵字新增、篩選與管理流程。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "管理監控關鍵字及其對應服務",
+        "安裝本機顯示卡",
+        "建立員工薪資表",
+        "直接執行系統還原"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.11–25",
+      "references": []
+    },
+    {
+      "id": 105,
+      "question": "內部教育訓練要確認觀念：Control Panel 中的 Keyword Management 用於什麼？",
+      "answer": "管理監控關鍵字及其對應服務",
+      "explanation": "判斷重點：操作手冊示範關鍵字新增、篩選與管理流程。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "安裝本機顯示卡",
+        "建立員工薪資表",
+        "直接執行系統還原",
+        "管理監控關鍵字及其對應服務"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.11–25",
+      "references": []
+    },
+    {
+      "id": 106,
+      "question": "在 Keyword Management 中 Bucket 的用途為何？",
+      "answer": "將關鍵字分組管理",
+      "explanation": "手冊將 Bucket 稱為儲存桶，可依管理需求整理關鍵字。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "將關鍵字分組管理",
+        "自動封鎖所有 IP",
+        "替代 SSL 憑證",
+        "儲存使用者密碼明文"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.12–25",
+      "references": []
+    },
+    {
+      "id": 107,
+      "question": "客戶詢問：「在 Keyword Management 中 Bucket 的用途為何？」最適合如何回答？",
+      "answer": "將關鍵字分組管理",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊將 Bucket 稱為儲存桶，可依管理需求整理關鍵字。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "自動封鎖所有 IP",
+        "替代 SSL 憑證",
+        "儲存使用者密碼明文",
+        "將關鍵字分組管理"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.12–25",
+      "references": []
+    },
+    {
+      "id": 108,
+      "question": "內部教育訓練要確認觀念：在 Keyword Management 中 Bucket 的用途為何？",
+      "answer": "將關鍵字分組管理",
+      "explanation": "判斷重點：手冊將 Bucket 稱為儲存桶，可依管理需求整理關鍵字。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "替代 SSL 憑證",
+        "儲存使用者密碼明文",
+        "將關鍵字分組管理",
+        "自動封鎖所有 IP"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.12–25",
+      "references": []
+    },
+    {
+      "id": 109,
+      "question": "Bulk Upload 可用來做什麼？",
+      "answer": "透過 CSV 批次匯入關鍵字",
+      "explanation": "手冊列出 Type、Bucket、Services 與 CSV 上傳步驟。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "直接下架全球網站",
+        "修改企業註冊地址",
+        "產生防火牆硬體",
+        "透過 CSV 批次匯入關鍵字"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.14",
+      "references": []
+    },
+    {
+      "id": 110,
+      "question": "客戶詢問：「Bulk Upload 可用來做什麼？」最適合如何回答？",
+      "answer": "透過 CSV 批次匯入關鍵字",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊列出 Type、Bucket、Services 與 CSV 上傳步驟。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "修改企業註冊地址",
+        "產生防火牆硬體",
+        "透過 CSV 批次匯入關鍵字",
+        "直接下架全球網站"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.14",
+      "references": []
+    },
+    {
+      "id": 111,
+      "question": "內部教育訓練要確認觀念：Bulk Upload 可用來做什麼？",
+      "answer": "透過 CSV 批次匯入關鍵字",
+      "explanation": "判斷重點：手冊列出 Type、Bucket、Services 與 CSV 上傳步驟。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "產生防火牆硬體",
+        "透過 CSV 批次匯入關鍵字",
+        "直接下架全球網站",
+        "修改企業註冊地址"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.14",
+      "references": []
+    },
+    {
+      "id": 112,
+      "question": "Keyword Management 的 View Alerts 作用為何？",
+      "answer": "查看與指定關鍵字相關的警示",
+      "explanation": "手冊顯示 View Alerts 可跳轉 Alerts Management。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "將所有警示判為誤報",
+        "直接建立銀行帳戶",
+        "查看與指定關鍵字相關的警示",
+        "立即刪除該關鍵字"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 113,
+      "question": "客戶詢問：「Keyword Management 的 View Alerts 作用為何？」最適合如何回答？",
+      "answer": "查看與指定關鍵字相關的警示",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊顯示 View Alerts 可跳轉 Alerts Management。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "直接建立銀行帳戶",
+        "查看與指定關鍵字相關的警示",
+        "立即刪除該關鍵字",
+        "將所有警示判為誤報"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 114,
+      "question": "內部教育訓練要確認觀念：Keyword Management 的 View Alerts 作用為何？",
+      "answer": "查看與指定關鍵字相關的警示",
+      "explanation": "判斷重點：手冊顯示 View Alerts 可跳轉 Alerts Management。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "查看與指定關鍵字相關的警示",
+        "立即刪除該關鍵字",
+        "將所有警示判為誤報",
+        "直接建立銀行帳戶"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 115,
+      "question": "刪除整個 Bucket 時，操作手冊提醒什麼？",
+      "answer": "其下關鍵字也會一併刪除",
+      "explanation": "手冊明確提醒刪除 Bucket 會刪除底下的關鍵字。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "不會影響任何資料",
+        "其下關鍵字也會一併刪除",
+        "所有警示會自動升級",
+        "所有網域都會失效"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.24–26",
+      "references": []
+    },
+    {
+      "id": 116,
+      "question": "客戶詢問：「刪除整個 Bucket 時，操作手冊提醒什麼？」最適合如何回答？",
+      "answer": "其下關鍵字也會一併刪除",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊明確提醒刪除 Bucket 會刪除底下的關鍵字。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "其下關鍵字也會一併刪除",
+        "所有警示會自動升級",
+        "所有網域都會失效",
+        "不會影響任何資料"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.24–26",
+      "references": []
+    },
+    {
+      "id": 117,
+      "question": "內部教育訓練要確認觀念：刪除整個 Bucket 時，操作手冊提醒什麼？",
+      "answer": "其下關鍵字也會一併刪除",
+      "explanation": "判斷重點：手冊明確提醒刪除 Bucket 會刪除底下的關鍵字。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "所有警示會自動升級",
+        "所有網域都會失效",
+        "不會影響任何資料",
+        "其下關鍵字也會一併刪除"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.24–26",
+      "references": []
+    },
+    {
+      "id": 118,
+      "question": "在新增關鍵字時，Services 欄位主要代表什麼？",
+      "answer": "指定該關鍵字啟用的監控服務",
+      "explanation": "手冊在 Add Keyword 頁面列出 Services 啟用服務。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "指定該關鍵字啟用的監控服務",
+        "使用者的作業系統",
+        "網頁字體",
+        "外部供應商的信用卡"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.12",
+      "references": []
+    },
+    {
+      "id": 119,
+      "question": "客戶詢問：「在新增關鍵字時，Services 欄位主要代表什麼？」最適合如何回答？",
+      "answer": "指定該關鍵字啟用的監控服務",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊在 Add Keyword 頁面列出 Services 啟用服務。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "使用者的作業系統",
+        "網頁字體",
+        "外部供應商的信用卡",
+        "指定該關鍵字啟用的監控服務"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.12",
+      "references": []
+    },
+    {
+      "id": 120,
+      "question": "內部教育訓練要確認觀念：在新增關鍵字時，Services 欄位主要代表什麼？",
+      "answer": "指定該關鍵字啟用的監控服務",
+      "explanation": "判斷重點：手冊在 Add Keyword 頁面列出 Services 啟用服務。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "網頁字體",
+        "外部供應商的信用卡",
+        "指定該關鍵字啟用的監控服務",
+        "使用者的作業系統"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.12",
+      "references": []
+    },
+    {
+      "id": 121,
+      "question": "平台帳號的 2FA 主要增加什麼？",
+      "answer": "登入時的第二項驗證因素",
+      "explanation": "操作手冊示範使用驗證器 OTP 啟用 2FA。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "網頁載入速度",
+        "關鍵字數量",
+        "下架成功率保證",
+        "登入時的第二項驗證因素"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.9–10",
+      "references": []
+    },
+    {
+      "id": 122,
+      "question": "客戶詢問：「平台帳號的 2FA 主要增加什麼？」最適合如何回答？",
+      "answer": "登入時的第二項驗證因素",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊示範使用驗證器 OTP 啟用 2FA。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "關鍵字數量",
+        "下架成功率保證",
+        "登入時的第二項驗證因素",
+        "網頁載入速度"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.9–10",
+      "references": []
+    },
+    {
+      "id": 123,
+      "question": "內部教育訓練要確認觀念：平台帳號的 2FA 主要增加什麼？",
+      "answer": "登入時的第二項驗證因素",
+      "explanation": "判斷重點：操作手冊示範使用驗證器 OTP 啟用 2FA。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "下架成功率保證",
+        "登入時的第二項驗證因素",
+        "網頁載入速度",
+        "關鍵字數量"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.9–10",
+      "references": []
+    },
+    {
+      "id": 124,
+      "question": "Profile Settings 主要用於什麼？",
+      "answer": "管理個人檔案與帳號安全設定",
+      "explanation": "手冊包含姓名、密碼、聯絡資訊及 2FA。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "刪除所有客戶資料",
+        "下載全部暗網資料",
+        "管理個人檔案與帳號安全設定",
+        "搜尋全球所有漏洞"
+      ],
+      "correct": 2,
+      "explanation_source": "操作手冊 p.4–10",
+      "references": []
+    },
+    {
+      "id": 125,
+      "question": "客戶詢問：「Profile Settings 主要用於什麼？」最適合如何回答？",
+      "answer": "管理個人檔案與帳號安全設定",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊包含姓名、密碼、聯絡資訊及 2FA。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "下載全部暗網資料",
+        "管理個人檔案與帳號安全設定",
+        "搜尋全球所有漏洞",
+        "刪除所有客戶資料"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.4–10",
+      "references": []
+    },
+    {
+      "id": 126,
+      "question": "內部教育訓練要確認觀念：Profile Settings 主要用於什麼？",
+      "answer": "管理個人檔案與帳號安全設定",
+      "explanation": "判斷重點：手冊包含姓名、密碼、聯絡資訊及 2FA。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "管理個人檔案與帳號安全設定",
+        "搜尋全球所有漏洞",
+        "刪除所有客戶資料",
+        "下載全部暗網資料"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.4–10",
+      "references": []
+    },
+    {
+      "id": 127,
+      "question": "Alerts Management 與 Keyword Management 的關係為何？",
+      "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
+      "explanation": "手冊示範從關鍵字直接查看對應警示。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "警示管理只能修改帳號照片",
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "兩者都是密碼管理器",
+        "關鍵字管理只能顯示圖片"
+      ],
+      "correct": 1,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 128,
+      "question": "客戶詢問：「Alerts Management 與 Keyword Management 的關係為何？」最適合如何回答？",
+      "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊示範從關鍵字直接查看對應警示。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "關鍵字定義監控條件，警示頁面呈現相關命中",
+        "兩者都是密碼管理器",
+        "關鍵字管理只能顯示圖片",
+        "警示管理只能修改帳號照片"
+      ],
+      "correct": 0,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 129,
+      "question": "內部教育訓練要確認觀念：Alerts Management 與 Keyword Management 的關係為何？",
+      "answer": "關鍵字定義監控條件，警示頁面呈現相關命中",
+      "explanation": "判斷重點：手冊示範從關鍵字直接查看對應警示。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "兩者都是密碼管理器",
+        "關鍵字管理只能顯示圖片",
+        "警示管理只能修改帳號照片",
+        "關鍵字定義監控條件，警示頁面呈現相關命中"
+      ],
+      "correct": 3,
+      "explanation_source": "操作手冊 p.18–19",
+      "references": []
+    },
+    {
+      "id": 130,
+      "question": "將 Cyble 情資導入 SIEM 的主要價值是什麼？",
+      "answer": "讓外部威脅脈絡支援內部偵測與調查",
+      "explanation": "官方描述可透過 API、STIX/TAXII 與安全營運工具整合。",
+      "category": "整合與應用",
+      "section": "核心",
+      "options": [
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "自動取代所有網路設備",
+        "保證 SOC 不會再有誤報",
+        "將 SIEM 變成檔案伺服器"
+      ],
+      "correct": 0,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "客戶詢問：「將 Cyble 情資導入 SIEM 的主要價值是什麼？」最適合如何回答？",
+      "answer": "讓外部威脅脈絡支援內部偵測與調查",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：官方描述可透過 API、STIX/TAXII 與安全營運工具整合。",
+      "category": "整合與應用",
+      "section": "客戶情境",
+      "options": [
+        "自動取代所有網路設備",
+        "保證 SOC 不會再有誤報",
+        "將 SIEM 變成檔案伺服器",
+        "讓外部威脅脈絡支援內部偵測與調查"
+      ],
+      "correct": 3,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "內部教育訓練要確認觀念：將 Cyble 情資導入 SIEM 的主要價值是什麼？",
+      "answer": "讓外部威脅脈絡支援內部偵測與調查",
+      "explanation": "判斷重點：官方描述可透過 API、STIX/TAXII 與安全營運工具整合。",
+      "category": "整合與應用",
+      "section": "觀念複習",
+      "options": [
+        "保證 SOC 不會再有誤報",
+        "將 SIEM 變成檔案伺服器",
+        "讓外部威脅脈絡支援內部偵測與調查",
+        "自動取代所有網路設備"
+      ],
+      "correct": 2,
+      "explanation_source": "官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "STIX/TAXII 的典型用途是什麼？",
+      "answer": "標準化表達與交換威脅情資",
+      "explanation": "STIX 是情資結構格式；TAXII 是交換機制。",
+      "category": "整合與應用",
+      "section": "核心",
+      "options": [
+        "管理實體門禁卡",
+        "產生企業 Logo",
+        "壓縮網站圖片",
+        "標準化表達與交換威脅情資"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "客戶詢問：「STIX/TAXII 的典型用途是什麼？」最適合如何回答？",
+      "answer": "標準化表達與交換威脅情資",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：STIX 是情資結構格式；TAXII 是交換機制。",
+      "category": "整合與應用",
+      "section": "客戶情境",
+      "options": [
+        "產生企業 Logo",
+        "壓縮網站圖片",
+        "標準化表達與交換威脅情資",
+        "管理實體門禁卡"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "內部教育訓練要確認觀念：STIX/TAXII 的典型用途是什麼？",
+      "answer": "標準化表達與交換威脅情資",
+      "explanation": "判斷重點：STIX 是情資結構格式；TAXII 是交換機制。",
+      "category": "整合與應用",
+      "section": "觀念複習",
+      "options": [
+        "壓縮網站圖片",
+        "標準化表達與交換威脅情資",
+        "管理實體門禁卡",
+        "產生企業 Logo"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與知識補充",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "面對大量外部情資警示，優先順序應考慮什麼？",
+      "answer": "可信度、資產關聯、可利用性及業務衝擊",
+      "explanation": "外部情資需經過脈絡化與驗證，才能轉化為處置優先順序。",
+      "category": "整合與應用",
+      "section": "核心",
+      "options": [
+        "只按英文字母順序",
+        "只按畫面顏色",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "只按警示字數"
+      ],
+      "correct": 2,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "客戶詢問：「面對大量外部情資警示，優先順序應考慮什麼？」最適合如何回答？",
+      "answer": "可信度、資產關聯、可利用性及業務衝擊",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：外部情資需經過脈絡化與驗證，才能轉化為處置優先順序。",
+      "category": "整合與應用",
+      "section": "客戶情境",
+      "options": [
+        "只按畫面顏色",
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "只按警示字數",
+        "只按英文字母順序"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "內部教育訓練要確認觀念：面對大量外部情資警示，優先順序應考慮什麼？",
+      "answer": "可信度、資產關聯、可利用性及業務衝擊",
+      "explanation": "判斷重點：外部情資需經過脈絡化與驗證，才能轉化為處置優先順序。",
+      "category": "整合與應用",
+      "section": "觀念複習",
+      "options": [
+        "可信度、資產關聯、可利用性及業務衝擊",
+        "只按警示字數",
+        "只按英文字母順序",
+        "只按畫面顏色"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "向客戶介紹 Cyble 功能時，哪些內容必須特別確認？",
+      "answer": "授權模組、實際版本、監控範圍與服務條款",
+      "explanation": "產品總覽不代表所有模組均已購買，服務頻率亦可能依合約不同。",
+      "category": "整合與應用",
+      "section": "核心",
+      "options": [
+        "只看新聞稿發布日期",
+        "授權模組、實際版本、監控範圍與服務條款",
+        "只看產品 Logo 顏色",
+        "只看別家客戶使用人數"
+      ],
+      "correct": 1,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "客戶詢問：「向客戶介紹 Cyble 功能時，哪些內容必須特別確認？」最適合如何回答？",
+      "answer": "授權模組、實際版本、監控範圍與服務條款",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：產品總覽不代表所有模組均已購買，服務頻率亦可能依合約不同。",
+      "category": "整合與應用",
+      "section": "客戶情境",
+      "options": [
+        "授權模組、實際版本、監控範圍與服務條款",
+        "只看產品 Logo 顏色",
+        "只看別家客戶使用人數",
+        "只看新聞稿發布日期"
+      ],
+      "correct": 0,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "內部教育訓練要確認觀念：向客戶介紹 Cyble 功能時，哪些內容必須特別確認？",
+      "answer": "授權模組、實際版本、監控範圍與服務條款",
+      "explanation": "判斷重點：產品總覽不代表所有模組均已購買，服務頻率亦可能依合約不同。",
+      "category": "整合與應用",
+      "section": "觀念複習",
+      "options": [
+        "只看產品 Logo 顏色",
+        "只看別家客戶使用人數",
+        "只看新聞稿發布日期",
+        "授權模組、實際版本、監控範圍與服務條款"
+      ],
+      "correct": 3,
+      "explanation_source": "官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "Takedown Tracker 的 New 表示什麼？",
+      "answer": "已立案但尚未受理的案件",
+      "explanation": "手冊將 New 定義為已立案但尚未受理；不能解讀成已完成下架。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "已立案但尚未受理的案件",
+        "已確認永久下架",
+        "已刪除的白名單",
+        "全部案件已結案"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 143,
+      "question": "客戶詢問：「Takedown Tracker 的 New 表示什麼？」最適合如何回答？",
+      "answer": "已立案但尚未受理的案件",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊將 New 定義為已立案但尚未受理；不能解讀成已完成下架。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "已確認永久下架",
+        "已刪除的白名單",
+        "全部案件已結案",
+        "已立案但尚未受理的案件"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 144,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 的 New 表示什麼？",
+      "answer": "已立案但尚未受理的案件",
+      "explanation": "判斷重點：手冊將 New 定義為已立案但尚未受理；不能解讀成已完成下架。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "已刪除的白名單",
+        "全部案件已結案",
+        "已立案但尚未受理的案件",
+        "已確認永久下架"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 145,
+      "question": "Takedown Tracker 的 Active 代表什麼？",
+      "answer": "目前正在進行下架的案件",
+      "explanation": "Active 是處理中的狀態，尚不能保證成功。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "已完成的案件",
+        "從未送出的草稿",
+        "已排除的誤報",
+        "目前正在進行下架的案件"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 146,
+      "question": "客戶詢問：「Takedown Tracker 的 Active 代表什麼？」最適合如何回答？",
+      "answer": "目前正在進行下架的案件",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：Active 是處理中的狀態，尚不能保證成功。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "從未送出的草稿",
+        "已排除的誤報",
+        "目前正在進行下架的案件",
+        "已完成的案件"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 147,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Active 代表什麼？",
+      "answer": "目前正在進行下架的案件",
+      "explanation": "判斷重點：Active 是處理中的狀態，尚不能保證成功。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "已排除的誤報",
+        "目前正在進行下架的案件",
+        "已完成的案件",
+        "從未送出的草稿"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 148,
+      "question": "Takedown Tracker 的 Closed 代表什麼？",
+      "answer": "案件已結案，仍應查看詳細狀態與結果",
+      "explanation": "手冊將 Closed 列為完成下架的案件；實務上仍應核對個案證據及關閉原因。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "無法查詢案件紀錄",
+        "關鍵字已被刪除",
+        "案件已結案，仍應查看詳細狀態與結果",
+        "所有網站永久消失"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 149,
+      "question": "客戶詢問：「Takedown Tracker 的 Closed 代表什麼？」最適合如何回答？",
+      "answer": "案件已結案，仍應查看詳細狀態與結果",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊將 Closed 列為完成下架的案件；實務上仍應核對個案證據及關閉原因。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "關鍵字已被刪除",
+        "案件已結案，仍應查看詳細狀態與結果",
+        "所有網站永久消失",
+        "無法查詢案件紀錄"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 150,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Closed 代表什麼？",
+      "answer": "案件已結案，仍應查看詳細狀態與結果",
+      "explanation": "判斷重點：手冊將 Closed 列為完成下架的案件；實務上仍應核對個案證據及關閉原因。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "案件已結案，仍應查看詳細狀態與結果",
+        "所有網站永久消失",
+        "無法查詢案件紀錄",
+        "關鍵字已被刪除"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 151,
+      "question": "Takedown Tracker 的 Credits 欄位表示什麼？",
+      "answer": "已使用次數與可使用次數",
+      "explanation": "手冊顯示 Credits 為下架次數使用與可用額度，應以實際授權為準。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "偵測到的 IP 數量",
+        "已使用次數與可使用次數",
+        "所有客戶的資安評分",
+        "網站存活天數"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 152,
+      "question": "客戶詢問：「Takedown Tracker 的 Credits 欄位表示什麼？」最適合如何回答？",
+      "answer": "已使用次數與可使用次數",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊顯示 Credits 為下架次數使用與可用額度，應以實際授權為準。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "已使用次數與可使用次數",
+        "所有客戶的資安評分",
+        "網站存活天數",
+        "偵測到的 IP 數量"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 153,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Credits 欄位表示什麼？",
+      "answer": "已使用次數與可使用次數",
+      "explanation": "判斷重點：手冊顯示 Credits 為下架次數使用與可用額度，應以實際授權為準。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "所有客戶的資安評分",
+        "網站存活天數",
+        "偵測到的 IP 數量",
+        "已使用次數與可使用次數"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker Dashboard",
+      "references": []
+    },
+    {
+      "id": 154,
+      "question": "從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？",
+      "answer": "Takedown Tracker",
+      "explanation": "手冊指出確認 Request Takedown 後，進度紀錄於 Takedown Tracker。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "Takedown Tracker",
+        "Profile Picture",
+        "Keyword Type",
+        "DNS Resolver"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
+      "references": []
+    },
+    {
+      "id": 155,
+      "question": "客戶詢問：「從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？」最適合如何回答？",
+      "answer": "Takedown Tracker",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊指出確認 Request Takedown 後，進度紀錄於 Takedown Tracker。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "Profile Picture",
+        "Keyword Type",
+        "DNS Resolver",
+        "Takedown Tracker"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
+      "references": []
+    },
+    {
+      "id": 156,
+      "question": "內部教育訓練要確認觀念：從 Alert Management 提交 Request Takedown 後，案件會在哪裡追蹤？",
+      "answer": "Takedown Tracker",
+      "explanation": "判斷重點：手冊指出確認 Request Takedown 後，進度紀錄於 Takedown Tracker。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "Keyword Type",
+        "DNS Resolver",
+        "Takedown Tracker",
+        "Profile Picture"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Request Takedown",
+      "references": []
+    },
+    {
+      "id": 157,
+      "question": "Report Incident 中 Primary Abuse URL 是什麼？",
+      "answer": "主要濫用網址",
+      "explanation": "手冊的事件提交流程要求填寫主要濫用網址。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "員工的個人電話",
+        "公司的資安評分",
+        "帳號雙因素驗證碼",
+        "主要濫用網址"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 158,
+      "question": "客戶詢問：「Report Incident 中 Primary Abuse URL 是什麼？」最適合如何回答？",
+      "answer": "主要濫用網址",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊的事件提交流程要求填寫主要濫用網址。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "公司的資安評分",
+        "帳號雙因素驗證碼",
+        "主要濫用網址",
+        "員工的個人電話"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 159,
+      "question": "內部教育訓練要確認觀念：Report Incident 中 Primary Abuse URL 是什麼？",
+      "answer": "主要濫用網址",
+      "explanation": "判斷重點：手冊的事件提交流程要求填寫主要濫用網址。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "帳號雙因素驗證碼",
+        "主要濫用網址",
+        "員工的個人電話",
+        "公司的資安評分"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 160,
+      "question": "Report Incident 中 Evidence 的用途為何？",
+      "answer": "上傳案件事證截圖",
+      "explanation": "提交事件時可附上事證，支援後續研判與下架流程。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "選擇網站字體",
+        "修改公司帳戶餘額",
+        "上傳案件事證截圖",
+        "輸入新的使用者密碼"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 161,
+      "question": "客戶詢問：「Report Incident 中 Evidence 的用途為何？」最適合如何回答？",
+      "answer": "上傳案件事證截圖",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：提交事件時可附上事證，支援後續研判與下架流程。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "修改公司帳戶餘額",
+        "上傳案件事證截圖",
+        "輸入新的使用者密碼",
+        "選擇網站字體"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 162,
+      "question": "內部教育訓練要確認觀念：Report Incident 中 Evidence 的用途為何？",
+      "answer": "上傳案件事證截圖",
+      "explanation": "判斷重點：提交事件時可附上事證，支援後續研判與下架流程。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "上傳案件事證截圖",
+        "輸入新的使用者密碼",
+        "選擇網站字體",
+        "修改公司帳戶餘額"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 163,
+      "question": "Report Incident 的 Incident Info 可選哪些類型？",
+      "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+      "explanation": "品牌偽冒模組手冊列出六類事件，具體可用類型仍依版本與權限為準。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "只能選擇 CPU 和 RAM",
+        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+        "只允許 Email 和 DNS",
+        "只能選擇 CVE"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 164,
+      "question": "客戶詢問：「Report Incident 的 Incident Info 可選哪些類型？」最適合如何回答？",
+      "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：品牌偽冒模組手冊列出六類事件，具體可用類型仍依版本與權限為準。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+        "只允許 Email 和 DNS",
+        "只能選擇 CVE",
+        "只能選擇 CPU 和 RAM"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 165,
+      "question": "內部教育訓練要確認觀念：Report Incident 的 Incident Info 可選哪些類型？",
+      "answer": "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive",
+      "explanation": "判斷重點：品牌偽冒模組手冊列出六類事件，具體可用類型仍依版本與權限為準。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "只允許 Email 和 DNS",
+        "只能選擇 CVE",
+        "只能選擇 CPU 和 RAM",
+        "Phishing、Brand Abuse、Malware、Social Media、Mobile App、Executive"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Report Incident",
+      "references": []
+    },
+    {
+      "id": 166,
+      "question": "Whitelist URLs 的主要用途是什麼？",
+      "answer": "避免官方網站或社群帳號被誤認為侵權內容",
+      "explanation": "白名單需確認資產歸屬，避免誤把攻擊者網域排除監控。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "避免官方網站或社群帳號被誤認為侵權內容",
+        "自動核准所有下架案件",
+        "刪除所有惡意網域",
+        "自動變更員工密碼"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 167,
+      "question": "客戶詢問：「Whitelist URLs 的主要用途是什麼？」最適合如何回答？",
+      "answer": "避免官方網站或社群帳號被誤認為侵權內容",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：白名單需確認資產歸屬，避免誤把攻擊者網域排除監控。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "自動核准所有下架案件",
+        "刪除所有惡意網域",
+        "自動變更員工密碼",
+        "避免官方網站或社群帳號被誤認為侵權內容"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 168,
+      "question": "內部教育訓練要確認觀念：Whitelist URLs 的主要用途是什麼？",
+      "answer": "避免官方網站或社群帳號被誤認為侵權內容",
+      "explanation": "判斷重點：白名單需確認資產歸屬，避免誤把攻擊者網域排除監控。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "刪除所有惡意網域",
+        "自動變更員工密碼",
+        "避免官方網站或社群帳號被誤認為侵權內容",
+        "自動核准所有下架案件"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 169,
+      "question": "Whitelist URLs 中 Reason 欄位記錄什麼？",
+      "answer": "加入白名單的原因",
+      "explanation": "手冊列出 URL、Reason 與 Create At，方便稽核白名單設定。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "下架失敗的金額",
+        "網站 TLS 版本",
+        "員工的密碼提示",
+        "加入白名單的原因"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 170,
+      "question": "客戶詢問：「Whitelist URLs 中 Reason 欄位記錄什麼？」最適合如何回答？",
+      "answer": "加入白名單的原因",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊列出 URL、Reason 與 Create At，方便稽核白名單設定。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "網站 TLS 版本",
+        "員工的密碼提示",
+        "加入白名單的原因",
+        "下架失敗的金額"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 171,
+      "question": "內部教育訓練要確認觀念：Whitelist URLs 中 Reason 欄位記錄什麼？",
+      "answer": "加入白名單的原因",
+      "explanation": "判斷重點：手冊列出 URL、Reason 與 Create At，方便稽核白名單設定。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "員工的密碼提示",
+        "加入白名單的原因",
+        "下架失敗的金額",
+        "網站 TLS 版本"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 172,
+      "question": "Watchlisted Domains 的功能為何？",
+      "answer": "監控指定域名及其內容或狀態變更",
+      "explanation": "操作手冊可新增監控域名並追蹤其狀態及歷史資訊。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "只顯示員工的薪資",
+        "只管理網路交換器",
+        "監控指定域名及其內容或狀態變更",
+        "代替所有防火牆"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
+      "references": []
+    },
+    {
+      "id": 173,
+      "question": "客戶詢問：「Watchlisted Domains 的功能為何？」最適合如何回答？",
+      "answer": "監控指定域名及其內容或狀態變更",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊可新增監控域名並追蹤其狀態及歷史資訊。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "只管理網路交換器",
+        "監控指定域名及其內容或狀態變更",
+        "代替所有防火牆",
+        "只顯示員工的薪資"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
+      "references": []
+    },
+    {
+      "id": 174,
+      "question": "內部教育訓練要確認觀念：Watchlisted Domains 的功能為何？",
+      "answer": "監控指定域名及其內容或狀態變更",
+      "explanation": "判斷重點：操作手冊可新增監控域名並追蹤其狀態及歷史資訊。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "監控指定域名及其內容或狀態變更",
+        "代替所有防火牆",
+        "只顯示員工的薪資",
+        "只管理網路交換器"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Watchlisted Domains",
+      "references": []
+    },
+    {
+      "id": 175,
+      "question": "Watchlisted Domains 的 Add Domain 操作需要輸入什麼？",
+      "answer": "需監控的 Domain",
+      "explanation": "手冊說明在 Domain 欄位輸入網址後按 Continue。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "所有員工身分證號",
+        "需監控的 Domain",
+        "伺服器 root 密碼",
+        "銀行轉帳帳號"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Add Domain",
+      "references": []
+    },
+    {
+      "id": 176,
+      "question": "客戶詢問：「Watchlisted Domains 的 Add Domain 操作需要輸入什麼？」最適合如何回答？",
+      "answer": "需監控的 Domain",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊說明在 Domain 欄位輸入網址後按 Continue。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "需監控的 Domain",
+        "伺服器 root 密碼",
+        "銀行轉帳帳號",
+        "所有員工身分證號"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Add Domain",
+      "references": []
+    },
+    {
+      "id": 177,
+      "question": "內部教育訓練要確認觀念：Watchlisted Domains 的 Add Domain 操作需要輸入什麼？",
+      "answer": "需監控的 Domain",
+      "explanation": "判斷重點：手冊說明在 Domain 欄位輸入網址後按 Continue。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "伺服器 root 密碼",
+        "銀行轉帳帳號",
+        "所有員工身分證號",
+        "需監控的 Domain"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Add Domain",
+      "references": []
+    },
+    {
+      "id": 178,
+      "question": "Website Monitoring 的設定除了 Domains 還可填什麼？",
+      "answer": "Keywords",
+      "explanation": "手冊的新增流程包含 Domains 與 Keywords 欄位。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "Keywords",
+        "企業股票代碼作為密碼",
+        "硬碟序號",
+        "防火牆購買日期"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
+      "references": []
+    },
+    {
+      "id": 179,
+      "question": "客戶詢問：「Website Monitoring 的設定除了 Domains 還可填什麼？」最適合如何回答？",
+      "answer": "Keywords",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊的新增流程包含 Domains 與 Keywords 欄位。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "企業股票代碼作為密碼",
+        "硬碟序號",
+        "防火牆購買日期",
+        "Keywords"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
+      "references": []
+    },
+    {
+      "id": 180,
+      "question": "內部教育訓練要確認觀念：Website Monitoring 的設定除了 Domains 還可填什麼？",
+      "answer": "Keywords",
+      "explanation": "判斷重點：手冊的新增流程包含 Domains 與 Keywords 欄位。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "硬碟序號",
+        "防火牆購買日期",
+        "Keywords",
+        "企業股票代碼作為密碼"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Website Monitoring",
+      "references": []
+    },
+    {
+      "id": 181,
+      "question": "Website Watermarking 的新增流程包含哪個必要步驟？",
+      "answer": "將系統產生的 Token 放入公司網頁程式碼",
+      "explanation": "操作手冊 v1.5 記載加入 Token 以協助辨識抓取活動。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "直接刪除網站 HTML",
+        "關閉公司所有 DNS",
+        "將員工帳號設成公開",
+        "將系統產生的 Token 放入公司網頁程式碼"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 182,
+      "question": "客戶詢問：「Website Watermarking 的新增流程包含哪個必要步驟？」最適合如何回答？",
+      "answer": "將系統產生的 Token 放入公司網頁程式碼",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊 v1.5 記載加入 Token 以協助辨識抓取活動。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "關閉公司所有 DNS",
+        "將員工帳號設成公開",
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "直接刪除網站 HTML"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 183,
+      "question": "內部教育訓練要確認觀念：Website Watermarking 的新增流程包含哪個必要步驟？",
+      "answer": "將系統產生的 Token 放入公司網頁程式碼",
+      "explanation": "判斷重點：操作手冊 v1.5 記載加入 Token 以協助辨識抓取活動。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "將員工帳號設成公開",
+        "將系統產生的 Token 放入公司網頁程式碼",
+        "直接刪除網站 HTML",
+        "關閉公司所有 DNS"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 184,
+      "question": "Website Watermarking 告警應如何判讀？",
+      "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+      "explanation": "手冊顯示抓取來源與詳細資訊；白名單前應核實官方歸屬。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "所有告警都必須立即下架",
+        "抓取事件與資安完全無關",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "任何抓取都直接等於帳密外洩"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 185,
+      "question": "客戶詢問：「Website Watermarking 告警應如何判讀？」最適合如何回答？",
+      "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊顯示抓取來源與詳細資訊；白名單前應核實官方歸屬。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "抓取事件與資安完全無關",
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "任何抓取都直接等於帳密外洩",
+        "所有告警都必須立即下架"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 186,
+      "question": "內部教育訓練要確認觀念：Website Watermarking 告警應如何判讀？",
+      "answer": "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+      "explanation": "判斷重點：手冊顯示抓取來源與詳細資訊；白名單前應核實官方歸屬。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "確認是否為未授權的網頁抓取，官方域名可考慮白名單",
+        "任何抓取都直接等於帳密外洩",
+        "所有告警都必須立即下架",
+        "抓取事件與資安完全無關"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Watermarking",
+      "references": []
+    },
+    {
+      "id": 187,
+      "question": "Malicious Domains 的 Classification 篩選用途是什麼？",
+      "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+      "explanation": "手冊列出 Classification 與 Tags、Status Code、False Positive 等篩選條件。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "決定 CPU 型號",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "設定公司人員薪資",
+        "重設網域註冊商密碼"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 188,
+      "question": "客戶詢問：「Malicious Domains 的 Classification 篩選用途是什麼？」最適合如何回答？",
+      "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊列出 Classification 與 Tags、Status Code、False Positive 等篩選條件。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+        "設定公司人員薪資",
+        "重設網域註冊商密碼",
+        "決定 CPU 型號"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 189,
+      "question": "內部教育訓練要確認觀念：Malicious Domains 的 Classification 篩選用途是什麼？",
+      "answer": "依釣魚、可疑活動或惡意廣告等威脅類別篩選",
+      "explanation": "判斷重點：手冊列出 Classification 與 Tags、Status Code、False Positive 等篩選條件。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "設定公司人員薪資",
+        "重設網域註冊商密碼",
+        "決定 CPU 型號",
+        "依釣魚、可疑活動或惡意廣告等威脅類別篩選"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 190,
+      "question": "Malicious Domains 的 False Positive 篩選代表什麼？",
+      "answer": "查看已被標記為誤報的域名",
+      "explanation": "誤報標記是分析結果，需有查核紀錄支持。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "查看已被標記為誤報的域名",
+        "顯示所有已確認惡意域名",
+        "查看員工密碼到期日",
+        "產生備份還原點"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 191,
+      "question": "客戶詢問：「Malicious Domains 的 False Positive 篩選代表什麼？」最適合如何回答？",
+      "answer": "查看已被標記為誤報的域名",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：誤報標記是分析結果，需有查核紀錄支持。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "顯示所有已確認惡意域名",
+        "查看員工密碼到期日",
+        "產生備份還原點",
+        "查看已被標記為誤報的域名"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 192,
+      "question": "內部教育訓練要確認觀念：Malicious Domains 的 False Positive 篩選代表什麼？",
+      "answer": "查看已被標記為誤報的域名",
+      "explanation": "判斷重點：誤報標記是分析結果，需有查核紀錄支持。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "查看員工密碼到期日",
+        "產生備份還原點",
+        "查看已被標記為誤報的域名",
+        "顯示所有已確認惡意域名"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 193,
+      "question": "Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？",
+      "answer": "Keywords、Severities、Source、Type",
+      "explanation": "操作手冊 v1.5 列出四項篩選條件。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "只依 CPU、RAM",
+        "只依員工年齡",
+        "只依網站 CSS",
+        "Keywords、Severities、Source、Type"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 194,
+      "question": "客戶詢問：「Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？」最適合如何回答？",
+      "answer": "Keywords、Severities、Source、Type",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊 v1.5 列出四項篩選條件。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "只依員工年齡",
+        "只依網站 CSS",
+        "Keywords、Severities、Source、Type",
+        "只依 CPU、RAM"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 195,
+      "question": "內部教育訓練要確認觀念：Social Media Monitoring 的 Advanced Filter 可依什麼條件篩選？",
+      "answer": "Keywords、Severities、Source、Type",
+      "explanation": "判斷重點：操作手冊 v1.5 列出四項篩選條件。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "只依網站 CSS",
+        "Keywords、Severities、Source、Type",
+        "只依 CPU、RAM",
+        "只依員工年齡"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 196,
+      "question": "社群媒體告警詳細資訊可能包含什麼？",
+      "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+      "explanation": "品牌偽冒手冊列出可供辨識偽冒帳號的欄位。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "公司所有憑證私鑰",
+        "全部未公開客戶密碼",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "員工薪資明細"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 197,
+      "question": "客戶詢問：「社群媒體告警詳細資訊可能包含什麼？」最適合如何回答？",
+      "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：品牌偽冒手冊列出可供辨識偽冒帳號的欄位。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "全部未公開客戶密碼",
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "員工薪資明細",
+        "公司所有憑證私鑰"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 198,
+      "question": "內部教育訓練要確認觀念：社群媒體告警詳細資訊可能包含什麼？",
+      "answer": "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+      "explanation": "判斷重點：品牌偽冒手冊列出可供辨識偽冒帳號的欄位。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "名稱、頭像、網址、帳號 ID、關鍵字與狀態",
+        "員工薪資明細",
+        "公司所有憑證私鑰",
+        "全部未公開客戶密碼"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Social Media Monitoring",
+      "references": []
+    },
+    {
+      "id": 199,
+      "question": "Ransomware Incidents 可依哪些條件篩選？",
+      "answer": "Countries、Region、Ransomware Group、Industries",
+      "explanation": "操作手冊 v1.5 列出勒索事件篩選欄位。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "只依網頁字體",
+        "Countries、Region、Ransomware Group、Industries",
+        "只依公司電腦桌布",
+        "只依瀏覽器縮放比例"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 200,
+      "question": "客戶詢問：「Ransomware Incidents 可依哪些條件篩選？」最適合如何回答？",
+      "answer": "Countries、Region、Ransomware Group、Industries",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊 v1.5 列出勒索事件篩選欄位。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "Countries、Region、Ransomware Group、Industries",
+        "只依公司電腦桌布",
+        "只依瀏覽器縮放比例",
+        "只依網頁字體"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 201,
+      "question": "內部教育訓練要確認觀念：Ransomware Incidents 可依哪些條件篩選？",
+      "answer": "Countries、Region、Ransomware Group、Industries",
+      "explanation": "判斷重點：操作手冊 v1.5 列出勒索事件篩選欄位。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "只依公司電腦桌布",
+        "只依瀏覽器縮放比例",
+        "只依網頁字體",
+        "Countries、Region、Ransomware Group、Industries"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 202,
+      "question": "Ransomware Incidents 的 Victim 欄位表示什麼？",
+      "answer": "受勒索軟體攻擊的組織",
+      "explanation": "手冊欄位包含 Victim、Last Attacked On、Website、Ransomware Group、Industries。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "受勒索軟體攻擊的組織",
+        "執行掃描的員工",
+        "產品授權管理員",
+        "網域註冊商"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 203,
+      "question": "客戶詢問：「Ransomware Incidents 的 Victim 欄位表示什麼？」最適合如何回答？",
+      "answer": "受勒索軟體攻擊的組織",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊欄位包含 Victim、Last Attacked On、Website、Ransomware Group、Industries。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "執行掃描的員工",
+        "產品授權管理員",
+        "網域註冊商",
+        "受勒索軟體攻擊的組織"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 204,
+      "question": "內部教育訓練要確認觀念：Ransomware Incidents 的 Victim 欄位表示什麼？",
+      "answer": "受勒索軟體攻擊的組織",
+      "explanation": "判斷重點：手冊欄位包含 Victim、Last Attacked On、Website、Ransomware Group、Industries。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "產品授權管理員",
+        "網域註冊商",
+        "受勒索軟體攻擊的組織",
+        "執行掃描的員工"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Ransomware Incidents",
+      "references": []
+    },
+    {
+      "id": 205,
+      "question": "Threat Lens 的用途是什麼？",
+      "answer": "上傳或提交網址與檔案進行威脅檢測",
+      "explanation": "操作手冊 v1.5 將 Threat Lens 描述為 URL／檔案威脅掃描。",
+      "category": "威脅情資",
+      "section": "核心",
+      "options": [
+        "調整電腦亮度",
+        "統計辦公室人數",
+        "只產生品牌 Logo",
+        "上傳或提交網址與檔案進行威脅檢測"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
+      "references": []
+    },
+    {
+      "id": 206,
+      "question": "客戶詢問：「Threat Lens 的用途是什麼？」最適合如何回答？",
+      "answer": "上傳或提交網址與檔案進行威脅檢測",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊 v1.5 將 Threat Lens 描述為 URL／檔案威脅掃描。",
+      "category": "威脅情資",
+      "section": "客戶情境",
+      "options": [
+        "統計辦公室人數",
+        "只產生品牌 Logo",
+        "上傳或提交網址與檔案進行威脅檢測",
+        "調整電腦亮度"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
+      "references": []
+    },
+    {
+      "id": 207,
+      "question": "內部教育訓練要確認觀念：Threat Lens 的用途是什麼？",
+      "answer": "上傳或提交網址與檔案進行威脅檢測",
+      "explanation": "判斷重點：操作手冊 v1.5 將 Threat Lens 描述為 URL／檔案威脅掃描。",
+      "category": "威脅情資",
+      "section": "觀念複習",
+      "options": [
+        "只產生品牌 Logo",
+        "上傳或提交網址與檔案進行威脅檢測",
+        "調整電腦亮度",
+        "統計辦公室人數"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Threat Lens",
+      "references": []
+    },
+    {
+      "id": 208,
+      "question": "Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？",
+      "answer": "威脅情資模組的風險評估與告警狀態",
+      "explanation": "手冊 v1.5 顯示 Service、Risk、Alerts 等指標。",
+      "category": "平台操作",
+      "section": "核心",
+      "options": [
+        "網站字體授權",
+        "主機板維修歷史",
+        "威脅情資模組的風險評估與告警狀態",
+        "員工午餐菜單"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 209,
+      "question": "客戶詢問：「Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？」最適合如何回答？",
+      "answer": "威脅情資模組的風險評估與告警狀態",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊 v1.5 顯示 Service、Risk、Alerts 等指標。",
+      "category": "平台操作",
+      "section": "客戶情境",
+      "options": [
+        "主機板維修歷史",
+        "威脅情資模組的風險評估與告警狀態",
+        "員工午餐菜單",
+        "網站字體授權"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 210,
+      "question": "內部教育訓練要確認觀念：Alerts Insights 中 Threat Intelligence 儀表板整合哪些資訊？",
+      "answer": "威脅情資模組的風險評估與告警狀態",
+      "explanation": "判斷重點：手冊 v1.5 顯示 Service、Risk、Alerts 等指標。",
+      "category": "平台操作",
+      "section": "觀念複習",
+      "options": [
+        "威脅情資模組的風險評估與告警狀態",
+        "員工午餐菜單",
+        "網站字體授權",
+        "主機板維修歷史"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 211,
+      "question": "Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？",
+      "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
+      "explanation": "手冊註明 Submission 為釣魚案件的 Google／Microsoft 聯防提交，不應解讀為已完成下架。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "防毒病毒碼版本",
+        "提交 Google 或 Microsoft 進行聯防阻擋",
+        "公司股東名冊",
+        "已完成的付款憑證"
+      ],
+      "correct": 1,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 212,
+      "question": "客戶詢問：「Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？」最適合如何回答？",
+      "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊註明 Submission 為釣魚案件的 Google／Microsoft 聯防提交，不應解讀為已完成下架。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "提交 Google 或 Microsoft 進行聯防阻擋",
+        "公司股東名冊",
+        "已完成的付款憑證",
+        "防毒病毒碼版本"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 213,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 中 Submission 欄位在釣魚案件可能代表什麼？",
+      "answer": "提交 Google 或 Microsoft 進行聯防阻擋",
+      "explanation": "判斷重點：手冊註明 Submission 為釣魚案件的 Google／Microsoft 聯防提交，不應解讀為已完成下架。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "公司股東名冊",
+        "已完成的付款憑證",
+        "防毒病毒碼版本",
+        "提交 Google 或 Microsoft 進行聯防阻擋"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 214,
+      "question": "Takedown Tracker 的 Takedown Method 用於記錄什麼？",
+      "answer": "提交下架申請的方式",
+      "explanation": "手冊將其列為案件資訊欄位，方便追蹤處理管道。",
+      "category": "下架服務",
+      "section": "核心",
+      "options": [
+        "提交下架申請的方式",
+        "網站主機 CPU 型號",
+        "使用者登入密碼",
+        "關鍵字的字元長度"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 215,
+      "question": "客戶詢問：「Takedown Tracker 的 Takedown Method 用於記錄什麼？」最適合如何回答？",
+      "answer": "提交下架申請的方式",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：手冊將其列為案件資訊欄位，方便追蹤處理管道。",
+      "category": "下架服務",
+      "section": "客戶情境",
+      "options": [
+        "網站主機 CPU 型號",
+        "使用者登入密碼",
+        "關鍵字的字元長度",
+        "提交下架申請的方式"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 216,
+      "question": "內部教育訓練要確認觀念：Takedown Tracker 的 Takedown Method 用於記錄什麼？",
+      "answer": "提交下架申請的方式",
+      "explanation": "判斷重點：手冊將其列為案件資訊欄位，方便追蹤處理管道。",
+      "category": "下架服務",
+      "section": "觀念複習",
+      "options": [
+        "使用者登入密碼",
+        "關鍵字的字元長度",
+        "提交下架申請的方式",
+        "網站主機 CPU 型號"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 217,
+      "question": "Mobile Application Monitoring 主要呈現什麼？",
+      "answer": "行動應用程式監控的告警與統計數據",
+      "explanation": "操作手冊顯示此模組提供告警與統計資料。",
+      "category": "品牌保護",
+      "section": "核心",
+      "options": [
+        "所有員工的手機照片",
+        "只有伺服器磁碟資訊",
+        "全部網站的網頁原始碼",
+        "行動應用程式監控的告警與統計數據"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
+      "references": []
+    },
+    {
+      "id": 218,
+      "question": "客戶詢問：「Mobile Application Monitoring 主要呈現什麼？」最適合如何回答？",
+      "answer": "行動應用程式監控的告警與統計數據",
+      "explanation": "客戶溝通時應以正確定義回答，並補充：操作手冊顯示此模組提供告警與統計資料。",
+      "category": "品牌保護",
+      "section": "客戶情境",
+      "options": [
+        "只有伺服器磁碟資訊",
+        "全部網站的網頁原始碼",
+        "行動應用程式監控的告警與統計數據",
+        "所有員工的手機照片"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
+      "references": []
+    },
+    {
+      "id": 219,
+      "question": "內部教育訓練要確認觀念：Mobile Application Monitoring 主要呈現什麼？",
+      "answer": "行動應用程式監控的告警與統計數據",
+      "explanation": "判斷重點：操作手冊顯示此模組提供告警與統計資料。",
+      "category": "品牌保護",
+      "section": "觀念複習",
+      "options": [
+        "全部網站的網頁原始碼",
+        "行動應用程式監控的告警與統計數據",
+        "所有員工的手機照片",
+        "只有伺服器磁碟資訊"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Mobile Application Monitoring",
+      "references": []
+    },
+    {
+      "id": 220,
+      "question": "Executive Insights 的 Public Repositories Exposure 著重什麼？",
+      "answer": "公開程式碼儲存庫中意外曝露的機敏資料或原始碼",
+      "explanation": "操作手冊將此區塊描述為監測公開代碼庫中意外上傳的敏感資訊。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "網站廣告轉換率",
+        "公開程式碼儲存庫中意外曝露的機敏資料或原始碼",
+        "供應商的年度營收",
+        "公司內部人員打卡"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Executive Insights",
+      "references": []
+    },
+    {
+      "id": 221,
+      "question": "Private Repositories Exposure 主要提示哪類風險？",
+      "answer": "非公開程式碼庫遭意外公開或未授權存取",
+      "explanation": "手冊列舉非公開代碼庫的誤設定與未授權存取風險，告警需另行查證。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "非公開程式碼庫遭意外公開或未授權存取",
+        "所有私人程式庫都已遭入侵",
+        "公司辦公室監視器畫質",
+        "使用者的螢幕亮度"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Executive Insights",
+      "references": []
+    },
+    {
+      "id": 222,
+      "question": "Alerts Insights 的 Alerts Pending Action 是什麼？",
+      "answer": "尚未處理的安全警示狀態",
+      "explanation": "手冊顯示此視圖用於觀察近 30 天待處理告警與風險分布。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "已經刪除的網站",
+        "永久封鎖的員工",
+        "年度採購清單",
+        "尚未處理的安全警示狀態"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 223,
+      "question": "Severity Distribution 的 High、Medium、Low 代表什麼？",
+      "answer": "警示風險嚴重程度的分布",
+      "explanation": "操作手冊顯示依服務類型呈現不同風險等級。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "產品合約的三種付款方式",
+        "三種網頁語言",
+        "警示風險嚴重程度的分布",
+        "帳號權限的三種職級"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 224,
+      "question": "Alerts Timeline 可以用來觀察什麼？",
+      "answer": "告警在不同日期的數量變化趨勢",
+      "explanation": "手冊將其描述為視覺化觀察資料外洩告警的時間分布與波動。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "下架保證完成日期",
+        "告警在不同日期的數量變化趨勢",
+        "只有網站 DNS TTL",
+        "員工電腦硬碟容量"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 225,
+      "question": "Assignee Wise Alert Distribution 主要用於什麼？",
+      "answer": "檢視警示指派對象及處理狀態",
+      "explanation": "手冊說明此視圖用於警示分派與追蹤。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "檢視警示指派對象及處理狀態",
+        "統計員工個人存款",
+        "管理網域名稱字型",
+        "修改網站 TLS 金鑰"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 226,
+      "question": "AI Filtered Tags Cloud 的用途為何？",
+      "answer": "將警示標籤分類並視覺化呈現",
+      "explanation": "手冊描述 AI 標籤雲協助辨識資料外洩類型與外部曝露服務類別。",
+      "category": "儀表板",
+      "section": "深入實務",
+      "options": [
+        "自動證明所有告警為真",
+        "直接下架所有網站",
+        "取代全部資安稽核",
+        "將警示標籤分類並視覺化呈現"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Alerts Insights",
+      "references": []
+    },
+    {
+      "id": 227,
+      "question": "Threat Intelligence Feed 與 TIP 平台的差別是什麼？",
+      "answer": "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
+      "explanation": "Cyble 官網將整合、關聯、優先排序與工作流程列為平台價值。",
+      "category": "威脅情資",
+      "section": "深入實務",
+      "options": [
+        "Feed 必然包含所有客戶的下架額度",
+        "TIP 只能顯示原始 IP 清單",
+        "Feed 提供情資資料；平台可整合、關聯、優先排序並支援工作流程",
+        "兩者都是硬體防火牆"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble 官方 FAQ",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/faqs/"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "question": "Cyble Vision 宣稱可透過哪些標準方式提供情資整合？",
+      "answer": "REST API 與 STIX/TAXII",
+      "explanation": "官方 FAQ 與 CTI 方案頁提及 API 與 STIX/TAXII；特定整合仍需核對授權。",
+      "category": "整合與應用",
+      "section": "深入實務",
+      "options": [
+        "只能透過傳真",
+        "REST API 與 STIX/TAXII",
+        "只能人工截圖",
+        "只能用 USB 隨身碟"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble 官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/cyber-threat-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "question": "若客戶要求與特定 SIEM 原生整合，最適合的確認方式是什麼？",
+      "answer": "核對目前可用 Connector、版本、授權與 POC",
+      "explanation": "Cyble 官方 FAQ 提醒標準協定不等於必然具備特定原生連接器。",
+      "category": "整合與應用",
+      "section": "深入實務",
+      "options": [
+        "核對目前可用 Connector、版本、授權與 POC",
+        "只因官網寫有 API 就保證零開發",
+        "直接認定所有 SIEM 都不支援",
+        "只看行銷簡報封面"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble 官方 FAQ",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/faqs/"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "question": "Cyble Vision 的 Detect、Validate、Closure 代表什麼？",
+      "answer": "偵測、驗證及處置／結案的威脅生命週期",
+      "explanation": "官方產品頁以入侵前、入侵中、入侵後說明三階段能力。",
+      "category": "平台定位",
+      "section": "深入實務",
+      "options": [
+        "三種付款方式",
+        "三種網域類型",
+        "三種人事權限",
+        "偵測、驗證及處置／結案的威脅生命週期"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble 官方產品頁",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "question": "Cyble 官網列出的品牌保護監控範圍包含什麼？",
+      "answer": "網域、社群媒體、App 與暗網的品牌濫用",
+      "explanation": "官網 Brand Intelligence 頁描述多來源的品牌偽冒監控。",
+      "category": "品牌保護",
+      "section": "深入實務",
+      "options": [
+        "只有員工桌面",
+        "只有備份磁帶",
+        "網域、社群媒體、App 與暗網的品牌濫用",
+        "只有公司內部 VPN"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble 官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/brand-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "question": "Cyble 官網所述下架流程為何要有 Verification？",
+      "answer": "驗證威脅真實性並排除誤報",
+      "explanation": "官方 Takedown 服務頁明列偵測、驗證與報告等流程。",
+      "category": "下架服務",
+      "section": "深入實務",
+      "options": [
+        "保證網域永不重新註冊",
+        "驗證威脅真實性並排除誤報",
+        "將所有告警直接刪除",
+        "自動給每個網站合法授權"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble 官網",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/takedown-services/"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "question": "為什麼不能把官網下架成功率當成個別案件保證？",
+      "answer": "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+      "explanation": "應區分廠商整體統計、個別案件及合約承諾。",
+      "category": "下架服務",
+      "section": "深入實務",
+      "options": [
+        "行銷統計不等於個別合約 SLA，結果受案件及第三方平台影響",
+        "因為官網從未提供任何下架服務",
+        "因為所有下架都由企業自行處理",
+        "因為下架只涉及本機資料"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble 官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/solutions/takedown-services/"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "question": "Cyble 官網對 ASM 的 Discover 階段描述為何？",
+      "answer": "持續盤點網際網路暴露資產與影子 IT",
+      "explanation": "官方 FAQ 說明 ASM 持續探索網域、雲端實例與 API 等外部資產。",
+      "category": "攻擊面管理",
+      "section": "深入實務",
+      "options": [
+        "只列出員工姓名",
+        "只匯出採購發票",
+        "只掃描本機桌布",
+        "持續盤點網際網路暴露資產與影子 IT"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble 官方 FAQ",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/faqs/"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "question": "Cyble 官網對 ASM 的 Assess 階段描述為何？",
+      "answer": "檢視已識別資產的弱點與錯誤設定",
+      "explanation": "官方 FAQ 描述對外部資產進行弱點與設定評估。",
+      "category": "攻擊面管理",
+      "section": "深入實務",
+      "options": [
+        "計算辦公室耗電量",
+        "移除所有公司網址",
+        "檢視已識別資產的弱點與錯誤設定",
+        "直接證明所有系統已遭攻擊"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble 官方 FAQ",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/faqs/"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "question": "Cyble 官網對 ASM 的 Prioritize 階段描述為何？",
+      "answer": "依嚴重度及實際可利用性排序曝險發現",
+      "explanation": "官方 FAQ 說明優先排序結合威脅情資及可利用性。",
+      "category": "攻擊面管理",
+      "section": "深入實務",
+      "options": [
+        "一律先修最低風險",
+        "依嚴重度及實際可利用性排序曝險發現",
+        "只依網址字母順序",
+        "只依網頁背景顏色"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble 官方 FAQ",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/faqs/"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "question": "第三方資料外洩事件在 Cyble Vision 產品頁屬於哪類能力？",
+      "answer": "入侵過程的驗證與第三方外洩影響分析",
+      "explanation": "官方產品頁列出 Impact Analysis of Third-Party Data Breaches。",
+      "category": "第三方風險",
+      "section": "深入實務",
+      "options": [
+        "入侵過程的驗證與第三方外洩影響分析",
+        "網站視覺設計",
+        "實體機房溫控",
+        "只提供電話簿"
+      ],
+      "correct": 0,
+      "explanation_source": "Cyble 官方產品頁",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "question": "官網宣稱的漏洞情資是否等同自動修補？",
+      "answer": "不是，情資協助優先排序；修補需另行執行與驗證",
+      "explanation": "官網說明漏洞管理與風險脈絡，不能推導所有端點自動修補。",
+      "category": "漏洞情資",
+      "section": "深入實務",
+      "options": [
+        "是，所有漏洞都會即時消失",
+        "是，無需資產歸屬確認",
+        "不是，因為 Cyble 完全沒有漏洞情報",
+        "不是，情資協助優先排序；修補需另行執行與驗證"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble 官方產品頁",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "question": "Dark Web Chatter 命中公司名稱時，應如何處理？",
+      "answer": "先確認來源、內容可信度及與企業的關聯",
+      "explanation": "暗網提及屬威脅線索，並非入侵證據。",
+      "category": "暗網監控",
+      "section": "深入實務",
+      "options": [
+        "立即刪除所有 DNS",
+        "直接視為成功下架",
+        "先確認來源、內容可信度及與企業的關聯",
+        "立即公布已遭駭客入侵"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble 官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "question": "勒索洩漏站聲稱攻擊供應商時，如何判斷本企業風險？",
+      "answer": "核實供應商、資料類型、服務依賴及事件真實性",
+      "explanation": "威脅情報應結合供應鏈關聯與事件佐證。",
+      "category": "暗網監控",
+      "section": "深入實務",
+      "options": [
+        "只依貼文按讚數決定",
+        "核實供應商、資料類型、服務依賴及事件真實性",
+        "一律認定所有企業資料已公開",
+        "只比較供應商 Logo"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble 官網與實務",
+      "references": [
+        {
+          "title": "Cyble 官方資料",
+          "url": "https://cyble.com/products/cyble-vision/"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "question": "Takedown Tracker 的 Status 與 Active Duration 有何不同？",
+      "answer": "Status 是案件狀態；Active Duration 是案件處理時長",
+      "explanation": "品牌偽冒手冊明列 Status、Active Duration 欄位，不能混用。",
+      "category": "平台操作",
+      "section": "深入實務",
+      "options": [
+        "Status 是案件狀態；Active Duration 是案件處理時長",
+        "兩者都是企業評級",
+        "兩者都是憑證序號",
+        "兩者都是員工職稱"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Takedown Tracker",
+      "references": []
+    },
+    {
+      "id": 242,
+      "question": "Malicious Domains 的 Registered On 與 Identified On 有何差異？",
+      "answer": "前者為註冊日期，後者為平台辨識日期",
+      "explanation": "操作手冊 v1.5 分別列出域名註冊及辨識時間。",
+      "category": "品牌保護",
+      "section": "深入實務",
+      "options": [
+        "兩者都是關閉日期",
+        "兩者都是憑證到期日",
+        "前者為員工生日、後者為薪資日",
+        "前者為註冊日期，後者為平台辨識日期"
+      ],
+      "correct": 3,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Malicious Domains",
+      "references": []
+    },
+    {
+      "id": 243,
+      "question": "Watchlisted Domain 與 Malicious Domain 可以直接視為同義嗎？",
+      "answer": "不能，監控清單的域名不一定已被確認惡意",
+      "explanation": "監控對象與惡意判定不同，應保留證據及研判。",
+      "category": "品牌保護",
+      "section": "深入實務",
+      "options": [
+        "可以，因為兩者都只有 IP",
+        "不能，因為前者不是域名",
+        "不能，監控清單的域名不一定已被確認惡意",
+        "可以，加入監控即自動確認攻擊"
+      ],
+      "correct": 2,
+      "explanation_source": "品牌偽冒模組手冊與操作手冊 v1.5",
+      "references": []
+    },
+    {
+      "id": 244,
+      "question": "Website Monitoring 與 Website Watermarking 的差異是什麼？",
+      "answer": "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+      "explanation": "手冊分別說明內容變更監控及嵌入 Token 的浮水印機制。",
+      "category": "品牌保護",
+      "section": "深入實務",
+      "options": [
+        "前者只能監控郵件、後者只能監控手機",
+        "前者監控指定網頁內容變化；後者透過 Token 協助偵測抓取",
+        "兩者都只是更改網站配色",
+        "兩者都是 DNS 註冊商"
+      ],
+      "correct": 1,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5｜Website Monitoring／Watermarking",
+      "references": []
+    },
+    {
+      "id": 245,
+      "question": "為什麼新增白名單前應確認 URL 歸屬？",
+      "answer": "避免將真正惡意的偽冒站排除於監控或處理",
+      "explanation": "手冊說明白名單用於排除官方資產誤判，實務上需審核。",
+      "category": "平台操作",
+      "section": "深入實務",
+      "options": [
+        "避免將真正惡意的偽冒站排除於監控或處理",
+        "因為白名單會自動加速所有網頁",
+        "因為 URL 不可能偽造",
+        "因為所有白名單都是永久有效"
+      ],
+      "correct": 0,
+      "explanation_source": "品牌偽冒模組手冊｜Whitelist URLs",
+      "references": []
+    },
+    {
+      "id": 246,
+      "question": "從 Takedown Tracker 看到 Closed，還需要保留什麼佐證？",
+      "answer": "案件詳情、處理時間、下架結果與必要截圖",
+      "explanation": "案件狀態適合搭配事證、第三方處理結果及合約要求驗證。",
+      "category": "平台操作",
+      "section": "深入實務",
+      "options": [
+        "只保留網站 Logo",
+        "只記錄使用者桌布",
+        "不需要任何紀錄",
+        "案件詳情、處理時間、下架結果與必要截圖"
+      ],
+      "correct": 3,
+      "explanation_source": "品牌偽冒模組手冊與實務",
+      "references": []
+    },
+    {
+      "id": 247,
+      "question": "Threat Lens 掃描檔案時，最應避免的做法是什麼？",
+      "answer": "未確認資料敏感性就上傳客戶機密檔案",
+      "explanation": "手冊僅描述 URL／檔案掃描功能，未保證上傳資料的保存或機密處理條件。",
+      "category": "威脅情資",
+      "section": "深入實務",
+      "options": [
+        "先確認上傳規範",
+        "閱讀檢測結果與限制",
+        "未確認資料敏感性就上傳客戶機密檔案",
+        "使用經授權的測試檔"
+      ],
+      "correct": 2,
+      "explanation_source": "Cyble Vision 操作手冊 v1.5 與安全實務",
+      "references": []
+    }
+  ]
+}
